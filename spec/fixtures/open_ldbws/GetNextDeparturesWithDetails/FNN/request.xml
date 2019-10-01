@@ -1,0 +1,22 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://thalesgroup.com/RTTI/2013-11-28/Token/types" xmlns:ldb="http://thalesgroup.com/RTTI/2017-10-01/ldb/">
+   <soapenv:Header>
+      <typ:AccessToken>
+         <typ:TokenValue>***</typ:TokenValue>
+      </typ:AccessToken>
+   </soapenv:Header>
+   <soapenv:Body>
+      <ldb:GetNextDeparturesWithDetailsRequest>
+         <ldb:crs>FNN</ldb:crs>
+         <ldb:filterList>
+            <!--1 or more repetitions:-->
+            <ldb:crs>RDG</ldb:crs>
+         </ldb:filterList>
+         <!--Optional:-->
+         <ldb:timeOffset>0</ldb:timeOffset>
+         <!--Optional:-->
+         <ldb:timeWindow>120</ldb:timeWindow>
+      </ldb:GetNextDeparturesWithDetailsRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+SOAPAction: "http://thalesgroup.com/RTTI/2015-05-14/ldb/GetNextDeparturesWithDetails"

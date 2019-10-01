@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <soap:Body>
+    <GetNextDeparturesWithDetailsResponse xmlns="http://thalesgroup.com/RTTI/2017-10-01/ldb/">
+      <DeparturesBoard xmlns:lt="http://thalesgroup.com/RTTI/2012-01-13/ldb/types" xmlns:lt2="http://thalesgroup.com/RTTI/2014-02-20/ldb/types" xmlns:lt3="http://thalesgroup.com/RTTI/2015-05-14/ldb/types" xmlns:lt4="http://thalesgroup.com/RTTI/2015-11-27/ldb/types" xmlns:lt5="http://thalesgroup.com/RTTI/2016-02-16/ldb/types" xmlns:lt6="http://thalesgroup.com/RTTI/2017-02-02/ldb/types" xmlns:lt7="http://thalesgroup.com/RTTI/2017-10-01/ldb/types">
+        <lt4:generatedAt>2019-10-01T13:43:43.470146+01:00</lt4:generatedAt>
+        <lt4:locationName>Farnborough (Main)</lt4:locationName>
+        <lt4:crs>FNB</lt4:crs>
+        <lt4:nrccMessages>
+          <lt:message>Disruption at London Waterloo. More information can be found in &lt;A href=&quot;http://nationalrail.co.uk/service_disruptions/232245.aspx &quot;&gt;Latest Travel News.&lt;/A&gt;</lt:message>
+        </lt4:nrccMessages>
+        <lt4:platformAvailable>true</lt4:platformAvailable>
+        <lt7:departures>
+          <lt7:destination crs="WAT">
+            <lt7:service>
+              <lt4:sta>13:45</lt4:sta>
+              <lt4:eta>On time</lt4:eta>
+              <lt4:std>13:46</lt4:std>
+              <lt4:etd>On time</lt4:etd>
+              <lt4:platform>1</lt4:platform>
+              <lt4:operator>South Western Railway</lt4:operator>
+              <lt4:operatorCode>SW</lt4:operatorCode>
+              <lt4:serviceType>train</lt4:serviceType>
+              <lt4:serviceID>TB3zUbbmfnko9BMNayS0bQ==</lt4:serviceID>
+              <lt5:origin>
+                <lt4:location>
+                  <lt4:locationName>Basingstoke</lt4:locationName>
+                  <lt4:crs>BSK</lt4:crs>
+                </lt4:location>
+              </lt5:origin>
+              <lt5:destination>
+                <lt4:location>
+                  <lt4:locationName>London Waterloo</lt4:locationName>
+                  <lt4:crs>WAT</lt4:crs>
+                </lt4:location>
+              </lt5:destination>
+              <lt7:subsequentCallingPoints>
+                <lt7:callingPointList>
+                  <lt7:callingPoint>
+                    <lt7:locationName>Brookwood</lt7:locationName>
+                    <lt7:crs>BKO</lt7:crs>
+                    <lt7:st>13:53</lt7:st>
+                    <lt7:et>On time</lt7:et>
+                  </lt7:callingPoint>
+                  <lt7:callingPoint>
+                    <lt7:locationName>Woking</lt7:locationName>
+                    <lt7:crs>WOK</lt7:crs>
+                    <lt7:st>13:58</lt7:st>
+                    <lt7:et>On time</lt7:et>
+                  </lt7:callingPoint>
+                  <lt7:callingPoint>
+                    <lt7:locationName>Weybridge</lt7:locationName>
+                    <lt7:crs>WYB</lt7:crs>
+                    <lt7:st>14:05</lt7:st>
+                    <lt7:et>On time</lt7:et>
+                  </lt7:callingPoint>
+                  <lt7:callingPoint>
+                    <lt7:locationName>Walton-on-Thames</lt7:locationName>
+                    <lt7:crs>WAL</lt7:crs>
+                    <lt7:st>14:09</lt7:st>
+                    <lt7:et>On time</lt7:et>
+                  </lt7:callingPoint>
+                  <lt7:callingPoint>
+                    <lt7:locationName>Surbiton</lt7:locationName>
+                    <lt7:crs>SUR</lt7:crs>
+                    <lt7:st>14:16</lt7:st>
+                    <lt7:et>On time</lt7:et>
+                  </lt7:callingPoint>
+                  <lt7:callingPoint>
+                    <lt7:locationName>London Waterloo</lt7:locationName>
+                    <lt7:crs>WAT</lt7:crs>
+                    <lt7:st>14:38</lt7:st>
+                    <lt7:et>On time</lt7:et>
+                  </lt7:callingPoint>
+                </lt7:callingPointList>
+              </lt7:subsequentCallingPoints>
+            </lt7:service>
+          </lt7:destination>
+          <lt7:destination crs="LDS">
+            <lt7:service xsi:nil="true"/>
+          </lt7:destination>
+        </lt7:departures>
+      </DeparturesBoard>
+    </GetNextDeparturesWithDetailsResponse>
+  </soap:Body>
+</soap:Envelope>

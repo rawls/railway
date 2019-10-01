@@ -1,0 +1,84 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'nokogiri'
+require 'net/http'
+require 'uri'
+require 'csv'
+require 'yaml'
+require 'pathname'
+
+YAML_PATH = Pathname.new(__FILE__).realpath.parent.parent + 'config' + 'stations.yml'
+
+# Updates the project's config/stations.yml with the latest data
+def update_station_list
+  log('This script overwrites your local copy of config/stations.yml with the latest data from nationalrail.co.uk and '\
+    'railwaycodes.org.uk')
+  log('Press [ENTER] to continue or [Ctrl+c] to quit')
+  gets
+  # Fetch data from the web
+  stations  = fetch_stations
+  locations = fetch_locations
+  # Add location data to the current active station list
+  stations.each { |crs, data| data.merge!(locations[crs]) if locations[crs] }
+  write_yaml(stations)
+  log('Your station list has been updated')
+end
+
+# Gets the current list of stations from the national rail website's station codes csv file
+def fetch_stations
+  log(' - Fetching station list...', false)
+  results = {}
+  response = get_response('https://www.nationalrail.co.uk/static/documents/content/station_codes.csv')
+  CSV.new(response, headers: true).each do |row|
+    results[row['CRS Code']] ||= {}
+    results[row['CRS Code']][:name] = row['Station Name']
+  end
+  log('DONE')
+  results
+end
+
+# Scrapes location data for stations from the railwaycodes.org.uk website
+def fetch_locations
+  log(' - Fetching location data (takes ~25s)...', false)
+  results = {}
+  ('a'..'z').to_a.each do |letter|
+    response = get_response("http://www.railwaycodes.org.uk/stations/station#{letter}.shtm")
+    Nokogiri::HTML(response).xpath('//table/tr').each do |row|
+      cols = row.xpath('./td').map(&:text)
+      crs  = row.xpath('./td').first.xpath('./a').first['name'].upcase rescue nil
+      unless [crs, cols[6], cols[7]].include?(nil) || [crs, cols[6], cols[7]].include?('')
+        results[crs] = { latitude: cols[7].to_f, longitude: cols[6].to_f }
+      end
+    end
+    sleep(1) # be nice to railwaycodes.org.uk
+  end
+  log('DONE')
+  results
+end
+
+# Write the stations.yml to disk
+def write_yaml(stations)
+  log(' - Writing YAML...', false)
+  File.open(YAML_PATH.to_s, 'w') { |file| file.write(stations.to_yaml) }
+  log('DONE')
+end
+
+# Returns the response body for a GET request
+def get_response(url)
+  uri = URI(url)
+  Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https') do |http|
+    request = Net::HTTP::Get.new uri
+    return http.request(request).body
+  end
+end
+
+# Puts without a linebreak
+def log(str, newline = true)
+  return puts(str) if newline
+
+  print str.ljust(60, ' ')
+  STDOUT.flush
+end
+
+update_station_list

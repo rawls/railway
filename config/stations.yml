@@ -1,0 +1,10243 @@
+---
+ABW:
+  :name: Abbey Wood
+  :latitude: 51.4908
+  :longitude: 0.1204
+ABE:
+  :name: Aber
+  :latitude: 51.5755
+  :longitude: -3.2305
+ACY:
+  :name: Abercynon
+  :latitude: 51.6434
+  :longitude: -3.3294
+ABA:
+  :name: Aberdare
+  :latitude: 51.7147
+  :longitude: -3.4415
+ABD:
+  :name: Aberdeen
+  :latitude: 57.1435
+  :longitude: -2.0985
+AUR:
+  :name: Aberdour
+  :latitude: 56.0545
+  :longitude: -3.3005
+AVY:
+  :name: Aberdovey
+  :latitude: 52.5443
+  :longitude: -4.0561
+ABH:
+  :name: Abererch
+  :latitude: 52.8985
+  :longitude: -4.3747
+AGV:
+  :name: Abergavenny
+  :latitude: 51.8177
+  :longitude: -3.0091
+AGL:
+  :name: Abergele & Pensarn
+  :latitude: 53.2949
+  :longitude: -3.5824
+AYW:
+  :name: Aberystwyth
+  :latitude: 52.414
+  :longitude: -4.0817
+ACR:
+  :name: Accrington
+  :latitude: 53.7532
+  :longitude: -2.3698
+AAT:
+  :name: Achanalt
+  :latitude: 57.6098
+  :longitude: -4.9131
+ACN:
+  :name: Achnasheen
+  :latitude: 57.5796
+  :longitude: -5.0721
+ACH:
+  :name: Achnashellach
+  :latitude: 57.4816
+  :longitude: -5.3326
+ACK:
+  :name: Acklington
+  :latitude: 55.3073
+  :longitude: -1.6523
+ACL:
+  :name: Acle
+  :latitude: 52.6347
+  :longitude: 1.5429
+ACG:
+  :name: Acocks Green
+  :latitude: 52.4495
+  :longitude: -1.8192
+ACB:
+  :name: Acton Bridge (Cheshire)
+  :latitude: 53.2667
+  :longitude: -2.6031
+ACC:
+  :name: Acton Central
+  :latitude: 51.5087
+  :longitude: -0.2629
+AML:
+  :name: Acton Main Line
+  :latitude: 51.5172
+  :longitude: -0.267
+ADD:
+  :name: Adderley Park
+  :latitude: 52.4835
+  :longitude: -1.8545
+ADW:
+  :name: Addiewell
+  :latitude: 55.844
+  :longitude: -3.6048
+ASN:
+  :name: Addlestone
+  :latitude: 51.373
+  :longitude: -0.4844
+ADM:
+  :name: Adisham
+  :latitude: 51.2413
+  :longitude: 1.1987
+ADC:
+  :name: Adlington (Cheshire)
+  :latitude: 53.3198
+  :longitude: -2.1342
+ADL:
+  :name: Adlington (Lancs)
+  :latitude: 53.6131
+  :longitude: -2.6032
+AWK:
+  :name: Adwick
+  :latitude: 53.5722
+  :longitude: -1.1798
+AIG:
+  :name: Aigburth
+  :latitude: 53.3648
+  :longitude: -2.9272
+ANS:
+  :name: Ainsdale
+  :latitude: 53.6021
+  :longitude: -3.0427
+AIN:
+  :name: Aintree
+  :latitude: 53.4736
+  :longitude: -2.9562
+AIR:
+  :name: Airbles
+  :latitude: 55.7822
+  :longitude: -3.9943
+ADR:
+  :name: Airdrie
+  :latitude: 55.8641
+  :longitude: -3.9813
+AYP:
+  :name: Albany Park
+  :latitude: 51.4359
+  :longitude: 0.1271
+ALB:
+  :name: Albrighton
+  :latitude: 52.6381
+  :longitude: -2.269
+ALD:
+  :name: Alderley Edge
+  :latitude: 53.3039
+  :longitude: -2.2368
+AMT:
+  :name: Aldermaston
+  :latitude: 51.4023
+  :longitude: -1.1389
+AHT:
+  :name: Aldershot
+  :latitude: 51.2465
+  :longitude: -0.7597
+AGT:
+  :name: Aldrington
+  :latitude: 50.8379
+  :longitude: -0.1827
+AAP:
+  :name: Alexandra Palace
+  :latitude: 51.5978
+  :longitude: -0.1206
+AXP:
+  :name: Alexandra Parade
+  :latitude: 55.8633
+  :longitude: -4.2108
+ALX:
+  :name: Alexandria
+  :latitude: 55.9848
+  :longitude: -4.5772
+ALF:
+  :name: Alfreton
+  :latitude: 53.1009
+  :longitude: -1.3701
+ALW:
+  :name: Allens West
+  :latitude: 54.5249
+  :longitude: -1.3616
+ALO:
+  :name: Alloa
+  :latitude: 56.1179
+  :longitude: -3.7872
+ASS:
+  :name: Alness
+  :latitude: 57.6947
+  :longitude: -4.2494
+ALM:
+  :name: Alnmouth
+  :latitude: 55.3928
+  :longitude: -1.6365
+ALR:
+  :name: Alresford (Essex)
+  :latitude: 51.8539
+  :longitude: 0.9966
+ASG:
+  :name: Alsager
+  :latitude: 53.0932
+  :longitude: -2.2991
+ALN:
+  :name: Althorne (Essex)
+  :latitude: 51.6481
+  :longitude: 0.7535
+ALP:
+  :name: Althorpe
+  :latitude: 53.5856
+  :longitude: -0.7332
+ABC:
+  :name: Altnabreac
+  :latitude: 58.3881
+  :longitude: -3.7054
+AON:
+  :name: Alton
+  :latitude: 51.1523
+  :longitude: -0.9668
+ALT:
+  :name: Altrincham
+  :latitude: 53.3872
+  :longitude: -2.3477
+ALV:
+  :name: Alvechurch
+  :latitude: 52.3475
+  :longitude: -1.9675
+AMB:
+  :name: Ambergate
+  :latitude: 53.0604
+  :longitude: -1.4795
+AMY:
+  :name: Amberley
+  :latitude: 50.8963
+  :longitude: -0.5427
+AMR:
+  :name: Amersham
+  :latitude: 51.6741
+  :longitude: -0.6075
+AMF:
+  :name: Ammanford
+  :latitude: 51.7959
+  :longitude: -3.9965
+ANC:
+  :name: Ancaster
+  :latitude: 52.9879
+  :longitude: -0.5338
+AND:
+  :name: Anderston
+  :latitude: 55.8602
+  :longitude: -4.2708
+ADV:
+  :name: Andover
+  :latitude: 51.2116
+  :longitude: -1.4923
+ANZ:
+  :name: Anerley
+  :latitude: 51.4125
+  :longitude: -0.0651
+AGR:
+  :name: Angel Road
+  :latitude: 51.6123
+  :longitude: -0.0493
+ANG:
+  :name: Angmering
+  :latitude: 50.8166
+  :longitude: -0.4886
+ANN:
+  :name: Annan
+  :latitude: 54.9835
+  :longitude: -3.2623
+ANL:
+  :name: Anniesland
+  :latitude: 55.8894
+  :longitude: -4.3212
+AFV:
+  :name: Ansdell & Fairhaven
+  :latitude: 53.742
+  :longitude: -2.9931
+APY:
+  :name: Apperley Bridge
+  :latitude: 53.8419
+  :longitude: -1.7059
+APP:
+  :name: Appleby
+  :latitude: 54.5803
+  :longitude: -2.4866
+APD:
+  :name: Appledore (Kent)
+  :latitude: 51.0338
+  :longitude: 0.8166
+APF:
+  :name: Appleford
+  :latitude: 51.6393
+  :longitude: -1.2423
+APB:
+  :name: Appley Bridge
+  :latitude: 53.5786
+  :longitude: -2.7192
+APS:
+  :name: Apsley
+  :latitude: 51.7326
+  :longitude: -0.4633
+ARB:
+  :name: Arbroath
+  :latitude: 56.5592
+  :longitude: -2.5895
+ARD:
+  :name: Ardgay
+  :latitude: 57.8811
+  :longitude: -4.3623
+AUI:
+  :name: Ardlui
+  :latitude: 56.3019
+  :longitude: -4.7213
+ADS:
+  :name: Ardrossan Harbour
+  :latitude: 55.6401
+  :longitude: -4.8215
+ASB:
+  :name: Ardrossan South Beach
+  :latitude: 55.6412
+  :longitude: -4.8006
+ADN:
+  :name: Ardrossan Town
+  :latitude: 55.6399
+  :longitude: -4.8126
+ADK:
+  :name: Ardwick
+  :latitude: 53.4719
+  :longitude: -2.2154
+AGS:
+  :name: Argyle Street
+  :latitude: 55.8578
+  :longitude: -4.2499
+ARG:
+  :name: Arisaig
+  :latitude: 56.9129
+  :longitude: -5.8393
+ARL:
+  :name: Arlesey
+  :latitude: 52.0259
+  :longitude: -0.2663
+ARM:
+  :name: Armadale (West Lothian)
+  :latitude: 55.8848
+  :longitude: -3.698
+AWT:
+  :name: Armathwaite
+  :latitude: 54.8092
+  :longitude: -2.7724
+ARN:
+  :name: Arnside
+  :latitude: 54.2023
+  :longitude: -2.8282
+ARR:
+  :name: Arram
+  :latitude: 53.8842
+  :longitude: -0.4266
+ART:
+  :name: Arrochar & Tarbet
+  :latitude: 56.2028
+  :longitude: -4.7239
+ARU:
+  :name: Arundel
+  :latitude: 50.8474
+  :longitude: -0.5468
+ACT:
+  :name: Ascot (Berks)
+  :latitude: 51.4063
+  :longitude: -0.6759
+AUW:
+  :name: Ascott-under-Wychwood
+  :latitude: 51.8675
+  :longitude: -1.5647
+ASH:
+  :name: Ash
+  :latitude: 51.2496
+  :longitude: -0.7123
+AHV:
+  :name: Ash Vale
+  :latitude: 51.2724
+  :longitude: -0.7216
+ABY:
+  :name: Ashburys
+  :latitude: 53.4718
+  :longitude: -2.1947
+ASC:
+  :name: Ashchurch for Tewkesbury
+  :latitude: 51.9983
+  :longitude: -2.1091
+ASF:
+  :name: Ashfield
+  :latitude: 55.8889
+  :longitude: -4.248
+AFS:
+  :name: Ashford (Surrey)
+  :latitude: 51.4366
+  :longitude: -0.4681
+AFK:
+  :name: Ashford International
+  :latitude: 51.1433
+  :longitude: 0.8749
+ASI:
+  :name: Ashford International (Eurostar)
+ASY:
+  :name: Ashley
+  :latitude: 53.3552
+  :longitude: -2.3418
+AHD:
+  :name: Ashtead
+  :latitude: 51.3178
+  :longitude: -0.3078
+AHN:
+  :name: Ashton-under-Lyne
+  :latitude: 53.4911
+  :longitude: -2.0923
+AHS:
+  :name: Ashurst (Kent)
+  :latitude: 51.1298
+  :longitude: 0.1526
+ANF:
+  :name: Ashurst New Forest
+  :latitude: 50.8898
+  :longitude: -1.5267
+AWM:
+  :name: Ashwell & Morden
+  :latitude: 52.0307
+  :longitude: -0.1096
+ASK:
+  :name: Askam
+  :latitude: 54.1891
+  :longitude: -3.2046
+ALK:
+  :name: Aslockton
+  :latitude: 52.9516
+  :longitude: -0.8984
+ASP:
+  :name: Aspatria
+  :latitude: 54.7586
+  :longitude: -3.3327
+APG:
+  :name: Aspley Guise
+  :latitude: 52.0212
+  :longitude: -0.6318
+AST:
+  :name: Aston
+  :latitude: 52.5043
+  :longitude: -1.8722
+ATH:
+  :name: Atherstone
+  :latitude: 52.5787
+  :longitude: -1.5521
+ATN:
+  :name: Atherton
+  :latitude: 53.5292
+  :longitude: -2.4782
+ATT:
+  :name: Attadale
+  :latitude: 57.3944
+  :longitude: -5.4556
+ATB:
+  :name: Attenborough
+  :latitude: 52.9067
+  :longitude: -1.2311
+ATL:
+  :name: Attleborough
+  :latitude: 52.5144
+  :longitude: 1.0211
+AUK:
+  :name: Auchinleck
+  :latitude: 55.4701
+  :longitude: -4.2967
+AUD:
+  :name: Audley End
+  :latitude: 52.0047
+  :longitude: 0.2071
+AUG:
+  :name: Aughton Park
+  :latitude: 53.5535
+  :longitude: -2.8954
+AVM:
+  :name: Aviemore
+  :latitude: 57.1881
+  :longitude: -3.8289
+AVF:
+  :name: Avoncliff
+  :latitude: 51.3396
+  :longitude: -2.2823
+AVN:
+  :name: Avonmouth
+  :latitude: 51.5002
+  :longitude: -2.6995
+AXM:
+  :name: Axminster
+  :latitude: 50.7791
+  :longitude: -3.0046
+AYS:
+  :name: Aylesbury
+  :latitude: 51.8141
+  :longitude: -0.8157
+AVP:
+  :name: Aylesbury Vale Parkway
+  :latitude: 51.8327
+  :longitude: -0.8623
+AYL:
+  :name: Aylesford
+  :latitude: 51.3016
+  :longitude: 0.4666
+AYH:
+  :name: Aylesham
+  :latitude: 51.2272
+  :longitude: 1.2101
+AYR:
+  :name: Ayr
+  :latitude: 55.4582
+  :longitude: -4.6253
+BAC:
+  :name: Bache
+  :latitude: 53.2094
+  :longitude: -2.8913
+BAJ:
+  :name: Baglan
+  :latitude: 51.6145
+  :longitude: -3.8096
+BAG:
+  :name: Bagshot
+  :latitude: 51.3648
+  :longitude: -0.6884
+BLD:
+  :name: Baildon
+  :latitude: 53.8503
+  :longitude: -1.7538
+BIO:
+  :name: Baillieston
+  :latitude: 55.8446
+  :longitude: -4.1139
+BAB:
+  :name: Balcombe
+  :latitude: 51.0556
+  :longitude: -0.1369
+BDK:
+  :name: Baldock
+  :latitude: 51.993
+  :longitude: -0.1876
+BAL:
+  :name: Balham
+  :latitude: 51.4429
+  :longitude: -0.1516
+BHC:
+  :name: Balloch
+  :latitude: 56.0029
+  :longitude: -4.5835
+BSI:
+  :name: Balmossie
+  :latitude: 56.4748
+  :longitude: -2.8386
+BMB:
+  :name: Bamber Bridge
+  :latitude: 53.7269
+  :longitude: -2.6618
+BAM:
+  :name: Bamford
+  :latitude: 53.3397
+  :longitude: -1.6892
+BNV:
+  :name: Banavie
+  :latitude: 56.8439
+  :longitude: -5.0961
+BAN:
+  :name: Banbury
+  :latitude: 52.0608
+  :longitude: -1.3283
+BNG:
+  :name: Bangor (Gwynedd)
+  :latitude: 53.2226
+  :longitude: -4.1356
+BAH:
+  :name: Bank Hall
+  :latitude: 53.4377
+  :longitude: -2.9877
+BAD:
+  :name: Banstead
+  :latitude: 51.3294
+  :longitude: -0.2134
+BSS:
+  :name: Barassie
+  :latitude: 55.5606
+  :longitude: -4.6504
+ZBB:
+  :name: Barbican
+  :latitude: 51.5201
+  :longitude: -0.0981
+BLL:
+  :name: Bardon Mill
+  :latitude: 54.9745
+  :longitude: -2.3464
+BAR:
+  :name: Bare Lane
+  :latitude: 54.0745
+  :longitude: -2.8355
+BGI:
+  :name: Bargeddie
+  :latitude: 55.8513
+  :longitude: -4.0734
+BGD:
+  :name: Bargoed
+  :latitude: 51.6933
+  :longitude: -3.2303
+BKG:
+  :name: Barking
+  :latitude: 51.5394
+  :longitude: 0.0807
+BRT:
+  :name: Barlaston
+  :latitude: 52.9425
+  :longitude: -2.1679
+BMG:
+  :name: Barming
+  :latitude: 51.2849
+  :longitude: 0.479
+BRM:
+  :name: Barmouth
+  :latitude: 52.7224
+  :longitude: -4.0563
+BNH:
+  :name: Barnehurst
+  :latitude: 51.4651
+  :longitude: 0.1597
+BNS:
+  :name: Barnes
+  :latitude: 51.4668
+  :longitude: -0.2411
+BNI:
+  :name: Barnes Bridge
+  :latitude: 51.4719
+  :longitude: -0.2527
+BTB:
+  :name: Barnetby
+  :latitude: 53.5756
+  :longitude: -0.4085
+BAA:
+  :name: Barnham
+  :latitude: 50.8311
+  :longitude: -0.6408
+BNL:
+  :name: Barnhill
+  :latitude: 55.8775
+  :longitude: -4.2232
+BNY:
+  :name: Barnsley
+  :latitude: 53.5546
+  :longitude: -1.4773
+BNP:
+  :name: Barnstaple
+  :latitude: 51.0739
+  :longitude: -4.0636
+BTG:
+  :name: Barnt Green
+  :latitude: 52.3612
+  :longitude: -1.9923
+BRR:
+  :name: Barrhead
+  :latitude: 55.8038
+  :longitude: -4.3971
+BRL:
+  :name: Barrhill
+  :latitude: 55.0965
+  :longitude: -4.7812
+BAV:
+  :name: Barrow Haven
+  :latitude: 53.6981
+  :longitude: -0.3922
+BIF:
+  :name: Barrow-in-Furness
+  :latitude: 54.1192
+  :longitude: -3.2262
+BWS:
+  :name: Barrow-Upon-Soar
+  :latitude: 52.7494
+  :longitude: -1.1463
+BRY:
+  :name: Barry
+  :latitude: 51.3969
+  :longitude: -3.2848
+BYD:
+  :name: Barry Docks
+  :latitude: 51.4021
+  :longitude: -3.2641
+BYI:
+  :name: Barry Island
+  :latitude: 51.3925
+  :longitude: -3.274
+BYL:
+  :name: Barry Links
+  :latitude: 56.4928
+  :longitude: -2.7457
+BAU:
+  :name: Barton-on-Humber
+  :latitude: 53.689
+  :longitude: -0.4431
+BSO:
+  :name: Basildon
+  :latitude: 51.5684
+  :longitude: 0.4571
+BSK:
+  :name: Basingstoke
+  :latitude: 51.2682
+  :longitude: -1.0873
+BBL:
+  :name: Bat & Ball
+  :latitude: 51.2899
+  :longitude: 0.1939
+BTH:
+  :name: Bath Spa
+  :latitude: 51.3778
+  :longitude: -2.3571
+BHG:
+  :name: Bathgate
+BTL:
+  :name: Batley
+  :latitude: 53.7099
+  :longitude: -1.6232
+BTT:
+  :name: Battersby
+  :latitude: 54.4574
+  :longitude: -1.0939
+BAK:
+  :name: Battersea Park
+  :latitude: 51.4774
+  :longitude: -0.1476
+BAT:
+  :name: Battle
+  :latitude: 50.913
+  :longitude: 0.4949
+BLB:
+  :name: Battlesbridge
+  :latitude: 51.625
+  :longitude: 0.5656
+BAY:
+  :name: Bayford
+  :latitude: 51.7583
+  :longitude: -0.0956
+BCF:
+  :name: Beaconsfield
+  :latitude: 51.6114
+  :longitude: -0.6437
+BER:
+  :name: Bearley
+  :latitude: 52.2458
+  :longitude: -1.7496
+BRN:
+  :name: Bearsden
+  :latitude: 55.9166
+  :longitude: -4.3328
+BSD:
+  :name: Bearsted
+  :latitude: 51.2757
+  :longitude: 0.5777
+BSL:
+  :name: Beasdale
+  :latitude: 56.9001
+  :longitude: -5.7637
+BEU:
+  :name: Beaulieu Road
+  :latitude: 50.8555
+  :longitude: -1.5044
+BEL:
+  :name: Beauly
+  :latitude: 57.4777
+  :longitude: -4.4688
+BEB:
+  :name: Bebington
+  :latitude: 53.3579
+  :longitude: -3.0034
+BCC:
+  :name: Beccles
+  :latitude: 52.4583
+  :longitude: 1.5693
+BEC:
+  :name: Beckenham Hill
+  :latitude: 51.4246
+  :longitude: -0.0161
+BKJ:
+  :name: Beckenham Junction
+  :latitude: 51.4114
+  :longitude: -0.0262
+BDM:
+  :name: Bedford
+  :latitude: 52.1364
+  :longitude: -0.4795
+BSJ:
+  :name: Bedford St Johns
+  :latitude: 52.1296
+  :longitude: -0.4674
+BDH:
+  :name: Bedhampton
+  :latitude: 50.8539
+  :longitude: -0.9967
+BMT:
+  :name: Bedminster
+  :latitude: 51.4411
+  :longitude: -2.5927
+BEH:
+  :name: Bedworth
+  :latitude: 52.4793
+  :longitude: -1.4677
+BDW:
+  :name: Bedwyn
+  :latitude: 51.3796
+  :longitude: -1.5989
+BEE:
+  :name: Beeston
+  :latitude: 52.9206
+  :longitude: -1.2078
+BKS:
+  :name: Bekesbourne
+  :latitude: 51.2615
+  :longitude: 1.1366
+BLV:
+  :name: Belle Vue
+  :latitude: 53.4622
+  :longitude: -2.1804
+BLG:
+  :name: Bellgrove
+  :latitude: 55.8558
+  :longitude: -4.2242
+BGM:
+  :name: Bellingham
+  :latitude: 51.4332
+  :longitude: -0.0195
+BLH:
+  :name: Bellshill
+  :latitude: 55.8171
+  :longitude: -4.0244
+BLM:
+  :name: Belmont
+  :latitude: 51.3439
+  :longitude: -0.199
+BLP:
+  :name: Belper
+  :latitude: 53.0242
+  :longitude: -1.4823
+BEG:
+  :name: Beltring
+  :latitude: 51.2045
+  :longitude: 0.4028
+BVD:
+  :name: Belvedere
+  :latitude: 51.4922
+  :longitude: 0.1521
+BEM:
+  :name: Bempton
+  :latitude: 54.1281
+  :longitude: -0.1804
+BEY:
+  :name: Ben Rhydding
+  :latitude: 53.9258
+  :longitude: -1.7975
+BEF:
+  :name: Benfleet
+  :latitude: 51.5441
+  :longitude: 0.5615
+BEN:
+  :name: Bentham
+  :latitude: 54.1158
+  :longitude: -2.5128
+BTY:
+  :name: Bentley (Hants)
+  :latitude: 51.1813
+  :longitude: -0.8682
+BYK:
+  :name: Bentley (South Yorks)
+  :latitude: 53.5438
+  :longitude: -1.1508
+BAS:
+  :name: Bere Alston
+  :latitude: 50.4863
+  :longitude: -4.1998
+BFE:
+  :name: Bere Ferrers
+  :latitude: 50.4513
+  :longitude: -4.1815
+BKM:
+  :name: Berkhamsted
+  :latitude: 51.7635
+  :longitude: -0.5623
+BKW:
+  :name: Berkswell
+  :latitude: 52.3963
+  :longitude: -1.6414
+BEP:
+  :name: Bermuda Park
+  :latitude: 52.5033
+  :longitude: -1.4727
+BYA:
+  :name: Berney Arms
+  :latitude: 52.5899
+  :longitude: 1.6298
+BBW:
+  :name: Berry Brow
+  :latitude: 53.6212
+  :longitude: -1.7934
+BRS:
+  :name: Berrylands
+  :latitude: 51.3991
+  :longitude: -0.281
+BRK:
+  :name: Berwick (Sussex)
+  :latitude: 50.8405
+  :longitude: 0.1658
+BWK:
+  :name: Berwick-upon-Tweed
+  :latitude: 55.7739
+  :longitude: -2.0112
+BES:
+  :name: Bescar Lane
+  :latitude: 53.6237
+  :longitude: -2.9143
+BSC:
+  :name: Bescot Stadium
+  :latitude: 52.5629
+  :longitude: -1.9908
+BTO:
+  :name: Betchworth
+  :latitude: 51.2479
+  :longitude: -0.2676
+BET:
+  :name: Bethnal Green
+  :latitude: 51.5238
+  :longitude: -0.0598
+BYC:
+  :name: Betws-y-Coed
+  :latitude: 53.0928
+  :longitude: -3.8005
+BEV:
+  :name: Beverley
+  :latitude: 53.8423
+  :longitude: -0.423
+BEX:
+  :name: Bexhill
+  :latitude: 50.8409
+  :longitude: 0.4751
+BXY:
+  :name: Bexley
+  :latitude: 51.4402
+  :longitude: 0.1477
+BXH:
+  :name: Bexleyheath
+  :latitude: 51.4636
+  :longitude: 0.1329
+BCS:
+  :name: Bicester North
+  :latitude: 51.9037
+  :longitude: -1.1517
+BIT:
+  :name: Bicester Village
+BKL:
+  :name: Bickley
+  :latitude: 51.4001
+  :longitude: 0.0449
+BID:
+  :name: Bidston
+  :latitude: 53.4093
+  :longitude: -3.0779
+BIW:
+  :name: Biggleswade
+  :latitude: 52.0848
+  :longitude: -0.2609
+BBK:
+  :name: Bilbrook
+  :latitude: 52.6238
+  :longitude: -2.1862
+BIC:
+  :name: Billericay
+  :latitude: 51.6291
+  :longitude: 0.4179
+BIL:
+  :name: Billingham (Cleveland)
+  :latitude: 54.6056
+  :longitude: -1.2797
+BIG:
+  :name: Billingshurst
+  :latitude: 51.0153
+  :longitude: -0.4496
+BIN:
+  :name: Bingham
+  :latitude: 52.9543
+  :longitude: -0.9515
+BIY:
+  :name: Bingley
+  :latitude: 53.8487
+  :longitude: -1.8375
+BCG:
+  :name: Birchgrove
+  :latitude: 51.5216
+  :longitude: -3.2023
+BCH:
+  :name: Birchington-on-sea
+  :latitude: 51.3776
+  :longitude: 1.3012
+BWD:
+  :name: Birchwood
+  :latitude: 53.4127
+  :longitude: -2.5255
+BIK:
+  :name: Birkbeck
+  :latitude: 51.4035
+  :longitude: -0.0565
+BDL:
+  :name: Birkdale
+  :latitude: 53.6339
+  :longitude: -3.0146
+BKC:
+  :name: Birkenhead Central
+  :latitude: 53.3885
+  :longitude: -3.0208
+BKQ:
+  :name: Birkenhead Hamilton Square
+  :latitude: 53.3947
+  :longitude: -3.014
+BKN:
+  :name: Birkenhead North
+  :latitude: 53.4043
+  :longitude: -3.0575
+BKP:
+  :name: Birkenhead Park
+  :latitude: 53.3975
+  :longitude: -3.0396
+BHI:
+  :name: Birmingham International
+  :latitude: 52.4501
+  :longitude: -1.7245
+BMO:
+  :name: Birmingham Moor Street
+  :latitude: 52.4786
+  :longitude: -1.8917
+BHM:
+  :name: Birmingham New Street
+  :latitude: 52.4779
+  :longitude: -1.8987
+BSW:
+  :name: Birmingham Snow Hill
+  :latitude: 52.4825
+  :longitude: -1.8982
+BIA:
+  :name: Bishop Auckland
+  :latitude: 54.6573
+  :longitude: -1.6782
+BBG:
+  :name: Bishopbriggs
+  :latitude: 55.9041
+  :longitude: -4.2245
+BIS:
+  :name: Bishops Stortford
+  :latitude: 51.8666
+  :longitude: 0.1649
+BIP:
+  :name: Bishopstone (Sussex)
+  :latitude: 50.7802
+  :longitude: 0.0825
+BPT:
+  :name: Bishopton (Strathclyde)
+  :latitude: 55.9024
+  :longitude: -4.5008
+BTE:
+  :name: Bitterne
+  :latitude: 50.9182
+  :longitude: -1.3771
+BBN:
+  :name: Blackburn
+  :latitude: 53.7463
+  :longitude: -2.479
+BKH:
+  :name: Blackheath
+  :latitude: 51.4658
+  :longitude: 0.0085
+BHO:
+  :name: Blackhorse Road
+  :latitude: 51.5867
+  :longitude: -0.0408
+BPN:
+  :name: Blackpool North
+  :latitude: 53.8219
+  :longitude: -3.0494
+BPB:
+  :name: Blackpool Pleasure Beach
+  :latitude: 53.7884
+  :longitude: -3.0539
+BPS:
+  :name: Blackpool South
+  :latitude: 53.7986
+  :longitude: -3.049
+BKR:
+  :name: Blackridge
+  :latitude: 55.8842
+  :longitude: -3.7669
+BLK:
+  :name: Blackrod
+  :latitude: 53.5913
+  :longitude: -2.5702
+BAW:
+  :name: Blackwater
+  :latitude: 51.3316
+  :longitude: -0.7769
+BFF:
+  :name: Blaenau Ffestiniog
+  :latitude: 52.9942
+  :longitude: -3.9364
+BLA:
+  :name: Blair Atholl
+  :latitude: 56.7653
+  :longitude: -3.8492
+BAI:
+  :name: Blairhill
+  :latitude: 55.8666
+  :longitude: -4.0435
+BKT:
+  :name: Blake Street
+  :latitude: 52.6046
+  :longitude: -1.8448
+BKD:
+  :name: Blakedown
+  :latitude: 52.4064
+  :longitude: -2.1769
+BLT:
+  :name: Blantyre
+  :latitude: 55.7974
+  :longitude: -4.0875
+BLO:
+  :name: Blaydon
+  :latitude: 54.9659
+  :longitude: -1.713
+BSB:
+  :name: Bleasby
+  :latitude: 53.0413
+  :longitude: -0.9448
+BLY:
+  :name: Bletchley
+  :latitude: 51.9956
+  :longitude: -0.7374
+BLX:
+  :name: Bloxwich
+  :latitude: 52.6181
+  :longitude: -2.0115
+BWN:
+  :name: Bloxwich North
+  :latitude: 52.6253
+  :longitude: -2.0172
+BLN:
+  :name: Blundellsands & Crosby
+  :latitude: 53.4876
+  :longitude: -3.0403
+BYB:
+  :name: Blythe Bridge
+  :latitude: 52.9678
+  :longitude: -2.0669
+BOD:
+  :name: Bodmin Parkway
+  :latitude: 50.4461
+  :longitude: -4.6628
+BOR:
+  :name: Bodorgan
+  :latitude: 53.2041
+  :longitude: -4.4156
+BOG:
+  :name: Bognor Regis
+  :latitude: 50.7865
+  :longitude: -0.6759
+BGS:
+  :name: Bogston
+  :latitude: 55.9372
+  :longitude: -4.7114
+BON:
+  :name: Bolton
+  :latitude: 53.5734
+  :longitude: -2.4251
+BTD:
+  :name: Bolton-Upon-Dearne
+  :latitude: 53.5198
+  :longitude: -1.3115
+BKA:
+  :name: Bookham
+  :latitude: 51.2885
+  :longitude: -0.3826
+BOC:
+  :name: Bootle (Cumbria)
+  :latitude: 54.2922
+  :longitude: -3.3936
+BNW:
+  :name: Bootle New Strand
+  :latitude: 53.4531
+  :longitude: -2.9946
+BOT:
+  :name: Bootle Oriel Road
+  :latitude: 53.4469
+  :longitude: -2.9955
+BBS:
+  :name: Bordesley
+  :latitude: 52.4715
+  :longitude: -1.8767
+BRG:
+  :name: Borough Green & Wrotham
+  :latitude: 51.2933
+  :longitude: 0.3063
+BRH:
+  :name: Borth
+  :latitude: 52.491
+  :longitude: -4.0497
+BOH:
+  :name: Bosham
+  :latitude: 50.8431
+  :longitude: -0.8473
+BSN:
+  :name: Boston
+  :latitude: 52.9781
+  :longitude: -0.0313
+BOE:
+  :name: Botley
+  :latitude: 50.9168
+  :longitude: -1.2593
+BTF:
+  :name: Bottesford
+  :latitude: 52.9446
+  :longitude: -0.7953
+BNE:
+  :name: Bourne End
+  :latitude: 51.5768
+  :longitude: -0.7106
+BMH:
+  :name: Bournemouth
+  :latitude: 50.7272
+  :longitude: -1.864
+BRV:
+  :name: Bournville
+  :latitude: 52.4279
+  :longitude: -1.9269
+BWB:
+  :name: Bow Brickhill
+  :latitude: 52.0046
+  :longitude: -0.6963
+BOP:
+  :name: Bowes Park
+  :latitude: 51.6071
+  :longitude: -0.1205
+BWG:
+  :name: Bowling
+  :latitude: 55.9311
+  :longitude: -4.4928
+BXW:
+  :name: Box Hill & Westhumble
+  :latitude: 51.2539
+  :longitude: -0.3287
+BCE:
+  :name: Bracknell
+  :latitude: 51.413
+  :longitude: -0.7518
+BDQ:
+  :name: Bradford Forster Square
+  :latitude: 53.7972
+  :longitude: -1.753
+BDI:
+  :name: Bradford Interchange
+  :latitude: 53.7912
+  :longitude: -1.7495
+BOA:
+  :name: Bradford-on-Avon
+  :latitude: 51.3448
+  :longitude: -2.2524
+BDN:
+  :name: Brading
+  :latitude: 50.6794
+  :longitude: -1.1387
+BTR:
+  :name: Braintree
+  :latitude: 51.8755
+  :longitude: 0.5565
+BTP:
+  :name: Braintree Freeport
+  :latitude: 51.8689
+  :longitude: 0.5682
+BML:
+  :name: Bramhall
+  :latitude: 53.3605
+  :longitude: -2.1634
+BMY:
+  :name: Bramley (Hants)
+  :latitude: 51.3305
+  :longitude: -1.0606
+BLE:
+  :name: Bramley (W Yorks)
+  :latitude: 53.8057
+  :longitude: -1.6381
+BMP:
+  :name: Brampton (Cumbria)
+  :latitude: 54.9323
+  :longitude: -2.7018
+BRP:
+  :name: Brampton (Suffolk)
+  :latitude: 52.3958
+  :longitude: 1.5434
+BCN:
+  :name: Branchton
+  :latitude: 55.9404
+  :longitude: -4.8038
+BND:
+  :name: Brandon
+  :latitude: 52.4539
+  :longitude: 0.6226
+BSM:
+  :name: Branksome
+  :latitude: 50.7271
+  :longitude: -1.919
+BYS:
+  :name: Braystones (Cumbria)
+  :latitude: 54.4395
+  :longitude: -3.5419
+BDY:
+  :name: Bredbury
+  :latitude: 53.423
+  :longitude: -2.1105
+BRC:
+  :name: Breich
+  :latitude: 55.8269
+  :longitude: -3.6686
+BFD:
+  :name: Brentford
+  :latitude: 51.4876
+  :longitude: -0.3096
+BRE:
+  :name: Brentwood
+  :latitude: 51.6136
+  :longitude: 0.2999
+BWO:
+  :name: Bricket Wood
+  :latitude: 51.7057
+  :longitude: -0.3592
+BEA:
+  :name: Bridge of Allan
+  :latitude: 56.1569
+  :longitude: -3.9573
+BRO:
+  :name: Bridge of Orchy
+  :latitude: 56.5168
+  :longitude: -4.7647
+BGN:
+  :name: Bridgend
+  :latitude: 51.507
+  :longitude: -3.5753
+BDG:
+  :name: Bridgeton
+  :latitude: 55.8488
+  :longitude: -4.2259
+BWT:
+  :name: Bridgwater
+  :latitude: 51.1278
+  :longitude: -2.9903
+BDT:
+  :name: Bridlington
+  :latitude: 54.0846
+  :longitude: -0.1983
+BRF:
+  :name: Brierfield
+  :latitude: 53.8242
+  :longitude: -2.2363
+BGG:
+  :name: Brigg
+  :latitude: 53.549
+  :longitude: -0.4859
+BGH:
+  :name: Brighouse
+  :latitude: 53.6982
+  :longitude: -1.7795
+BTN:
+  :name: Brighton (East Sussex)
+  :latitude: 50.8289
+  :longitude: -0.1411
+BMD:
+  :name: Brimsdown
+  :latitude: 51.6556
+  :longitude: -0.0306
+BNT:
+  :name: Brinnington
+  :latitude: 53.4319
+  :longitude: -2.1342
+BPW:
+  :name: Bristol Parkway
+  :latitude: 51.5141
+  :longitude: -2.5432
+BRI:
+  :name: Bristol Temple Meads
+  :latitude: 51.4496
+  :longitude: -2.5809
+BHD:
+  :name: Brithdir
+  :latitude: 51.7104
+  :longitude: -3.2284
+BNF:
+  :name: Briton Ferry
+  :latitude: 51.6383
+  :longitude: -3.8197
+BRX:
+  :name: Brixton
+  :latitude: 51.4631
+  :longitude: -0.1131
+BGE:
+  :name: Broad Green
+  :latitude: 53.4067
+  :longitude: -2.8914
+BDB:
+  :name: Broadbottom
+  :latitude: 53.4408
+  :longitude: -2.0166
+BSR:
+  :name: Broadstairs
+  :latitude: 51.3606
+  :longitude: 1.4336
+BCU:
+  :name: Brockenhurst
+  :latitude: 50.8175
+  :longitude: -1.5723
+BHS:
+  :name: Brockholes
+  :latitude: 53.5969
+  :longitude: -1.7694
+BCY:
+  :name: Brockley
+  :latitude: 51.4646
+  :longitude: -0.0376
+BOM:
+  :name: Bromborough
+  :latitude: 53.3217
+  :longitude: -2.9869
+BMR:
+  :name: Bromborough Rake
+  :latitude: 53.3299
+  :longitude: -2.9899
+BMC:
+  :name: Bromley Cross (Lancs)
+  :latitude: 53.6147
+  :longitude: -2.4105
+BMN:
+  :name: Bromley North
+  :latitude: 51.4085
+  :longitude: 0.0171
+BMS:
+  :name: Bromley South
+  :latitude: 51.3993
+  :longitude: 0.0181
+BMV:
+  :name: Bromsgrove
+BSY:
+  :name: Brondesbury
+  :latitude: 51.5451
+  :longitude: -0.2025
+BSP:
+  :name: Brondesbury Park
+  :latitude: 51.5407
+  :longitude: -0.2103
+BPK:
+  :name: Brookmans Park
+  :latitude: 51.7209
+  :longitude: -0.2048
+BKO:
+  :name: Brookwood
+  :latitude: 51.3036
+  :longitude: -0.6361
+BME:
+  :name: Broome
+  :latitude: 52.4231
+  :longitude: -2.8848
+BMF:
+  :name: Broomfleet
+  :latitude: 53.7404
+  :longitude: -0.6723
+BRA:
+  :name: Brora
+  :latitude: 58.0123
+  :longitude: -3.8523
+BUH:
+  :name: Brough
+  :latitude: 53.7271
+  :longitude: -0.5785
+BYF:
+  :name: Broughty Ferry
+  :latitude: 56.4675
+  :longitude: -2.8734
+BXB:
+  :name: Broxbourne
+  :latitude: 51.747
+  :longitude: -0.0105
+BCV:
+  :name: Bruce Grove
+  :latitude: 51.5935
+  :longitude: -0.0703
+BDA:
+  :name: Brundall
+  :latitude: 52.6195
+  :longitude: 1.4389
+BGA:
+  :name: Brundall Gardens
+  :latitude: 52.6234
+  :longitude: 1.4177
+BSU:
+  :name: Brunstane
+  :latitude: 55.9422
+  :longitude: -3.101
+BRW:
+  :name: Brunswick
+  :latitude: 53.3832
+  :longitude: -2.976
+BRU:
+  :name: Bruton
+  :latitude: 51.1118
+  :longitude: -2.4473
+BYN:
+  :name: Bryn
+  :latitude: 53.4997
+  :longitude: -2.6479
+BUC:
+  :name: Buckenham (Norfolk)
+  :latitude: 52.5977
+  :longitude: 1.4699
+BCK:
+  :name: Buckley
+  :latitude: 53.1626
+  :longitude: -3.0556
+BUK:
+  :name: Bucknell
+  :latitude: 52.3573
+  :longitude: -2.9476
+BSV:
+  :name: Buckshaw Parkway
+  :latitude: 53.6795
+  :longitude: -2.6648
+BGL:
+  :name: Bugle
+  :latitude: 50.4001
+  :longitude: -4.7916
+BHR:
+  :name: Builth Road
+  :latitude: 52.1695
+  :longitude: -3.4273
+BLW:
+  :name: Bulwell
+  :latitude: 52.9999
+  :longitude: -1.1963
+BUE:
+  :name: Bures
+  :latitude: 51.9715
+  :longitude: 0.7689
+BUG:
+  :name: Burgess Hill
+  :latitude: 50.9538
+  :longitude: -0.1276
+BUY:
+  :name: Burley Park
+  :latitude: 53.8122
+  :longitude: -1.5781
+BUW:
+  :name: Burley-in-Wharfedale
+  :latitude: 53.9081
+  :longitude: -1.7532
+BNA:
+  :name: Burnage
+  :latitude: 53.4215
+  :longitude: -2.2151
+BUD:
+  :name: Burneside (Cumbria)
+  :latitude: 54.3554
+  :longitude: -2.7677
+BNM:
+  :name: Burnham (Bucks)
+  :latitude: 51.5234
+  :longitude: -0.6468
+BUU:
+  :name: Burnham-on-Crouch
+  :latitude: 51.6336
+  :longitude: 0.8128
+BUB:
+  :name: Burnley Barracks
+  :latitude: 53.7908
+  :longitude: -2.2581
+BNC:
+  :name: Burnley Central
+  :latitude: 53.7939
+  :longitude: -2.2449
+BYM:
+  :name: Burnley Manchester Road
+  :latitude: 53.7851
+  :longitude: -2.2489
+BUI:
+  :name: Burnside (Strathclyde)
+  :latitude: 55.8169
+  :longitude: -4.2023
+BTS:
+  :name: Burntisland
+  :latitude: 56.0571
+  :longitude: -3.2341
+BCB:
+  :name: Burscough Bridge
+  :latitude: 53.6061
+  :longitude: -2.8424
+BCJ:
+  :name: Burscough Junction
+  :latitude: 53.5985
+  :longitude: -2.8378
+BUO:
+  :name: Bursledon
+  :latitude: 50.884
+  :longitude: -1.3049
+BUJ:
+  :name: Burton Joyce
+  :latitude: 52.9839
+  :longitude: -1.0408
+BUT:
+  :name: Burton-on-Trent
+  :latitude: 52.8064
+  :longitude: -1.6425
+BSE:
+  :name: Bury St Edmunds
+  :latitude: 52.2537
+  :longitude: 0.7129
+BUS:
+  :name: Busby
+  :latitude: 55.7805
+  :longitude: -4.2621
+BHK:
+  :name: Bush Hill Park
+  :latitude: 51.6416
+  :longitude: -0.0692
+BSH:
+  :name: Bushey
+  :latitude: 51.6451
+  :longitude: -0.3849
+BUL:
+  :name: Butlers Lane
+  :latitude: 52.5927
+  :longitude: -1.8386
+BXD:
+  :name: Buxted
+  :latitude: 50.9898
+  :longitude: 0.1317
+BUX:
+  :name: Buxton
+  :latitude: 53.2609
+  :longitude: -1.9129
+BFN:
+  :name: Byfleet & New Haw
+  :latitude: 51.3496
+  :longitude: -0.4814
+BYE:
+  :name: Bynea
+  :latitude: 51.6723
+  :longitude: -4.0986
+CAD:
+  :name: Cadoxton
+  :latitude: 51.4122
+  :longitude: -3.2491
+CGW:
+  :name: Caergwrle
+  :latitude: 53.1072
+  :longitude: -3.0326
+CPH:
+  :name: Caerphilly
+  :latitude: 51.5712
+  :longitude: -3.2183
+CWS:
+  :name: Caersws
+  :latitude: 52.5163
+  :longitude: -3.4324
+CAC:
+  :name: Caldercruix
+  :latitude: 55.888
+  :longitude: -3.8878
+CDT:
+  :name: Caldicot
+  :latitude: 51.5849
+  :longitude: -2.7598
+CIR:
+  :name: Caledonian Rd & Barnsbury
+  :latitude: 51.5436
+  :longitude: -0.1145
+CSK:
+  :name: Calstock
+  :latitude: 50.4981
+  :longitude: -4.2089
+CDU:
+  :name: Cam & Dursley
+  :latitude: 51.7176
+  :longitude: -2.3593
+CAM:
+  :name: Camberley
+  :latitude: 51.3362
+  :longitude: -0.744
+CBN:
+  :name: Camborne
+  :latitude: 50.2104
+  :longitude: -5.2974
+CBG:
+  :name: Cambridge
+  :latitude: 52.193
+  :longitude: 0.1298
+CBH:
+  :name: Cambridge Heath
+  :latitude: 51.5316
+  :longitude: -0.058
+CBL:
+  :name: Cambuslang
+  :latitude: 55.8194
+  :longitude: -4.1733
+CMD:
+  :name: Camden Road
+  :latitude: 51.5419
+  :longitude: -0.1392
+CMO:
+  :name: Camelon
+  :latitude: 56.0061
+  :longitude: -3.8184
+ZCW:
+  :name: Canada Water
+  :latitude: 51.498
+  :longitude: -0.0497
+CNL:
+  :name: Canley
+  :latitude: 52.3993
+  :longitude: -1.5479
+CAO:
+  :name: Cannock
+  :latitude: 52.6867
+  :longitude: -2.0213
+CNN:
+  :name: Canonbury
+  :latitude: 51.5488
+  :longitude: -0.0926
+CBE:
+  :name: Canterbury East
+  :latitude: 51.2742
+  :longitude: 1.0758
+CBW:
+  :name: Canterbury West
+  :latitude: 51.2837
+  :longitude: 1.0752
+CNY:
+  :name: Cantley
+  :latitude: 52.5789
+  :longitude: 1.513
+CPU:
+  :name: Capenhurst
+  :latitude: 53.2597
+  :longitude: -2.9423
+CBB:
+  :name: Carbis Bay
+  :latitude: 50.1971
+  :longitude: -5.4641
+CDD:
+  :name: Cardenden
+  :latitude: 56.1411
+  :longitude: -3.2602
+CDB:
+  :name: Cardiff Bay
+  :latitude: 51.4676
+  :longitude: -3.1668
+CDF:
+  :name: Cardiff Central
+  :latitude: 51.4762
+  :longitude: -3.1797
+CDQ:
+  :name: Cardiff Queen Street
+  :latitude: 51.482
+  :longitude: -3.1701
+CDO:
+  :name: Cardonald
+  :latitude: 55.8526
+  :longitude: -4.3406
+CDR:
+  :name: Cardross
+  :latitude: 55.9603
+  :longitude: -4.653
+CRF:
+  :name: Carfin
+  :latitude: 55.8075
+  :longitude: -3.9555
+CAK:
+  :name: Cark & Cartmel
+  :latitude: 54.1781
+  :longitude: -2.9743
+CAR:
+  :name: Carlisle
+  :latitude: 54.8909
+  :longitude: -2.9339
+CTO:
+  :name: Carlton
+  :latitude: 52.9647
+  :longitude: -1.0792
+CLU:
+  :name: Carluke
+  :latitude: 55.7312
+  :longitude: -3.8482
+CMN:
+  :name: Carmarthen
+  :latitude: 51.8533
+  :longitude: -4.3056
+CML:
+  :name: Carmyle
+  :latitude: 55.8342
+  :longitude: -4.1589
+CNF:
+  :name: Carnforth
+  :latitude: 54.1293
+  :longitude: -2.7718
+CAN:
+  :name: Carnoustie
+  :latitude: 56.5006
+  :longitude: -2.7061
+CAY:
+  :name: Carntyne
+  :latitude: 55.8549
+  :longitude: -4.1791
+CPK:
+  :name: Carpenders Park
+  :latitude: 51.6281
+  :longitude: -0.3862
+CAG:
+  :name: Carrbridge
+  :latitude: 57.2801
+  :longitude: -3.8289
+CSH:
+  :name: Carshalton
+  :latitude: 51.3685
+  :longitude: -0.1665
+CSB:
+  :name: Carshalton Beeches
+  :latitude: 51.3572
+  :longitude: -0.1699
+CRS:
+  :name: Carstairs
+  :latitude: 55.6909
+  :longitude: -3.6684
+CDY:
+  :name: Cartsdyke
+  :latitude: 55.9421
+  :longitude: -4.7319
+CBP:
+  :name: Castle Bar Park
+  :latitude: 51.5228
+  :longitude: -0.3321
+CLC:
+  :name: Castle Cary
+  :latitude: 51.1001
+  :longitude: -2.5221
+CFD:
+  :name: Castleford
+  :latitude: 53.7243
+  :longitude: -1.3547
+CAS:
+  :name: Castleton (Manchester)
+  :latitude: 53.592
+  :longitude: -2.1782
+CSM:
+  :name: Castleton Moor
+  :latitude: 54.4669
+  :longitude: -0.9472
+CAT:
+  :name: Caterham
+  :latitude: 51.2825
+  :longitude: -0.0787
+CTF:
+  :name: Catford
+  :latitude: 51.4447
+  :longitude: -0.0261
+CFB:
+  :name: Catford Bridge
+  :latitude: 51.4447
+  :longitude: -0.0249
+CYS:
+  :name: Cathays
+  :latitude: 51.4889
+  :longitude: -3.179
+CCT:
+  :name: Cathcart
+  :latitude: 55.8177
+  :longitude: -4.2607
+CTL:
+  :name: Cattal
+  :latitude: 53.9959
+  :longitude: -1.3201
+CAU:
+  :name: Causeland
+  :latitude: 50.4056
+  :longitude: -4.4663
+CYB:
+  :name: Cefn-y-Bedd
+  :latitude: 53.0987
+  :longitude: -3.0308
+CTH:
+  :name: Chadwell Heath
+  :latitude: 51.5679
+  :longitude: 0.1293
+CFH:
+  :name: Chafford Hundred Lakeside
+  :latitude: 51.4856
+  :longitude: 0.2872
+CFO:
+  :name: Chalfont & Latimer
+  :latitude: 51.668
+  :longitude: -0.5609
+CHW:
+  :name: Chalkwell
+  :latitude: 51.5386
+  :longitude: 0.6701
+CFR:
+  :name: Chandlers Ford
+  :latitude: 50.9834
+  :longitude: -1.385
+CEF:
+  :name: Chapel-en-le-Frith
+  :latitude: 53.3122
+  :longitude: -1.9187
+CPN:
+  :name: Chapelton (Devon)
+  :latitude: 51.0159
+  :longitude: -4.0246
+CLN:
+  :name: Chapeltown (South Yorks)
+  :latitude: 53.4621
+  :longitude: -1.4664
+CWC:
+  :name: Chappel & Wakes Colne
+  :latitude: 51.9258
+  :longitude: 0.7585
+CHG:
+  :name: Charing (Kent)
+  :latitude: 51.2081
+  :longitude: 0.7902
+CHC:
+  :name: Charing Cross (Glasgow)
+  :latitude: 55.8646
+  :longitude: -4.27
+CBY:
+  :name: Charlbury
+  :latitude: 51.8726
+  :longitude: -1.4896
+CTN:
+  :name: Charlton
+  :latitude: 51.4868
+  :longitude: 0.0309
+CRT:
+  :name: Chartham
+  :latitude: 51.2573
+  :longitude: 1.0187
+CSR:
+  :name: Chassen Road
+  :latitude: 53.4461
+  :longitude: -2.3682
+CTE:
+  :name: Chatelherault
+  :latitude: 55.7655
+  :longitude: -4.005
+CTM:
+  :name: Chatham
+  :latitude: 51.3806
+  :longitude: 0.5204
+CHT:
+  :name: Chathill
+  :latitude: 55.5366
+  :longitude: -1.7065
+CHU:
+  :name: Cheadle Hulme
+  :latitude: 53.3763
+  :longitude: -2.1878
+CHE:
+  :name: Cheam
+  :latitude: 51.3558
+  :longitude: -0.2144
+CED:
+  :name: Cheddington
+  :latitude: 51.8575
+  :longitude: -0.6624
+CEL:
+  :name: Chelford (Cheshire)
+  :latitude: 53.2705
+  :longitude: -2.2809
+CHM:
+  :name: Chelmsford
+  :latitude: 51.7365
+  :longitude: 0.4688
+CLD:
+  :name: Chelsfield
+  :latitude: 51.3563
+  :longitude: 0.1091
+CNM:
+  :name: Cheltenham Spa
+  :latitude: 51.8977
+  :longitude: -2.0995
+CPW:
+  :name: Chepstow
+  :latitude: 51.6401
+  :longitude: -2.6719
+CYT:
+  :name: Cherry Tree
+  :latitude: 53.7333
+  :longitude: -2.5187
+CHY:
+  :name: Chertsey
+  :latitude: 51.3872
+  :longitude: -0.5097
+CHN:
+  :name: Cheshunt
+  :latitude: 51.7029
+  :longitude: -0.0239
+CSN:
+  :name: Chessington North
+  :latitude: 51.3645
+  :longitude: -0.2991
+CSS:
+  :name: Chessington South
+  :latitude: 51.357
+  :longitude: -0.3094
+CTR:
+  :name: Chester
+  :latitude: 53.1967
+  :longitude: -2.8797
+CRD:
+  :name: Chester Road
+  :latitude: 52.5355
+  :longitude: -1.8327
+CHD:
+  :name: Chesterfield
+  :latitude: 53.2382
+  :longitude: -1.4207
+CLS:
+  :name: Chester-le-Street
+  :latitude: 54.8546
+  :longitude: -1.578
+CSW:
+  :name: Chestfield & Swalecliffe
+  :latitude: 51.3602
+  :longitude: 1.0669
+CNO:
+  :name: Chetnole
+  :latitude: 50.8667
+  :longitude: -2.5736
+CCH:
+  :name: Chichester
+  :latitude: 50.8323
+  :longitude: -0.7865
+CIL:
+  :name: Chilham
+  :latitude: 51.2447
+  :longitude: 0.9762
+CHL:
+  :name: Chilworth
+  :latitude: 51.2151
+  :longitude: -0.5248
+CHI:
+  :name: Chingford
+  :latitude: 51.6331
+  :longitude: 0.0099
+CLY:
+  :name: Chinley
+  :latitude: 53.3404
+  :longitude: -1.9435
+CPM:
+  :name: Chippenham
+  :latitude: 51.4626
+  :longitude: -2.1155
+CHP:
+  :name: Chipstead
+  :latitude: 51.3092
+  :longitude: -0.1697
+CRK:
+  :name: Chirk
+  :latitude: 52.9336
+  :longitude: -3.0665
+CIT:
+  :name: Chislehurst
+  :latitude: 51.4057
+  :longitude: 0.0573
+CHK:
+  :name: Chiswick
+  :latitude: 51.4813
+  :longitude: -0.2682
+CHO:
+  :name: Cholsey
+  :latitude: 51.5703
+  :longitude: -1.1579
+CRL:
+  :name: Chorley
+  :latitude: 53.6526
+  :longitude: -2.6268
+CLW:
+  :name: Chorleywood
+  :latitude: 51.654
+  :longitude: -0.5179
+CHR:
+  :name: Christchurch
+  :latitude: 50.7384
+  :longitude: -1.7843
+CHH:
+  :name: Christs Hospital
+  :latitude: 51.0521
+  :longitude: -0.3634
+CTW:
+  :name: Church & Oswaldtwistle
+  :latitude: 53.7505
+  :longitude: -2.3908
+CHF:
+  :name: Church Fenton
+  :latitude: 53.8268
+  :longitude: -1.2275
+CTT:
+  :name: Church Stretton
+  :latitude: 52.5377
+  :longitude: -2.8034
+CIM:
+  :name: Cilmeri
+  :latitude: 52.15
+  :longitude: -3.459
+CTK:
+  :name: City Thameslink
+  :latitude: 51.5164
+  :longitude: -0.1038
+CLT:
+  :name: Clacton-on-Sea
+  :latitude: 51.7947
+  :longitude: 1.1544
+CLA:
+  :name: Clandon
+  :latitude: 51.2641
+  :longitude: -0.5027
+CPY:
+  :name: Clapham (North Yorkshire)
+  :latitude: 54.1056
+  :longitude: -2.4105
+CLP:
+  :name: Clapham High Street
+  :latitude: 51.4657
+  :longitude: -0.1328
+CLJ:
+  :name: Clapham Junction
+  :latitude: 51.4639
+  :longitude: -0.1703
+CPT:
+  :name: Clapton
+  :latitude: 51.5617
+  :longitude: -0.0569
+CLR:
+  :name: Clarbeston Road
+  :latitude: 51.8517
+  :longitude: -4.8823
+CKS:
+  :name: Clarkston
+  :latitude: 55.7895
+  :longitude: -4.2758
+CLV:
+  :name: Claverdon
+  :latitude: 52.2775
+  :longitude: -1.6969
+CLG:
+  :name: Claygate
+  :latitude: 51.3612
+  :longitude: -0.3485
+CLE:
+  :name: Cleethorpes
+  :latitude: 53.562
+  :longitude: -0.0292
+CEA:
+  :name: Cleland
+  :latitude: 55.8043
+  :longitude: -3.9106
+CLI:
+  :name: Clifton (Manchester)
+  :latitude: 53.5222
+  :longitude: -2.3141
+CFN:
+  :name: Clifton Down
+  :latitude: 51.4646
+  :longitude: -2.6109
+CLH:
+  :name: Clitheroe
+  :latitude: 53.8736
+  :longitude: -2.3943
+CLK:
+  :name: Clock House
+  :latitude: 51.4086
+  :longitude: -0.0406
+CUW:
+  :name: Clunderwen
+  :latitude: 51.8401
+  :longitude: -4.7316
+CYK:
+  :name: Clydebank
+  :latitude: 55.9006
+  :longitude: -4.4044
+CBC:
+  :name: Coatbridge Central
+  :latitude: 55.8628
+  :longitude: -4.0327
+CBS:
+  :name: Coatbridge Sunnyside
+  :latitude: 55.8667
+  :longitude: -4.0279
+COA:
+  :name: Coatdyke
+  :latitude: 55.8643
+  :longitude: -4.0051
+CSD:
+  :name: Cobham & Stoke d'Abernon
+  :latitude: 51.318
+  :longitude: -0.3893
+CSL:
+  :name: Codsall
+  :latitude: 52.6271
+  :longitude: -2.2018
+CGN:
+  :name: Cogan
+  :latitude: 51.4456
+  :longitude: -3.1891
+COL:
+  :name: Colchester
+  :latitude: 51.9007
+  :longitude: 0.8922
+CET:
+  :name: Colchester Town
+  :latitude: 51.8865
+  :longitude: 0.9046
+CEH:
+  :name: Coleshill Parkway
+  :latitude: 52.5164
+  :longitude: -1.7081
+CLM:
+  :name: Collingham
+  :latitude: 53.1444
+  :longitude: -0.7497
+CLL:
+  :name: Collington
+  :latitude: 50.8393
+  :longitude: 0.4572
+CNE:
+  :name: Colne
+  :latitude: 53.8549
+  :longitude: -2.1811
+CWL:
+  :name: Colwall
+  :latitude: 52.0799
+  :longitude: -2.3569
+CWB:
+  :name: Colwyn Bay
+  :latitude: 53.2968
+  :longitude: -3.7259
+CME:
+  :name: Combe (Oxon)
+  :latitude: 51.8325
+  :longitude: -1.3943
+COM:
+  :name: Commondale
+  :latitude: 54.4817
+  :longitude: -0.9754
+CNG:
+  :name: Congleton
+  :latitude: 53.1581
+  :longitude: -2.1932
+CNS:
+  :name: Conisbrough
+  :latitude: 53.4895
+  :longitude: -1.2344
+CON:
+  :name: Connel Ferry
+  :latitude: 56.4523
+  :longitude: -5.3837
+CBD:
+  :name: Conon Bridge
+  :latitude: 57.5618
+  :longitude: -4.4404
+CEY:
+  :name: Cononley
+  :latitude: 53.9175
+  :longitude: -2.0125
+CNP:
+  :name: Conway Park
+  :latitude: 53.3934
+  :longitude: -3.0227
+CNW:
+  :name: Conwy
+  :latitude: 53.2802
+  :longitude: -3.8309
+COB:
+  :name: Cooden Beach
+  :latitude: 50.8337
+  :longitude: 0.4274
+COO:
+  :name: Cookham
+  :latitude: 51.5574
+  :longitude: -0.7223
+CBR:
+  :name: Cooksbridge
+  :latitude: 50.9037
+  :longitude: -0.0095
+COE:
+  :name: Coombe Junction Halt
+  :latitude: 50.4452
+  :longitude: -4.4814
+COP:
+  :name: Copplestone
+  :latitude: 50.8143
+  :longitude: -3.7513
+CRB:
+  :name: Corbridge
+  :latitude: 54.9662
+  :longitude: -2.0174
+COR:
+  :name: Corby
+  :latitude: 52.4887
+  :longitude: -0.6884
+CKH:
+  :name: Corkerhill
+  :latitude: 55.8375
+  :longitude: -4.3344
+CKL:
+  :name: Corkickle
+  :latitude: 54.5417
+  :longitude: -3.5821
+CPA:
+  :name: Corpach
+  :latitude: 56.8426
+  :longitude: -5.1214
+CRR:
+  :name: Corrour
+  :latitude: 56.7603
+  :longitude: -4.6913
+COY:
+  :name: Coryton
+  :latitude: 51.5205
+  :longitude: -3.2314
+CSY:
+  :name: Coseley
+  :latitude: 52.5451
+  :longitude: -2.0858
+COS:
+  :name: Cosford
+  :latitude: 52.6451
+  :longitude: -2.3007
+CSA:
+  :name: Cosham
+  :latitude: 50.8418
+  :longitude: -1.067
+CGM:
+  :name: Cottingham
+  :latitude: 53.7816
+  :longitude: -0.4066
+COT:
+  :name: Cottingley
+  :latitude: 53.7679
+  :longitude: -1.5875
+CDS:
+  :name: Coulsdon South
+  :latitude: 51.3157
+  :longitude: -0.1379
+CDN:
+  :name: Coulsdon Town
+  :latitude: 51.3228
+  :longitude: -0.1324
+COV:
+  :name: Coventry
+  :latitude: 52.4008
+  :longitude: -1.5139
+CAA:
+  :name: Coventry Arena
+  :latitude: 52.447
+  :longitude: -1.4948
+CWN:
+  :name: Cowden (Kent)
+  :latitude: 51.1556
+  :longitude: 0.1099
+COW:
+  :name: Cowdenbeath
+  :latitude: 56.1116
+  :longitude: -3.3435
+CRA:
+  :name: Cradley Heath
+  :latitude: 52.4696
+  :longitude: -2.0907
+CGD:
+  :name: Craigendoran
+  :latitude: 55.9948
+  :longitude: -4.7117
+CRM:
+  :name: Cramlington
+  :latitude: 55.0882
+  :longitude: -1.5988
+CBK:
+  :name: Cranbrook (Devon)
+  :latitude: 50.7505
+  :longitude: -3.4194
+CRV:
+  :name: Craven Arms
+  :latitude: 52.4426
+  :longitude: -2.8377
+CRW:
+  :name: Crawley
+  :latitude: 51.1124
+  :longitude: -0.1867
+CRY:
+  :name: Crayford
+  :latitude: 51.4482
+  :longitude: 0.1786
+CDI:
+  :name: Crediton
+  :latitude: 50.7832
+  :longitude: -3.6465
+CES:
+  :name: Cressing (Essex)
+  :latitude: 51.8522
+  :longitude: 0.5774
+CSG:
+  :name: Cressington
+  :latitude: 53.3589
+  :longitude: -2.9121
+CWD:
+  :name: Creswell
+  :latitude: 53.264
+  :longitude: -1.2165
+CRE:
+  :name: Crewe
+  :latitude: 53.0896
+  :longitude: -2.4336
+CKN:
+  :name: Crewkerne
+  :latitude: 50.8737
+  :longitude: -2.7771
+CWH:
+  :name: Crews Hill
+  :latitude: 51.6845
+  :longitude: -0.1072
+CNR:
+  :name: Crianlarich
+  :latitude: 56.3904
+  :longitude: -4.6185
+CCC:
+  :name: Criccieth
+  :latitude: 52.9183
+  :longitude: -4.2375
+CRI:
+  :name: Cricklewood
+  :latitude: 51.5586
+  :longitude: -0.2129
+CFF:
+  :name: Croftfoot
+  :latitude: 55.8185
+  :longitude: -4.2278
+CFT:
+  :name: Crofton Park
+  :latitude: 51.4552
+  :longitude: -0.0366
+CMR:
+  :name: Cromer
+  :latitude: 52.9305
+  :longitude: 1.2929
+CMF:
+  :name: Cromford
+  :latitude: 53.1127
+  :longitude: -1.5502
+CKT:
+  :name: Crookston
+  :latitude: 55.8422
+  :longitude: -4.3652
+CRG:
+  :name: Cross Gates
+  :latitude: 53.8049
+  :longitude: -1.4517
+CFL:
+  :name: Crossflatts
+  :latitude: 53.8586
+  :longitude: -1.845
+COI:
+  :name: Crosshill
+  :latitude: 55.8328
+  :longitude: -4.2565
+CKY:
+  :name: Crosskeys
+  :latitude: 51.621
+  :longitude: -3.1261
+CMY:
+  :name: Crossmyloof
+  :latitude: 55.8338
+  :longitude: -4.2841
+CSO:
+  :name: Croston
+  :latitude: 53.6675
+  :longitude: -2.778
+CRH:
+  :name: Crouch Hill
+  :latitude: 51.5714
+  :longitude: -0.117
+COH:
+  :name: Crowborough
+  :latitude: 51.0464
+  :longitude: 0.1878
+CWU:
+  :name: Crowhurst
+  :latitude: 50.8884
+  :longitude: 0.5011
+CWE:
+  :name: Crowle
+  :latitude: 53.5901
+  :longitude: -0.8167
+CRN:
+  :name: Crowthorne
+  :latitude: 51.3667
+  :longitude: -0.8197
+CRO:
+  :name: Croy
+  :latitude: 55.9555
+  :longitude: -4.0365
+CYP:
+  :name: Crystal Palace
+  :latitude: 51.4178
+  :longitude: -0.0727
+CUD:
+  :name: Cuddington
+  :latitude: 53.2398
+  :longitude: -2.5996
+CUF:
+  :name: Cuffley
+  :latitude: 51.7086
+  :longitude: -0.1098
+CUM:
+  :name: Culham
+  :latitude: 51.6544
+  :longitude: -1.2364
+CUA:
+  :name: Culrain
+  :latitude: 57.9195
+  :longitude: -4.4045
+CUB:
+  :name: Cumbernauld
+  :latitude: 55.9421
+  :longitude: -3.9804
+CUP:
+  :name: Cupar
+  :latitude: 56.3172
+  :longitude: -3.0091
+CUH:
+  :name: Curriehill
+  :latitude: 55.9006
+  :longitude: -3.3191
+CUX:
+  :name: Cuxton
+  :latitude: 51.3741
+  :longitude: 0.4613
+CMH:
+  :name: Cwmbach
+  :latitude: 51.7011
+  :longitude: -3.4145
+CWM:
+  :name: Cwmbran
+  :latitude: 51.6574
+  :longitude: -3.0161
+CYN:
+  :name: Cynghordy
+  :latitude: 52.0518
+  :longitude: -3.7479
+DDK:
+  :name: Dagenham Dock
+  :latitude: 51.5261
+  :longitude: 0.1464
+DSY:
+  :name: Daisy Hill
+  :latitude: 53.5393
+  :longitude: -2.5158
+DAG:
+  :name: Dalgety Bay
+  :latitude: 56.0423
+  :longitude: -3.3678
+DAL:
+  :name: Dalmally
+  :latitude: 56.4012
+  :longitude: -4.9836
+DAK:
+  :name: Dalmarnock
+  :latitude: 55.8422
+  :longitude: -4.2174
+DAM:
+  :name: Dalmeny
+  :latitude: 55.9863
+  :longitude: -3.3816
+DMR:
+  :name: Dalmuir
+  :latitude: 55.9118
+  :longitude: -4.4265
+DLR:
+  :name: Dalreoch
+  :latitude: 55.9473
+  :longitude: -4.578
+DLY:
+  :name: Dalry
+  :latitude: 55.7062
+  :longitude: -4.711
+DLS:
+  :name: Dalston (Cumbria)
+  :latitude: 54.8464
+  :longitude: -2.9879
+DLJ:
+  :name: Dalston Junction
+  :latitude: 51.5461
+  :longitude: -0.0751
+DLK:
+  :name: Dalston Kingsland
+  :latitude: 51.5482
+  :longitude: -0.0762
+DLT:
+  :name: Dalton (Cumbria)
+  :latitude: 54.1545
+  :longitude: -3.1787
+DLW:
+  :name: Dalwhinnie
+  :latitude: 56.9349
+  :longitude: -4.2463
+DNY:
+  :name: Danby
+  :latitude: 54.4662
+  :longitude: -0.9108
+DCT:
+  :name: Danescourt
+DZY:
+  :name: Danzey
+  :latitude: 52.3249
+  :longitude: -1.8214
+DAR:
+  :name: Darlington
+  :latitude: 54.5218
+  :longitude: -1.5458
+DAN:
+  :name: Darnall
+  :latitude: 53.3846
+  :longitude: -1.4119
+DSM:
+  :name: Darsham
+  :latitude: 52.2731
+  :longitude: 1.5234
+DFD:
+  :name: Dartford
+  :latitude: 51.4474
+  :longitude: 0.2192
+DRT:
+  :name: Darton
+DWN:
+  :name: Darwen
+  :latitude: 53.6977
+  :longitude: -2.4644
+DAT:
+  :name: Datchet
+  :latitude: 51.4831
+  :longitude: -0.57949
+DVN:
+  :name: Davenport
+  :latitude: 53.3912
+  :longitude: -2.1526
+DWL:
+  :name: Dawlish
+  :latitude: 50.5807
+  :longitude: -3.4647
+DWW:
+  :name: Dawlish Warren
+  :latitude: 50.5979
+  :longitude: -3.4438
+DEA:
+  :name: Deal
+  :latitude: 51.2229
+  :longitude: 1.3989
+DEN:
+  :name: Dean (Wilts)
+  :latitude: 51.04195
+  :longitude: -1.63477
+DGT:
+  :name: Deansgate
+  :latitude: 53.4743
+  :longitude: -2.2515
+DGY:
+  :name: Deganwy
+  :latitude: 53.295
+  :longitude: -3.835
+DHN:
+  :name: Deighton
+  :latitude: 53.6688
+  :longitude: -1.752
+DLM:
+  :name: Delamere
+  :latitude: 53.2289
+  :longitude: -2.6667
+DBD:
+  :name: Denby Dale
+  :latitude: 53.5736
+  :longitude: -1.6632
+DNM:
+  :name: Denham
+  :latitude: 51.57878
+  :longitude: -0.49735
+DGC:
+  :name: Denham Golf Club
+  :latitude: 51.5806
+  :longitude: -0.5175
+DMK:
+  :name: Denmark Hill
+  :latitude: 51.4683
+  :longitude: -0.0891
+DNT:
+  :name: Dent
+  :latitude: 54.2831
+  :longitude: -2.3644
+DTN:
+  :name: Denton
+  :latitude: 53.4571
+  :longitude: -2.1303
+DEP:
+  :name: Deptford
+  :latitude: 51.479
+  :longitude: -0.0267
+DBY:
+  :name: Derby
+  :latitude: 52.9161
+  :longitude: -1.4633
+DBR:
+  :name: Derby Road (Ipswich)
+  :latitude: 52.0503
+  :longitude: 1.1823
+DPT:
+  :name: Devonport (Devon)
+  :latitude: 50.3785
+  :longitude: -4.171
+DOC:
+  :name: Devonport Dockyard
+  :latitude: 50.3826
+  :longitude: -4.1761
+DEW:
+  :name: Dewsbury
+  :latitude: 53.6931
+  :longitude: -1.6322
+DID:
+  :name: Didcot Parkway
+  :latitude: 51.6111
+  :longitude: -1.2427
+DIG:
+  :name: Digby & Sowton
+  :latitude: 50.714
+  :longitude: -3.4736
+DMH:
+  :name: Dilton Marsh
+  :latitude: 51.2489
+  :longitude: -2.208
+DMG:
+  :name: Dinas (Rhondda)
+  :latitude: 51.6172
+  :longitude: -3.4362
+DNS:
+  :name: Dinas Powys
+  :latitude: 51.4316
+  :longitude: -3.2187
+DGL:
+  :name: Dingle Road
+  :latitude: 51.4402
+  :longitude: -3.1806
+DIN:
+  :name: Dingwall
+  :latitude: 57.5941
+  :longitude: -4.4222
+DND:
+  :name: Dinsdale
+  :latitude: 54.515
+  :longitude: -1.4672
+DTG:
+  :name: Dinting
+  :latitude: 53.4497
+  :longitude: -1.9701
+DSL:
+  :name: Disley
+  :latitude: 53.3581
+  :longitude: -2.0426
+DIS:
+  :name: Diss
+  :latitude: 52.3736
+  :longitude: 1.1237
+DOD:
+  :name: Dodworth
+  :latitude: 53.5443
+  :longitude: -1.5319
+DOL:
+  :name: Dolau
+  :latitude: 52.2951
+  :longitude: -3.2633
+DLH:
+  :name: Doleham
+  :latitude: 50.9191
+  :longitude: 0.6094
+DLG:
+  :name: Dolgarrog
+  :latitude: 53.1862
+  :longitude: -3.8229
+DWD:
+  :name: Dolwyddelan
+  :latitude: 53.0518
+  :longitude: -3.885
+DON:
+  :name: Doncaster
+  :latitude: 53.5224
+  :longitude: -1.1394
+DCH:
+  :name: Dorchester South
+  :latitude: 50.7093
+  :longitude: -2.4372
+DCW:
+  :name: Dorchester West
+  :latitude: 50.711
+  :longitude: -2.4425
+DOR:
+  :name: Dore & Totley
+  :latitude: 53.3275
+  :longitude: -1.5154
+DKG:
+  :name: Dorking (Main)
+  :latitude: 51.2412
+  :longitude: -0.3239
+DPD:
+  :name: Dorking Deepdene
+  :latitude: 51.2389
+  :longitude: -0.324
+DKT:
+  :name: Dorking West
+  :latitude: 51.2367
+  :longitude: -0.3389
+DMS:
+  :name: Dormans
+  :latitude: 51.1557
+  :longitude: -0.0042
+DDG:
+  :name: Dorridge
+  :latitude: 52.3724
+  :longitude: -1.7534
+DVH:
+  :name: Dove Holes
+  :latitude: 53.3005
+  :longitude: -1.8902
+DVP:
+  :name: Dover Priory
+  :latitude: 51.126
+  :longitude: 1.3056
+DVC:
+  :name: Dovercourt
+  :latitude: 51.939
+  :longitude: 1.2805
+DVY:
+  :name: Dovey Junction
+  :latitude: 52.5644
+  :longitude: -3.9248
+DOW:
+  :name: Downham Market
+  :latitude: 52.6041
+  :longitude: 0.3657
+DRG:
+  :name: Drayton Green
+  :latitude: 51.5164
+  :longitude: -0.3302
+DYP:
+  :name: Drayton Park
+  :latitude: 51.553
+  :longitude: -0.1055
+DRM:
+  :name: Drem
+  :latitude: 56.0048
+  :longitude: -2.787
+DRF:
+  :name: Driffield
+  :latitude: 54.0018
+  :longitude: -0.4337
+DRI:
+  :name: Drigg
+  :latitude: 54.3772
+  :longitude: -3.4438
+DTW:
+  :name: Droitwich Spa
+  :latitude: 52.2682
+  :longitude: -2.1584
+DRO:
+  :name: Dronfield
+  :latitude: 53.301
+  :longitude: -1.468
+DMC:
+  :name: Drumchapel
+  :latitude: 55.9048
+  :longitude: -4.3634
+DFR:
+  :name: Drumfrochar
+  :latitude: 55.9412
+  :longitude: -4.7715
+DRU:
+  :name: Drumgelloch
+DMY:
+  :name: Drumry
+  :latitude: 55.9044
+  :longitude: -4.3853
+DFP:
+  :name: Dublin Ferryport
+DPS:
+  :name: Dublin Port - Stena
+DUD:
+  :name: Duddeston
+  :latitude: 52.4888
+  :longitude: -1.8724
+DDP:
+  :name: Dudley Port
+  :latitude: 52.5246
+  :longitude: -2.0491
+DFI:
+  :name: Duffield
+  :latitude: 52.9889
+  :longitude: -1.4866
+DRN:
+  :name: Duirinish
+  :latitude: 57.32
+  :longitude: -5.6915
+DST:
+  :name: Duke Street
+  :latitude: 55.8585
+  :longitude: -4.2128
+DUL:
+  :name: Dullingham
+  :latitude: 52.2017
+  :longitude: 0.366
+DBC:
+  :name: Dumbarton Central
+  :latitude: 55.9465
+  :longitude: -4.5684
+DBE:
+  :name: Dumbarton East
+  :latitude: 55.9421
+  :longitude: -4.5536
+DUM:
+  :name: Dumbreck
+  :latitude: 55.8445
+  :longitude: -4.3016
+DMF:
+  :name: Dumfries
+  :latitude: 55.0724
+  :longitude: -3.6045
+DMP:
+  :name: Dumpton Park
+  :latitude: 51.3462
+  :longitude: 1.4273
+DUN:
+  :name: Dunbar
+  :latitude: 55.998
+  :longitude: -2.5139
+DBL:
+  :name: Dunblane
+  :latitude: 56.1857
+  :longitude: -3.9655
+DCG:
+  :name: Duncraig
+  :latitude: 57.3366
+  :longitude: -5.637
+DEE:
+  :name: Dundee
+  :latitude: 56.4567
+  :longitude: -2.9712
+DFL:
+  :name: Dunfermline Queen Margaret
+  :latitude: 56.0801
+  :longitude: -3.4222
+DFE:
+  :name: Dunfermline Town
+  :latitude: 56.0684
+  :longitude: -3.4517
+DKD:
+  :name: Dunkeld & Birnam
+  :latitude: 56.5569
+  :longitude: -3.5786
+DNL:
+  :name: Dunlop
+  :latitude: 55.712
+  :longitude: -4.5322
+DNO:
+  :name: Dunrobin Castle
+  :latitude: 57.9859
+  :longitude: -3.9467
+DOT:
+  :name: Dunston
+  :latitude: 54.9495
+  :longitude: -1.6364
+DNG:
+  :name: Dunton Green
+  :latitude: 51.2966
+  :longitude: 0.1712
+DHM:
+  :name: Durham
+  :latitude: 54.7793
+  :longitude: -1.5827
+DUR:
+  :name: Durrington-on-Sea
+  :latitude: 50.8175
+  :longitude: -0.4115
+DYC:
+  :name: Dyce
+  :latitude: 57.2057
+  :longitude: -2.1925
+DYF:
+  :name: Dyffryn Ardudwy
+  :latitude: 52.789
+  :longitude: -4.1046
+EAG:
+  :name: Eaglescliffe
+  :latitude: 54.5294
+  :longitude: -1.3494
+EAL:
+  :name: Ealing Broadway
+  :latitude: 51.5147
+  :longitude: -0.3018
+ERL:
+  :name: Earlestown
+  :latitude: 53.4512
+  :longitude: -2.6375
+EAR:
+  :name: Earley
+  :latitude: 51.441
+  :longitude: -0.9177
+EAD:
+  :name: Earlsfield
+  :latitude: 51.4424
+  :longitude: -0.1878
+ELD:
+  :name: Earlswood (Surrey)
+  :latitude: 51.2274
+  :longitude: -0.1708
+EWD:
+  :name: Earlswood (West Midlands)
+  :latitude: 52.3668
+  :longitude: -1.8613
+ECR:
+  :name: East Croydon
+  :latitude: 51.3759
+  :longitude: -0.0927
+EDY:
+  :name: East Didsbury
+  :latitude: 53.4102
+  :longitude: -2.2214
+EDW:
+  :name: East Dulwich
+  :latitude: 51.4616
+  :longitude: -0.0804
+EFL:
+  :name: East Farleigh
+  :latitude: 51.2552
+  :longitude: 0.4847
+EGF:
+  :name: East Garforth
+  :latitude: 53.792
+  :longitude: -1.371
+EGR:
+  :name: East Grinstead
+  :latitude: 51.1263
+  :longitude: -0.0178
+EKL:
+  :name: East Kilbride
+  :latitude: 55.7661
+  :longitude: -4.1804
+EML:
+  :name: East Malling
+  :latitude: 51.2858
+  :longitude: 0.4395
+EMD:
+  :name: East Midlands Parkway
+  :latitude: 52.8625
+  :longitude: -1.2632
+ETL:
+  :name: East Tilbury
+  :latitude: 51.4851
+  :longitude: 0.4131
+EWR:
+  :name: East Worthing
+  :latitude: 50.8213
+  :longitude: -0.3549
+EBN:
+  :name: Eastbourne
+  :latitude: 50.7695
+  :longitude: 0.2814
+EBK:
+  :name: Eastbrook
+  :latitude: 51.4377
+  :longitude: -3.2062
+EST:
+  :name: Easterhouse
+  :latitude: 55.8598
+  :longitude: -4.1072
+ERA:
+  :name: Eastham Rake
+  :latitude: 53.3074
+  :longitude: -2.9811
+ESL:
+  :name: Eastleigh
+  :latitude: 50.9692
+  :longitude: -1.3499
+EGN:
+  :name: Eastrington
+  :latitude: 53.7555
+  :longitude: -0.7876
+EBD:
+  :name: Ebbsfleet International
+EBV:
+  :name: Ebbw Vale Parkway
+  :latitude: 51.7573
+  :longitude: -3.1965
+EBB:
+  :name: Ebbw Vale Town
+  :latitude: 51.7766
+  :longitude: -3.2026
+ECC:
+  :name: Eccles (Manchester)
+  :latitude: 53.4855
+  :longitude: -2.3346
+ECS:
+  :name: Eccles Road
+  :latitude: 52.4714
+  :longitude: 0.9699
+ECL:
+  :name: Eccleston Park
+  :latitude: 53.4309
+  :longitude: -2.7806
+EDL:
+  :name: Edale
+  :latitude: 53.3654
+  :longitude: -1.8171
+EDN:
+  :name: Eden Park
+  :latitude: 51.3901
+  :longitude: -0.0264
+EBR:
+  :name: Edenbridge
+  :latitude: 51.2085
+  :longitude: 0.0608
+EBT:
+  :name: Edenbridge Town
+  :latitude: 51.2001
+  :longitude: 0.0672
+EDG:
+  :name: Edge Hill
+  :latitude: 53.4028
+  :longitude: -2.9468
+EDB:
+  :name: Edinburgh
+  :latitude: 55.9517
+  :longitude: -3.1896
+EGY:
+  :name: Edinburgh Gateway
+  :latitude: 55.9411
+  :longitude: -3.3205
+EDP:
+  :name: Edinburgh Park
+  :latitude: 55.9277
+  :longitude: -3.3075
+EDR:
+  :name: Edmonton Green
+  :latitude: 51.6244
+  :longitude: -0.0615
+EFF:
+  :name: Effingham Junction
+  :latitude: 51.2914
+  :longitude: -0.42
+EGG:
+  :name: Eggesford
+  :latitude: 50.8878
+  :longitude: -3.8752
+EGH:
+  :name: Egham
+  :latitude: 51.4295
+  :longitude: -0.5465
+EGT:
+  :name: Egton
+  :latitude: 54.4376
+  :longitude: -0.7609
+EPH:
+  :name: Elephant & Castle
+  :latitude: 51.4941
+  :longitude: -0.0987
+ZEL:
+  :name: Elephant & Castle (Underground)
+ELG:
+  :name: Elgin
+  :latitude: 57.6429
+  :longitude: -3.3113
+ELP:
+  :name: Ellesmere Port
+  :latitude: 53.2824
+  :longitude: -2.8965
+ELE:
+  :name: Elmers End
+  :latitude: 51.3982
+  :longitude: -0.0484
+ESD:
+  :name: Elmstead Woods
+  :latitude: 51.4171
+  :longitude: 0.0431
+ESW:
+  :name: Elmswell
+  :latitude: 52.2381
+  :longitude: 0.9125
+ELR:
+  :name: Elsecar
+  :latitude: 53.4987
+  :longitude: -1.4274
+ESM:
+  :name: Elsenham (Essex)
+  :latitude: 51.9207
+  :longitude: 0.2276
+ELS:
+  :name: Elstree & Borehamwood
+  :latitude: 51.6528
+  :longitude: -0.2799
+ELW:
+  :name: Eltham
+  :latitude: 51.4556
+  :longitude: 0.0518
+ELO:
+  :name: Elton & Orston
+  :latitude: 52.9522
+  :longitude: -0.8559
+ELY:
+  :name: Ely
+  :latitude: 52.3915
+  :longitude: 0.2667
+EMP:
+  :name: Emerson Park
+  :latitude: 51.5687
+  :longitude: 0.2203
+EMS:
+  :name: Emsworth
+  :latitude: 50.8515
+  :longitude: -0.9388
+ECP:
+  :name: Energlyn & Churchill Park
+  :latitude: 51.5838
+  :longitude: -3.2287
+ENC:
+  :name: Enfield Chase
+  :latitude: 51.6528
+  :longitude: -0.0909
+ENL:
+  :name: Enfield Lock
+  :latitude: 51.6709
+  :longitude: -0.0286
+ENF:
+  :name: Enfield Town
+  :latitude: 51.6518
+  :longitude: -0.0789
+ENT:
+  :name: Entwistle
+  :latitude: 53.6554
+  :longitude: -2.4142
+EPS:
+  :name: Epsom (Surrey)
+  :latitude: 51.3344
+  :longitude: -0.2695
+EPD:
+  :name: Epsom Downs
+  :latitude: 51.3242
+  :longitude: -0.2387
+ERD:
+  :name: Erdington
+  :latitude: 52.5283
+  :longitude: -1.8397
+ERI:
+  :name: Eridge
+  :latitude: 51.0893
+  :longitude: 0.201
+ERH:
+  :name: Erith
+  :latitude: 51.4818
+  :longitude: 0.1749
+ESH:
+  :name: Esher
+  :latitude: 51.3802
+  :longitude: -0.3527
+EKB:
+  :name: Eskbank
+  :latitude: 55.8809
+  :longitude: -3.0828
+EXR:
+  :name: Essex Road
+  :latitude: 51.5406
+  :longitude: -0.0964
+ETC:
+  :name: Etchingham
+  :latitude: 51.0106
+  :longitude: 0.4423
+EBA:
+  :name: Euxton Balshaw Lane
+  :latitude: 53.6606
+  :longitude: -2.6722
+EVE:
+  :name: Evesham
+  :latitude: 52.0984
+  :longitude: -1.9473
+EWE:
+  :name: Ewell East
+  :latitude: 51.3452
+  :longitude: -0.2415
+EWW:
+  :name: Ewell West
+  :latitude: 51.3501
+  :longitude: -0.2571
+EXC:
+  :name: Exeter Central
+  :latitude: 50.7265
+  :longitude: -3.5333
+EXD:
+  :name: Exeter St David's
+  :latitude: 50.7292
+  :longitude: -3.5437
+EXT:
+  :name: Exeter St Thomas
+  :latitude: 50.7171
+  :longitude: -3.5386
+EXG:
+  :name: Exhibition Centre (Glasgow)
+  :latitude: 55.8613
+  :longitude: -4.2835
+EXM:
+  :name: Exmouth
+  :latitude: 50.621
+  :longitude: -3.416
+EXN:
+  :name: Exton
+  :latitude: 50.6683
+  :longitude: -3.4442
+EYN:
+  :name: Eynsford
+  :latitude: 51.3627
+  :longitude: 0.2045
+FRB:
+  :name: Fairbourne
+  :latitude: 52.6963
+  :longitude: -4.0488
+FRF:
+  :name: Fairfield
+  :latitude: 53.4714
+  :longitude: -2.1456
+FRL:
+  :name: Fairlie
+  :latitude: 55.7519
+  :longitude: -4.853
+FRW:
+  :name: Fairwater
+  :latitude: 51.4939
+  :longitude: -3.2338
+FCN:
+  :name: Falconwood
+  :latitude: 51.4592
+  :longitude: 0.0798
+FKG:
+  :name: Falkirk Grahamston
+  :latitude: 56.0022
+  :longitude: -3.7849
+FKK:
+  :name: Falkirk High
+  :latitude: 55.9919
+  :longitude: -3.7928
+FOC:
+  :name: Falls of Cruachan
+  :latitude: 56.3941
+  :longitude: -5.1135
+FMR:
+  :name: Falmer
+  :latitude: 50.8621
+  :longitude: -0.0876
+FAL:
+  :name: Falmouth Docks
+  :latitude: 50.1509
+  :longitude: -5.0557
+FMT:
+  :name: Falmouth Town
+  :latitude: 50.1484
+  :longitude: -5.0642
+FRM:
+  :name: Fareham
+  :latitude: 50.8533
+  :longitude: -1.192
+FNB:
+  :name: Farnborough (Main)
+  :latitude: 51.2966
+  :longitude: -0.7554
+FNN:
+  :name: Farnborough North
+  :latitude: 51.3023
+  :longitude: -0.7428
+FNC:
+  :name: Farncombe
+  :latitude: 51.1969
+  :longitude: -0.605
+FNH:
+  :name: Farnham
+  :latitude: 51.212
+  :longitude: -0.7922
+FNR:
+  :name: Farningham Road
+  :latitude: 51.4016
+  :longitude: 0.2355
+FNW:
+  :name: Farnworth
+  :latitude: 53.5502
+  :longitude: -2.3875
+ZFD:
+  :name: Farringdon
+  :latitude: 51.5208
+  :longitude: -0.1054
+FLD:
+  :name: Fauldhouse
+  :latitude: 55.8223
+  :longitude: -3.7196
+FAV:
+  :name: Faversham
+  :latitude: 51.3119
+  :longitude: 0.8899
+FGT:
+  :name: Faygate
+  :latitude: 51.0962
+  :longitude: -0.2628
+FAZ:
+  :name: Fazakerley
+  :latitude: 53.469
+  :longitude: -2.9367
+FRN:
+  :name: Fearn
+  :latitude: 57.7779
+  :longitude: -3.9944
+FEA:
+  :name: Featherstone
+  :latitude: 53.6788
+  :longitude: -1.3586
+FLX:
+  :name: Felixstowe
+  :latitude: 51.9671
+  :longitude: 1.3501
+FEL:
+  :name: Feltham
+  :latitude: 51.4481
+  :longitude: -0.4094
+FNT:
+  :name: Feniton
+  :latitude: 50.7867
+  :longitude: -3.2855
+FEN:
+  :name: Fenny Stratford
+  :latitude: 52.0
+  :longitude: -0.7168
+FER:
+  :name: Fernhill
+  :latitude: 51.6867
+  :longitude: -3.3965
+FRY:
+  :name: Ferriby
+  :latitude: 53.7171
+  :longitude: -0.5073
+FYS:
+  :name: Ferryside
+  :latitude: 51.7685
+  :longitude: -4.3694
+FFA:
+  :name: Ffairfach
+  :latitude: 51.8733
+  :longitude: -3.993
+FIL:
+  :name: Filey
+  :latitude: 54.2099
+  :longitude: -0.2937
+FIT:
+  :name: Filton Abbey Wood
+  :latitude: 51.5068
+  :longitude: -2.5628
+FNY:
+  :name: Finchley Road & Frognal
+  :latitude: 51.5499
+  :longitude: -0.1838
+FPK:
+  :name: Finsbury Park
+  :latitude: 51.5648
+  :longitude: -0.1064
+FIN:
+  :name: Finstock
+  :latitude: 51.853
+  :longitude: -1.4693
+FSB:
+  :name: Fishbourne (Sussex)
+  :latitude: 50.8392
+  :longitude: -0.8152
+FSG:
+  :name: Fishersgate
+  :latitude: 50.8342
+  :longitude: -0.2189
+FGW:
+  :name: Fishguard & Goodwick
+  :latitude: 52.0049
+  :longitude: -4.9932
+FGH:
+  :name: Fishguard Harbour
+  :latitude: 52.0098
+  :longitude: -4.9866
+FSK:
+  :name: Fiskerton
+  :latitude: 53.0603
+  :longitude: -0.9121
+FZW:
+  :name: Fitzwilliam
+  :latitude: 53.6324
+  :longitude: -1.3734
+FWY:
+  :name: Five Ways
+  :latitude: 52.4712
+  :longitude: -1.9132
+FLE:
+  :name: Fleet
+  :latitude: 51.2905
+  :longitude: -0.8318
+FLM:
+  :name: Flimby
+  :latitude: 54.6898
+  :longitude: -3.5207
+FLN:
+  :name: Flint
+  :latitude: 53.2501
+  :longitude: -3.1329
+FLT:
+  :name: Flitwick
+  :latitude: 52.0038
+  :longitude: -0.4952
+FLI:
+  :name: Flixton
+  :latitude: 53.4436
+  :longitude: -2.3841
+FLF:
+  :name: Flowery Field
+  :latitude: 53.4619
+  :longitude: -2.0808
+FKC:
+  :name: Folkestone Central
+  :latitude: 51.0829
+  :longitude: 1.1697
+FKW:
+  :name: Folkestone West
+  :latitude: 51.0847
+  :longitude: 1.1535
+FOD:
+  :name: Ford
+  :latitude: 50.8295
+  :longitude: -0.5788
+FOG:
+  :name: Forest Gate
+  :latitude: 51.5494
+  :longitude: 0.0242
+FOH:
+  :name: Forest Hill
+  :latitude: 51.4393
+  :longitude: -0.0533
+FBY:
+  :name: Formby
+  :latitude: 53.5536
+  :longitude: -3.0711
+FOR:
+  :name: Forres
+FRS:
+  :name: Forsinard
+  :latitude: 58.3567
+  :longitude: -3.8971
+FTM:
+  :name: Fort Matilda
+  :latitude: 55.9591
+  :longitude: -4.7951
+FTW:
+  :name: Fort William
+  :latitude: 56.8202
+  :longitude: -5.1058
+FOK:
+  :name: Four Oaks
+  :latitude: 52.5798
+  :longitude: -1.8283
+FOX:
+  :name: Foxfield
+  :latitude: 54.2584
+  :longitude: -3.2161
+FXN:
+  :name: Foxton
+  :latitude: 52.1193
+  :longitude: 0.0562
+FRT:
+  :name: Frant
+  :latitude: 51.1041
+  :longitude: 0.2945
+FTN:
+  :name: Fratton
+  :latitude: 50.7965
+  :longitude: -1.0734
+FRE:
+  :name: Freshfield
+  :latitude: 53.5661
+  :longitude: -3.0717
+FFD:
+  :name: Freshford
+  :latitude: 51.3421
+  :longitude: -2.3008
+FML:
+  :name: Frimley
+  :latitude: 51.3119
+  :longitude: -0.7469
+FRI:
+  :name: Frinton-on-Sea
+  :latitude: 51.8377
+  :longitude: 1.2434
+FZH:
+  :name: Frizinghall
+  :latitude: 53.8199
+  :longitude: -1.7688
+FRD:
+  :name: Frodsham
+  :latitude: 53.2956
+  :longitude: -2.7243
+FRO:
+  :name: Frome
+  :latitude: 51.2272
+  :longitude: -2.3101
+FLW:
+  :name: Fulwell
+  :latitude: 51.4335
+  :longitude: -0.3507
+FNV:
+  :name: Furness Vale
+  :latitude: 53.3486
+  :longitude: -1.9891
+FZP:
+  :name: Furze Platt
+  :latitude: 51.533
+  :longitude: -0.729
+GNB:
+  :name: Gainsborough Central
+  :latitude: 53.399
+  :longitude: -0.7696
+GBL:
+  :name: Gainsborough Lea Road
+  :latitude: 53.386
+  :longitude: -0.7695
+GAL:
+  :name: Galashiels
+  :latitude: 55.6179
+  :longitude: -2.8054
+GCH:
+  :name: Garelochhead
+  :latitude: 56.08
+  :longitude: -4.8255
+GRF:
+  :name: Garforth
+  :latitude: 53.7965
+  :longitude: -1.3822
+GGV:
+  :name: Gargrave
+  :latitude: 53.9783
+  :longitude: -2.105
+GAR:
+  :name: Garrowhill
+  :latitude: 55.8553
+  :longitude: -4.1294
+GRS:
+  :name: Garscadden
+  :latitude: 55.8876
+  :longitude: -4.3648
+GSD:
+  :name: Garsdale
+  :latitude: 54.3214
+  :longitude: -2.3265
+GSN:
+  :name: Garston (Hertfordshire)
+  :latitude: 51.6868
+  :longitude: -0.3817
+GSW:
+  :name: Garswood
+  :latitude: 53.488
+  :longitude: -2.6721
+GRH:
+  :name: Gartcosh
+  :latitude: 55.8857
+  :longitude: -4.0794
+GMG:
+  :name: Garth (Mid Glamorgan)
+  :latitude: 51.5967
+  :longitude: -3.6426
+GTH:
+  :name: Garth (Powys)
+  :latitude: 52.1334
+  :longitude: -3.5302
+GVE:
+  :name: Garve
+  :latitude: 57.6131
+  :longitude: -4.6884
+GST:
+  :name: Gathurst
+  :latitude: 53.5594
+  :longitude: -2.6939
+GTY:
+  :name: Gatley
+  :latitude: 53.393
+  :longitude: -2.2308
+GTW:
+  :name: Gatwick Airport
+  :latitude: 51.1565
+  :longitude: -0.161
+GGJ:
+  :name: Georgemas Junction
+  :latitude: 58.5135
+  :longitude: -3.4518
+GER:
+  :name: Gerrards Cross
+  :latitude: 51.5891
+  :longitude: -0.5552
+GDP:
+  :name: Gidea Park
+  :latitude: 51.5819
+  :longitude: 0.206
+GFN:
+  :name: Giffnock
+  :latitude: 55.8041
+  :longitude: -4.2932
+GIG:
+  :name: Giggleswick
+  :latitude: 54.0617
+  :longitude: -2.302
+GBD:
+  :name: Gilberdyke
+  :latitude: 53.7481
+  :longitude: -0.732
+GFF:
+  :name: Gilfach Fargoed
+  :latitude: 51.6841
+  :longitude: -3.2274
+GIL:
+  :name: Gillingham (Dorset)
+  :latitude: 51.034
+  :longitude: -2.2726
+GLM:
+  :name: Gillingham (Kent)
+  :latitude: 51.3867
+  :longitude: 0.55
+GSC:
+  :name: Gilshochill
+  :latitude: 55.8975
+  :longitude: -4.2829
+GIP:
+  :name: Gipsy Hill
+  :latitude: 51.4245
+  :longitude: -0.084
+GIR:
+  :name: Girvan
+  :latitude: 55.2464
+  :longitude: -4.8483
+GLS:
+  :name: Glaisdale
+  :latitude: 54.4394
+  :longitude: -0.7938
+GCW:
+  :name: Glan Conwy
+  :latitude: 53.2688
+  :longitude: -3.7977
+GLC:
+  :name: Glasgow Central
+  :latitude: 55.8602
+  :longitude: -4.2581
+GLQ:
+  :name: Glasgow Queen Street
+  :latitude: 55.862
+  :longitude: -4.2516
+GLH:
+  :name: Glasshoughton
+GLZ:
+  :name: Glazebrook
+  :latitude: 53.4283
+  :longitude: -2.46
+GLE:
+  :name: Gleneagles
+  :latitude: 56.2749
+  :longitude: -3.7311
+GLF:
+  :name: Glenfinnan
+  :latitude: 56.8724
+  :longitude: -5.4492
+GLG:
+  :name: Glengarnock
+  :latitude: 55.7388
+  :longitude: -4.6751
+GLT:
+  :name: Glenrothes with Thornton
+  :latitude: 56.1623
+  :longitude: -3.1429
+GLO:
+  :name: Glossop
+  :latitude: 53.4445
+  :longitude: -1.9492
+GCR:
+  :name: Gloucester
+  :latitude: 51.8656
+  :longitude: -2.2385
+GLY:
+  :name: Glynde
+  :latitude: 50.8591
+  :longitude: 0.0702
+GOB:
+  :name: Gobowen
+  :latitude: 52.8936
+  :longitude: -3.0373
+GOD:
+  :name: Godalming
+  :latitude: 51.1866
+  :longitude: -0.6194
+GDL:
+  :name: Godley
+  :latitude: 53.4522
+  :longitude: -2.0557
+GDN:
+  :name: Godstone
+  :latitude: 51.2181
+  :longitude: -0.0511
+GOE:
+  :name: Goldthorpe
+  :latitude: 53.5335
+  :longitude: -1.3131
+GOF:
+  :name: Golf Street
+  :latitude: 56.4979
+  :longitude: -2.7204
+GOL:
+  :name: Golspie
+  :latitude: 57.9715
+  :longitude: -3.9872
+GOM:
+  :name: Gomshall
+  :latitude: 51.2193
+  :longitude: -0.4422
+GMY:
+  :name: Goodmayes
+  :latitude: 51.5657
+  :longitude: 0.1116
+GOO:
+  :name: Goole
+  :latitude: 53.7049
+  :longitude: -0.8745
+GTR:
+  :name: Goostrey
+  :latitude: 53.2223
+  :longitude: -2.3264
+GDH:
+  :name: Gordon Hill
+  :latitude: 51.6628
+  :longitude: -0.0941
+GBG:
+  :name: Gorebridge
+  :latitude: 55.8404
+  :longitude: -3.0468
+GOR:
+  :name: Goring & Streatley
+  :latitude: 51.5209
+  :longitude: -1.1331
+GBS:
+  :name: Goring-by-Sea
+  :latitude: 50.8177
+  :longitude: -0.4341
+GTO:
+  :name: Gorton
+  :latitude: 53.4689
+  :longitude: -2.1677
+GPO:
+  :name: Gospel Oak
+  :latitude: 51.5554
+  :longitude: -0.1513
+GRK:
+  :name: Gourock
+  :latitude: 55.9621
+  :longitude: -4.8169
+GWN:
+  :name: Gowerton
+  :latitude: 51.6489
+  :longitude: -4.0356
+GOX:
+  :name: Goxhill
+  :latitude: 53.6768
+  :longitude: -0.3375
+GPK:
+  :name: Grange Park
+  :latitude: 51.6434
+  :longitude: -0.0969
+GOS:
+  :name: Grange-Over-Sands
+  :latitude: 54.1956
+  :longitude: -2.9029
+GTN:
+  :name: Grangetown (Cardiff)
+  :latitude: 51.4673
+  :longitude: -3.1896
+GRA:
+  :name: Grantham
+  :latitude: 52.9065
+  :longitude: -0.643
+GRT:
+  :name: Grateley
+  :latitude: 51.1703
+  :longitude: -1.6199
+GVH:
+  :name: Gravelly Hill
+  :latitude: 52.5151
+  :longitude: -1.853
+GRV:
+  :name: Gravesend
+  :latitude: 51.4414
+  :longitude: 0.3667
+GRY:
+  :name: Grays
+  :latitude: 51.4763
+  :longitude: 0.3217
+GTA:
+  :name: Great Ayton
+  :latitude: 54.4895
+  :longitude: -1.1154
+GRB:
+  :name: Great Bentley
+  :latitude: 51.8518
+  :longitude: 1.0652
+GRC:
+  :name: Great Chesterford
+  :latitude: 52.0599
+  :longitude: 0.1933
+GCT:
+  :name: Great Coates
+  :latitude: 53.5757
+  :longitude: -0.1301
+GMV:
+  :name: Great Malvern
+  :latitude: 52.1095
+  :longitude: -2.3181
+GMN:
+  :name: Great Missenden
+  :latitude: 51.7034
+  :longitude: -0.7091
+GYM:
+  :name: Great Yarmouth
+  :latitude: 52.612
+  :longitude: 1.7207
+GNL:
+  :name: Green Lane
+  :latitude: 53.3832
+  :longitude: -3.0161
+GNR:
+  :name: Green Road
+  :latitude: 54.2444
+  :longitude: -3.2454
+GBK:
+  :name: Greenbank
+  :latitude: 53.2515
+  :longitude: -2.5343
+GRL:
+  :name: Greenfaulds
+  :latitude: 55.9346
+  :longitude: -3.9946
+GNF:
+  :name: Greenfield
+  :latitude: 53.5387
+  :longitude: -2.0143
+GFD:
+  :name: Greenford
+  :latitude: 51.5424
+  :longitude: -0.3455
+GNH:
+  :name: Greenhithe
+  :latitude: 51.4507
+  :longitude: 0.2787
+GKC:
+  :name: Greenock Central
+  :latitude: 55.9453
+  :longitude: -4.752
+GKW:
+  :name: Greenock West
+  :latitude: 55.9473
+  :longitude: -4.768
+GNW:
+  :name: Greenwich
+  :latitude: 51.4783
+  :longitude: -0.0135
+GEA:
+  :name: Gretna Green
+  :latitude: 55.001
+  :longitude: -3.0653
+GMD:
+  :name: Grimsby Docks
+  :latitude: 53.5744
+  :longitude: -0.0758
+GMB:
+  :name: Grimsby Town
+  :latitude: 53.5634
+  :longitude: -0.087
+GRN:
+  :name: Grindleford
+  :latitude: 53.3056
+  :longitude: -1.6267
+GMT:
+  :name: Grosmont
+  :latitude: 54.4364
+  :longitude: -0.7255
+GRP:
+  :name: Grove Park
+  :latitude: 51.4309
+  :longitude: 0.0217
+GUI:
+  :name: Guide Bridge
+  :latitude: 53.4745
+  :longitude: -2.1137
+GLD:
+  :name: Guildford
+  :latitude: 51.2369
+  :longitude: -0.581
+GSY:
+  :name: Guiseley
+  :latitude: 53.8758
+  :longitude: -1.7147
+GUN:
+  :name: Gunnersbury
+  :latitude: 51.4917
+  :longitude: -0.2752
+GSL:
+  :name: Gunnislake
+  :latitude: 50.5165
+  :longitude: -4.2196
+GNT:
+  :name: Gunton
+  :latitude: 52.8664
+  :longitude: 1.3493
+GWE:
+  :name: Gwersyllt
+  :latitude: 53.0728
+  :longitude: -3.0179
+GYP:
+  :name: Gypsy Lane
+  :latitude: 54.5333
+  :longitude: -1.1802
+HAB:
+  :name: Habrough
+  :latitude: 53.606
+  :longitude: -0.269
+HCB:
+  :name: Hackbridge
+  :latitude: 51.3776
+  :longitude: -0.1536
+HKC:
+  :name: Hackney Central
+  :latitude: 51.5471
+  :longitude: -0.0556
+HAC:
+  :name: Hackney Downs
+  :latitude: 51.5488
+  :longitude: -0.0608
+HKW:
+  :name: Hackney Wick
+  :latitude: 51.5435
+  :longitude: -0.0246
+HDM:
+  :name: Haddenham & Thame Parkway
+  :latitude: 51.771
+  :longitude: -0.942
+HAD:
+  :name: Haddiscoe
+  :latitude: 52.5283
+  :longitude: 1.6234
+HDF:
+  :name: Hadfield
+  :latitude: 53.4607
+  :longitude: -1.9656
+HDW:
+  :name: Hadley Wood
+  :latitude: 51.5587
+  :longitude: -0.1762
+HGF:
+  :name: Hag Fold
+  :latitude: 53.5335
+  :longitude: -2.4938
+HGG:
+  :name: Haggerston
+  :latitude: 51.5387
+  :longitude: -0.0757
+HAG:
+  :name: Hagley
+  :latitude: 52.4226
+  :longitude: -2.1463
+HMY:
+  :name: Hairmyres
+  :latitude: 55.7619
+  :longitude: -4.2201
+HAL:
+  :name: Hale (Manchester)
+  :latitude: 53.3786
+  :longitude: -2.3475
+HAS:
+  :name: Halesworth
+  :latitude: 52.347
+  :longitude: 1.5059
+HED:
+  :name: Halewood
+  :latitude: 53.3645
+  :longitude: -2.8301
+HFX:
+  :name: Halifax
+  :latitude: 53.7208
+  :longitude: -1.8538
+HLG:
+  :name: Hall Green
+  :latitude: 52.437
+  :longitude: -1.8462
+HLR:
+  :name: Hall Road
+  :latitude: 53.4976
+  :longitude: -3.0496
+HAI:
+  :name: Halling
+  :latitude: 51.3526
+  :longitude: 0.4451
+HID:
+  :name: Hall-i'-th'-Wood
+  :latitude: 53.5968
+  :longitude: -2.4134
+HWH:
+  :name: Haltwhistle
+  :latitude: 54.9679
+  :longitude: -2.4637
+HMT:
+  :name: Ham Street
+  :latitude: 51.0682
+  :longitude: 0.8544
+HME:
+  :name: Hamble
+  :latitude: 50.8714
+  :longitude: -1.3288
+HNC:
+  :name: Hamilton Central
+  :latitude: 55.7731
+  :longitude: -4.039
+HNW:
+  :name: Hamilton West
+  :latitude: 55.7789
+  :longitude: -4.055
+HMM:
+  :name: Hammerton
+  :latitude: 53.9963
+  :longitude: -1.2842
+HMD:
+  :name: Hampden Park (Sussex)
+  :latitude: 50.7964
+  :longitude: 0.2795
+HDH:
+  :name: Hampstead Heath
+  :latitude: 51.5552
+  :longitude: -0.1656
+HMP:
+  :name: Hampton (London)
+  :latitude: 51.416
+  :longitude: -0.3721
+HMC:
+  :name: Hampton Court
+  :latitude: 51.4023
+  :longitude: -0.3429
+HMW:
+  :name: Hampton Wick
+  :latitude: 51.4146
+  :longitude: -0.3124
+HIA:
+  :name: Hampton-in-Arden
+  :latitude: 52.4285
+  :longitude: -1.6996
+HSD:
+  :name: Hamstead (Birmingham)
+  :latitude: 52.5306
+  :longitude: -1.9283
+HAM:
+  :name: Hamworthy
+  :latitude: 50.7248
+  :longitude: -2.0197
+HND:
+  :name: Hanborough
+  :latitude: 51.8252
+  :longitude: -1.3739
+HTH:
+  :name: Handforth
+  :latitude: 53.3464
+  :longitude: -2.2128
+HAN:
+  :name: Hanwell
+  :latitude: 51.5118
+  :longitude: -0.3387
+HPN:
+  :name: Hapton
+  :latitude: 53.7816
+  :longitude: -2.3174
+HRL:
+  :name: Harlech
+  :latitude: 52.8617
+  :longitude: -4.1094
+HDN:
+  :name: Harlesden
+  :latitude: 51.5367
+  :longitude: -0.2586
+HRD:
+  :name: Harling Road
+  :latitude: 52.4536
+  :longitude: 0.909
+HLN:
+  :name: Harlington (Beds)
+  :latitude: 51.9617
+  :longitude: -0.4954
+HWM:
+  :name: Harlow Mill
+  :latitude: 51.7904
+  :longitude: 0.1323
+HWN:
+  :name: Harlow Town
+  :latitude: 51.7812
+  :longitude: 0.0952
+HRO:
+  :name: Harold Wood
+  :latitude: 51.5933
+  :longitude: 0.2342
+HPD:
+  :name: Harpenden
+  :latitude: 51.8148
+  :longitude: -0.3517
+HRM:
+  :name: Harrietsham
+  :latitude: 51.2449
+  :longitude: 0.6725
+HGY:
+  :name: Harringay
+  :latitude: 51.5773
+  :longitude: -0.1052
+HRY:
+  :name: Harringay Green Lanes
+  :latitude: 51.5773
+  :longitude: -0.098
+HRR:
+  :name: Harrington
+  :latitude: 54.6133
+  :longitude: -3.5655
+HGT:
+  :name: Harrogate
+  :latitude: 53.9929
+  :longitude: -1.5374
+HRW:
+  :name: Harrow & Wealdstone
+  :latitude: 51.5922
+  :longitude: -0.3347
+HOH:
+  :name: Harrow-on-the-Hill
+  :latitude: 51.5794
+  :longitude: -0.3369
+HTF:
+  :name: Hartford (Cheshire)
+  :latitude: 53.2418
+  :longitude: -2.5537
+HBY:
+  :name: Hartlebury
+  :latitude: 52.3343
+  :longitude: -2.221
+HPL:
+  :name: Hartlepool
+  :latitude: 54.6868
+  :longitude: -1.208
+HTW:
+  :name: Hartwood
+  :latitude: 55.8112
+  :longitude: -3.8392
+HPQ:
+  :name: Harwich International
+  :latitude: 51.9474
+  :longitude: 1.2555
+HWC:
+  :name: Harwich Town
+  :latitude: 51.9443
+  :longitude: 1.2865
+HSL:
+  :name: Haslemere
+  :latitude: 51.0888
+  :longitude: -0.7193
+HSK:
+  :name: Hassocks
+  :latitude: 50.9246
+  :longitude: -0.1457
+HGS:
+  :name: Hastings
+  :latitude: 50.8581
+  :longitude: 0.5763
+HTE:
+  :name: Hatch End
+  :latitude: 51.6094
+  :longitude: -0.3684
+HFS:
+  :name: Hatfield & Stainforth
+  :latitude: 53.5889
+  :longitude: -1.0235
+HAT:
+  :name: Hatfield (Herts)
+  :latitude: 51.7639
+  :longitude: -0.2157
+HAP:
+  :name: Hatfield Peverel
+  :latitude: 51.78
+  :longitude: 0.5918
+HSG:
+  :name: Hathersage
+  :latitude: 53.3257
+  :longitude: -1.6518
+HTY:
+  :name: Hattersley
+  :latitude: 53.4453
+  :longitude: -2.0405
+HTN:
+  :name: Hatton
+  :latitude: 52.2952
+  :longitude: -1.6729
+HAV:
+  :name: Havant
+  :latitude: 50.8544
+  :longitude: -0.9816
+HVN:
+  :name: Havenhouse
+  :latitude: 53.1146
+  :longitude: 0.2731
+HVF:
+  :name: Haverfordwest
+  :latitude: 51.8027
+  :longitude: -4.9602
+HWD:
+  :name: Hawarden
+  :latitude: 53.1854
+  :longitude: -3.0318
+HWB:
+  :name: Hawarden Bridge
+  :latitude: 53.2183
+  :longitude: -3.0322
+HKH:
+  :name: Hawkhead
+  :latitude: 55.8421
+  :longitude: -4.399
+HDB:
+  :name: Haydon Bridge
+  :latitude: 54.9752
+  :longitude: -2.2476
+HYR:
+  :name: Haydons Road
+  :latitude: 51.4254
+  :longitude: -0.189
+HAY:
+  :name: Hayes & Harlington
+  :latitude: 51.5029
+  :longitude: -0.4204
+HYS:
+  :name: Hayes (Kent)
+  :latitude: 51.3765
+  :longitude: 0.0099
+HYL:
+  :name: Hayle
+  :latitude: 50.1853
+  :longitude: -5.4203
+HYM:
+  :name: Haymarket
+  :latitude: 55.9454
+  :longitude: -3.2186
+HHE:
+  :name: Haywards Heath
+  :latitude: 51.0053
+  :longitude: -0.1052
+HAZ:
+  :name: Hazel Grove
+  :latitude: 53.3779
+  :longitude: -2.1231
+HCN:
+  :name: Headcorn
+  :latitude: 51.1656
+  :longitude: 0.6272
+HDY:
+  :name: Headingley
+  :latitude: 53.818
+  :longitude: -1.5942
+HDL:
+  :name: Headstone Lane
+  :latitude: 51.6026
+  :longitude: -0.357
+HDG:
+  :name: Heald Green
+  :latitude: 53.3694
+  :longitude: -2.2367
+HLI:
+  :name: Healing
+  :latitude: 53.5817
+  :longitude: -0.1604
+HHL:
+  :name: Heath High Level
+  :latitude: 51.5168
+  :longitude: -3.1816
+HLL:
+  :name: Heath Low Level
+  :latitude: 51.5156
+  :longitude: -3.1822
+HAF:
+  :name: Heathrow Airport Terminal 4
+  :latitude: 51.4591
+  :longitude: -0.4463
+HWV:
+  :name: Heathrow Airport Terminal 5
+  :latitude: 51.4719
+  :longitude: -0.4892
+HXX:
+  :name: Heathrow Airport Terminals 1, 2 and 3
+  :latitude: 51.4715
+  :longitude: -0.4558
+HTC:
+  :name: Heaton Chapel
+  :latitude: 53.4258
+  :longitude: -2.1793
+HBD:
+  :name: Hebden Bridge
+  :latitude: 53.7377
+  :longitude: -2.0089
+HEC:
+  :name: Heckington
+  :latitude: 52.9773
+  :longitude: -0.2943
+HDE:
+  :name: Hedge End
+  :latitude: 50.9323
+  :longitude: -1.2943
+HNF:
+  :name: Hednesford
+  :latitude: 52.71
+  :longitude: -2.0018
+HEI:
+  :name: Heighington
+  :latitude: 54.5969
+  :longitude: -1.5817
+HLC:
+  :name: Helensburgh Central
+  :latitude: 56.0041
+  :longitude: -4.7325
+HLU:
+  :name: Helensburgh Upper
+  :latitude: 56.0125
+  :longitude: -4.731
+HLD:
+  :name: Hellifield
+  :latitude: 54.0109
+  :longitude: -2.2278
+HMS:
+  :name: Helmsdale
+  :latitude: 58.118
+  :longitude: -3.6598
+HSB:
+  :name: Helsby
+  :latitude: 53.2752
+  :longitude: -2.7712
+HML:
+  :name: Hemel Hempstead
+  :latitude: 51.7422
+  :longitude: -0.4908
+HEN:
+  :name: Hendon
+  :latitude: 51.5802
+  :longitude: -0.2392
+HNG:
+  :name: Hengoed
+  :latitude: 51.6472
+  :longitude: -3.2252
+HNL:
+  :name: Henley-in-Arden
+  :latitude: 52.2915
+  :longitude: -1.7841
+HOT:
+  :name: Henley-on-Thames
+  :latitude: 51.5341
+  :longitude: -0.9001
+HEL:
+  :name: Hensall
+  :latitude: 53.6986
+  :longitude: -1.1148
+HFD:
+  :name: Hereford
+  :latitude: 52.0614
+  :longitude: -2.7085
+HNB:
+  :name: Herne Bay
+  :latitude: 51.3645
+  :longitude: 1.1177
+HNH:
+  :name: Herne Hill
+  :latitude: 51.4538
+  :longitude: -0.1026
+HER:
+  :name: Hersham
+  :latitude: 51.3769
+  :longitude: -0.3897
+HFE:
+  :name: Hertford East
+  :latitude: 51.7991
+  :longitude: -0.0729
+HFN:
+  :name: Hertford North
+  :latitude: 51.7989
+  :longitude: -0.092
+HES:
+  :name: Hessle
+  :latitude: 53.7173
+  :longitude: -0.4421
+HSW:
+  :name: Heswall
+  :latitude: 53.3297
+  :longitude: -3.0734
+HEV:
+  :name: Hever
+  :latitude: 51.1813
+  :longitude: 0.095
+HEW:
+  :name: Heworth
+  :latitude: 54.9516
+  :longitude: -1.5559
+HEX:
+  :name: Hexham
+  :latitude: 54.9736
+  :longitude: -2.0949
+HYD:
+  :name: Heyford
+  :latitude: 51.9186
+  :longitude: -1.2993
+HHB:
+  :name: Heysham Port
+  :latitude: 54.0333
+  :longitude: -2.9131
+HIB:
+  :name: High Brooms
+  :latitude: 51.1493
+  :longitude: 0.2774
+HST:
+  :name: High Street (Glasgow)
+  :latitude: 55.8595
+  :longitude: -4.2402
+ZHS:
+  :name: High Street Kensington Underground
+HWY:
+  :name: High Wycombe
+  :latitude: 51.6292
+  :longitude: -0.7445
+HGM:
+  :name: Higham (Kent)
+  :latitude: 51.4267
+  :longitude: 0.4665
+HIP:
+  :name: Highams Park
+  :latitude: 51.6086
+  :longitude: -0.0002
+HIG:
+  :name: Highbridge & Burnham
+  :latitude: 51.2194
+  :longitude: -2.972
+HHY:
+  :name: Highbury & Islington
+  :latitude: 51.5462
+  :longitude: -0.1027
+HTO:
+  :name: Hightown
+  :latitude: 53.5248
+  :longitude: -3.0628
+HLB:
+  :name: Hildenborough
+  :latitude: 51.2146
+  :longitude: 0.2278
+HLF:
+  :name: Hillfoot
+  :latitude: 55.9202
+  :longitude: -4.3202
+HLE:
+  :name: Hillington East
+  :latitude: 55.8542
+  :longitude: -4.355
+HLW:
+  :name: Hillington West
+  :latitude: 55.8559
+  :longitude: -4.3718
+HIL:
+  :name: Hillside
+  :latitude: 53.622
+  :longitude: -3.0252
+HLS:
+  :name: Hilsea
+  :latitude: 50.8279
+  :longitude: -1.059
+HYW:
+  :name: Hinchley Wood
+  :latitude: 51.3748
+  :longitude: -0.341
+HNK:
+  :name: Hinckley (Leics)
+  :latitude: 52.5352
+  :longitude: -1.3714
+HIN:
+  :name: Hindley
+  :latitude: 53.5423
+  :longitude: -2.5757
+HNA:
+  :name: Hinton Admiral
+  :latitude: 50.7527
+  :longitude: -1.714
+HIT:
+  :name: Hitchin
+  :latitude: 51.9549
+  :longitude: -0.2634
+HGR:
+  :name: Hither Green
+  :latitude: 51.4521
+  :longitude: -0.001
+HOC:
+  :name: Hockley
+  :latitude: 51.6036
+  :longitude: 0.6592
+HBN:
+  :name: Hollingbourne
+  :latitude: 51.2654
+  :longitude: 0.6278
+HCH:
+  :name: Holmes Chapel
+  :latitude: 53.1991
+  :longitude: -2.3513
+HLM:
+  :name: Holmwood
+  :latitude: 51.1811
+  :longitude: -0.3209
+HOL:
+  :name: Holton Heath
+  :latitude: 50.7112
+  :longitude: -2.0783
+HHD:
+  :name: Holyhead
+  :latitude: 53.3075
+  :longitude: -4.6312
+HLY:
+  :name: Holytown
+  :latitude: 55.8124
+  :longitude: -3.9732
+HMN:
+  :name: Homerton
+  :latitude: 51.5471
+  :longitude: -0.0424
+HYB:
+  :name: Honeybourne
+  :latitude: 52.1016
+  :longitude: -1.8339
+HON:
+  :name: Honiton
+  :latitude: 50.7967
+  :longitude: -3.1872
+HOY:
+  :name: Honley
+  :latitude: 53.6084
+  :longitude: -1.781
+HPA:
+  :name: Honor Oak Park
+  :latitude: 51.4502
+  :longitude: -0.0455
+HOK:
+  :name: Hook
+  :latitude: 51.28
+  :longitude: -0.9616
+HOO:
+  :name: Hooton
+  :latitude: 53.2972
+  :longitude: -2.9771
+HOP:
+  :name: Hope (Derbyshire)
+  :latitude: 53.3461
+  :longitude: -1.7298
+HPE:
+  :name: Hope (Flintshire)
+  :latitude: 53.1168
+  :longitude: -3.0372
+HPT:
+  :name: Hopton Heath
+  :latitude: 52.3914
+  :longitude: -2.9122
+HOR:
+  :name: Horley
+  :latitude: 51.1686
+  :longitude: -0.1611
+HBP:
+  :name: Hornbeam Park
+  :latitude: 53.9802
+  :longitude: -1.5272
+HRN:
+  :name: Hornsey
+  :latitude: 51.5863
+  :longitude: -0.1117
+HRS:
+  :name: Horsforth
+  :latitude: 53.8477
+  :longitude: -1.6301
+HRH:
+  :name: Horsham
+  :latitude: 51.066
+  :longitude: -0.3189
+HSY:
+  :name: Horsley
+  :latitude: 51.2794
+  :longitude: -0.4354
+HIR:
+  :name: Horton-in-Ribblesdale
+  :latitude: 54.1494
+  :longitude: -2.3021
+HWI:
+  :name: Horwich Parkway
+  :latitude: 53.578
+  :longitude: -2.5398
+HSC:
+  :name: Hoscar
+  :latitude: 53.5976
+  :longitude: -2.8038
+HGN:
+  :name: Hough Green
+  :latitude: 53.3725
+  :longitude: -2.7752
+HOU:
+  :name: Hounslow
+  :latitude: 51.4619
+  :longitude: -0.3622
+HOV:
+  :name: Hove
+  :latitude: 50.8352
+  :longitude: -0.1703
+HXM:
+  :name: Hoveton & Wroxham
+  :latitude: 52.7154
+  :longitude: 1.4079
+HWW:
+  :name: How Wood (Herts)
+  :latitude: 51.7174
+  :longitude: -0.3451
+HOW:
+  :name: Howden
+  :latitude: 53.7648
+  :longitude: -0.861
+HOZ:
+  :name: Howwood (Renfrewshire)
+  :latitude: 55.8106
+  :longitude: -4.5626
+HOX:
+  :name: Hoxton
+  :latitude: 51.532
+  :longitude: -0.0756
+HYK:
+  :name: Hoylake
+  :latitude: 53.39
+  :longitude: -3.179
+HBB:
+  :name: Hubberts Bridge
+  :latitude: 52.9754
+  :longitude: -0.1104
+HKN:
+  :name: Hucknall
+  :latitude: 53.0382
+  :longitude: -1.1959
+HUD:
+  :name: Huddersfield
+  :latitude: 53.6488
+  :longitude: -1.7846
+HUL:
+  :name: Hull
+  :latitude: 53.7439
+  :longitude: -0.3469
+HUP:
+  :name: Humphrey Park
+  :latitude: 53.4523
+  :longitude: -2.3275
+HCT:
+  :name: Huncoat
+  :latitude: 53.7725
+  :longitude: -2.3469
+HGD:
+  :name: Hungerford
+  :latitude: 51.4148
+  :longitude: -1.5122
+HUB:
+  :name: Hunmanby
+  :latitude: 54.1739
+  :longitude: -0.3146
+HUN:
+  :name: Huntingdon
+  :latitude: 52.3289
+  :longitude: -0.1925
+HNT:
+  :name: Huntly
+  :latitude: 57.4445
+  :longitude: -2.7756
+HNX:
+  :name: Hunts Cross
+  :latitude: 53.3606
+  :longitude: -2.8561
+HUR:
+  :name: Hurst Green
+  :latitude: 51.2445
+  :longitude: 0.0039
+HUT:
+  :name: Hutton Cranswick
+  :latitude: 53.9559
+  :longitude: -0.434
+HUY:
+  :name: Huyton
+  :latitude: 53.4096
+  :longitude: -2.8432
+HYC:
+  :name: Hyde Central
+  :latitude: 53.4513
+  :longitude: -2.0851
+HYT:
+  :name: Hyde North
+  :latitude: 53.4646
+  :longitude: -2.0852
+HKM:
+  :name: Hykeham
+  :latitude: 53.1951
+  :longitude: -0.5999
+HYN:
+  :name: Hyndland
+  :latitude: 55.8798
+  :longitude: -4.3147
+HYH:
+  :name: Hythe (Essex)
+  :latitude: 51.8857
+  :longitude: 0.9275
+IBM:
+  :name: IBM Halt
+  :latitude: 55.92944
+  :longitude: -4.82723
+IFI:
+  :name: Ifield
+  :latitude: 51.1158
+  :longitude: -0.2149
+IFD:
+  :name: Ilford
+  :latitude: 51.5591
+  :longitude: 0.0693
+ILK:
+  :name: Ilkley
+  :latitude: 53.9248
+  :longitude: -1.8216
+IMW:
+  :name: Imperial Wharf
+  :latitude: 51.4744
+  :longitude: -0.181
+INE:
+  :name: Ince & Elton
+  :latitude: 53.2766
+  :longitude: -2.8174
+INC:
+  :name: Ince (Manchester)
+  :latitude: 53.5392
+  :longitude: -2.6121
+INT:
+  :name: Ingatestone
+  :latitude: 51.6669
+  :longitude: 0.3835
+INS:
+  :name: Insch
+  :latitude: 57.3374
+  :longitude: -2.6172
+IGD:
+  :name: Invergordon
+  :latitude: 57.6889
+  :longitude: -4.1754
+ING:
+  :name: Invergowrie
+  :latitude: 56.4562
+  :longitude: -3.0582
+INK:
+  :name: Inverkeithing
+  :latitude: 56.0352
+  :longitude: -3.3956
+INP:
+  :name: Inverkip
+  :latitude: 55.9061
+  :longitude: -4.8726
+INV:
+  :name: Inverness
+  :latitude: 57.4796
+  :longitude: -4.2241
+INH:
+  :name: Invershin
+  :latitude: 57.9252
+  :longitude: -4.399
+INR:
+  :name: Inverurie
+  :latitude: 57.2864
+  :longitude: -2.3741
+IPS:
+  :name: Ipswich
+  :latitude: 52.0506
+  :longitude: 1.1443
+IRL:
+  :name: Irlam
+  :latitude: 53.4344
+  :longitude: -2.4329
+IRV:
+  :name: Irvine
+  :latitude: 55.6117
+  :longitude: -4.675
+ISL:
+  :name: Isleworth
+  :latitude: 51.475
+  :longitude: -0.3366
+ISP:
+  :name: Islip
+IVR:
+  :name: Iver
+  :latitude: 51.5087
+  :longitude: -0.5069
+IVY:
+  :name: Ivybridge
+  :latitude: 50.3933
+  :longitude: -3.9048
+JCH:
+  :name: James Cook
+  :latitude: 54.5515
+  :longitude: -1.2076
+JEQ:
+  :name: Jewellery Quarter
+  :latitude: 52.4897
+  :longitude: -1.9147
+JOH:
+  :name: Johnston (Pembs)
+  :latitude: 51.7561
+  :longitude: -4.997
+JHN:
+  :name: Johnstone (Strathclyde)
+  :latitude: 55.8344
+  :longitude: -4.5035
+JOR:
+  :name: Jordanhill
+  :latitude: 55.8827
+  :longitude: -4.3252
+KSL:
+  :name: Kearsley (Manchester)
+  :latitude: 53.5441
+  :longitude: -2.375
+KSN:
+  :name: Kearsney (Kent)
+  :latitude: 51.1494
+  :longitude: 1.272
+KEI:
+  :name: Keighley
+  :latitude: 53.8681
+  :longitude: -1.9016
+KEH:
+  :name: Keith
+  :latitude: 57.5514
+  :longitude: -2.9541
+KEL:
+  :name: Kelvedon
+  :latitude: 51.8408
+  :longitude: 0.7024
+KVD:
+  :name: Kelvindale
+  :latitude: 55.8935
+  :longitude: -4.3097
+KEM:
+  :name: Kemble
+  :latitude: 51.6772
+  :longitude: -2.0229
+KMH:
+  :name: Kempston Hardwick
+  :latitude: 52.0926
+  :longitude: -0.5039
+KMP:
+  :name: Kempton Park Racecourse
+  :latitude: 51.421
+  :longitude: -0.4095
+KMS:
+  :name: Kemsing
+  :latitude: 51.2956
+  :longitude: 0.2453
+KML:
+  :name: Kemsley
+  :latitude: 51.362
+  :longitude: 0.7353
+KEN:
+  :name: Kendal
+  :latitude: 54.332
+  :longitude: -2.7397
+KLY:
+  :name: Kenley
+  :latitude: 51.325
+  :longitude: -0.1009
+KNE:
+  :name: Kennett
+  :latitude: 52.2774
+  :longitude: 0.4906
+KNS:
+  :name: Kennishead
+  :latitude: 55.8134
+  :longitude: -4.3245
+KNL:
+  :name: Kensal Green
+  :latitude: 51.5305
+  :longitude: -0.2247
+KNR:
+  :name: Kensal Rise
+  :latitude: 51.5346
+  :longitude: -0.2202
+KPA:
+  :name: Kensington Olympia
+  :latitude: 51.4987
+  :longitude: -0.2109
+KTH:
+  :name: Kent House
+  :latitude: 51.4123
+  :longitude: -0.0454
+KTN:
+  :name: Kentish Town
+  :latitude: 51.5506
+  :longitude: -0.1395
+KTW:
+  :name: Kentish Town West
+  :latitude: 51.5469
+  :longitude: -0.1468
+KNT:
+  :name: Kenton
+  :latitude: 51.5818
+  :longitude: -0.3168
+KBK:
+  :name: Kents Bank
+  :latitude: 54.1734
+  :longitude: -2.9263
+KET:
+  :name: Kettering
+  :latitude: 52.3936
+  :longitude: -0.732
+KWB:
+  :name: Kew Bridge
+  :latitude: 51.4896
+  :longitude: -0.2878
+KWG:
+  :name: Kew Gardens
+  :latitude: 51.4771
+  :longitude: -0.285
+KEY:
+  :name: Keyham
+  :latitude: 50.3901
+  :longitude: -4.1798
+KYN:
+  :name: Keynsham
+  :latitude: 51.4183
+  :longitude: -2.4966
+KDB:
+  :name: Kidbrooke
+  :latitude: 51.4622
+  :longitude: 0.0272
+KID:
+  :name: Kidderminster
+  :latitude: 52.3844
+  :longitude: -2.2386
+KDG:
+  :name: Kidsgrove
+  :latitude: 53.0864
+  :longitude: -2.2445
+KWL:
+  :name: Kidwelly
+  :latitude: 51.7342
+  :longitude: -4.3161
+KBN:
+  :name: Kilburn High Road
+  :latitude: 51.5375
+  :longitude: -0.1919
+KLD:
+  :name: Kildale
+  :latitude: 54.4777
+  :longitude: -1.07
+KIL:
+  :name: Kildonan
+  :latitude: 58.1709
+  :longitude: -3.8691
+KGT:
+  :name: Kilgetty
+  :latitude: 51.7325
+  :longitude: -4.7142
+KMK:
+  :name: Kilmarnock
+  :latitude: 55.6122
+  :longitude: -4.4981
+KLM:
+  :name: Kilmaurs
+  :latitude: 55.6369
+  :longitude: -4.5305
+KPT:
+  :name: Kilpatrick
+  :latitude: 55.924
+  :longitude: -4.4531
+KWN:
+  :name: Kilwinning
+  :latitude: 55.6558
+  :longitude: -4.7099
+KBC:
+  :name: Kinbrace
+  :latitude: 58.258
+  :longitude: -3.941
+KGM:
+  :name: Kingham
+  :latitude: 51.9019
+  :longitude: -1.6285
+KGH:
+  :name: Kinghorn
+  :latitude: 56.0696
+  :longitude: -3.1742
+KGL:
+  :name: Kings Langley
+  :latitude: 51.7063
+  :longitude: -0.4379
+KLN:
+  :name: Kings Lynn
+  :latitude: 52.754
+  :longitude: 0.4031
+KNN:
+  :name: Kings Norton
+  :latitude: 52.4141
+  :longitude: -1.9345
+KGN:
+  :name: Kings Nympton
+  :latitude: 50.936
+  :longitude: -3.9054
+KGP:
+  :name: Kings Park
+  :latitude: 55.8188
+  :longitude: -4.2434
+KGS:
+  :name: Kings Sutton
+  :latitude: 52.0212
+  :longitude: -1.2808
+KGE:
+  :name: Kingsknowe
+  :latitude: 55.9195
+  :longitude: -3.2644
+KNG:
+  :name: Kingston
+  :latitude: 51.4129
+  :longitude: -0.3018
+KND:
+  :name: Kingswood
+  :latitude: 51.295
+  :longitude: -0.2105
+KIN:
+  :name: Kingussie
+  :latitude: 57.0779
+  :longitude: -4.0543
+KIT:
+  :name: Kintbury
+  :latitude: 51.4027
+  :longitude: -1.446
+KBX:
+  :name: Kirby Cross
+  :latitude: 51.8416
+  :longitude: 1.2155
+KKS:
+  :name: Kirk Sandall
+  :latitude: 53.5638
+  :longitude: -1.0748
+KIR:
+  :name: Kirkby (Merseyside)
+  :latitude: 53.4865
+  :longitude: -2.9027
+KSW:
+  :name: Kirkby Stephen
+  :latitude: 54.4549
+  :longitude: -2.3689
+KKB:
+  :name: Kirkby-in-Ashfield
+  :latitude: 53.0999
+  :longitude: -1.2531
+KBF:
+  :name: Kirkby-in-Furness
+  :latitude: 54.2326
+  :longitude: -3.1876
+KDY:
+  :name: Kirkcaldy
+  :latitude: 56.1119
+  :longitude: -3.1668
+KRK:
+  :name: Kirkconnel
+  :latitude: 55.3877
+  :longitude: -3.9994
+KKD:
+  :name: Kirkdale
+  :latitude: 53.4411
+  :longitude: -2.9811
+KKM:
+  :name: Kirkham & Wesham
+  :latitude: 53.787
+  :longitude: -2.8829
+KKH:
+  :name: Kirkhill
+  :latitude: 55.814
+  :longitude: -4.1679
+KKN:
+  :name: Kirknewton
+  :latitude: 55.8892
+  :longitude: -3.4322
+KLF:
+  :name: Kirkstall Forge
+  :latitude: 53.8255
+  :longitude: -1.6272
+KWD:
+  :name: Kirkwood
+  :latitude: 55.8542
+  :longitude: -4.0499
+KTL:
+  :name: Kirton Lindsey
+  :latitude: 53.4854
+  :longitude: -0.5935
+KIV:
+  :name: Kiveton Bridge
+  :latitude: 53.341
+  :longitude: -1.2672
+KVP:
+  :name: Kiveton Park
+  :latitude: 53.3368
+  :longitude: -1.2397
+KNA:
+  :name: Knaresborough
+  :latitude: 54.0093
+  :longitude: -1.4699
+KBW:
+  :name: Knebworth
+  :latitude: 51.8669
+  :longitude: -0.1873
+KNI:
+  :name: Knighton
+  :latitude: 52.3452
+  :longitude: -3.0429
+KCK:
+  :name: Knockholt
+  :latitude: 51.3458
+  :longitude: 0.1306
+KNO:
+  :name: Knottingley
+  :latitude: 53.7067
+  :longitude: -1.2587
+KNU:
+  :name: Knucklas
+  :latitude: 52.3599
+  :longitude: -3.0959
+KNF:
+  :name: Knutsford
+  :latitude: 53.3015
+  :longitude: -2.3719
+KYL:
+  :name: Kyle of Lochalsh
+  :latitude: 57.2799
+  :longitude: -5.7138
+LDY:
+  :name: Ladybank
+  :latitude: 56.2743
+  :longitude: -3.122
+LAD:
+  :name: Ladywell
+  :latitude: 51.4571
+  :longitude: -0.0199
+LAI:
+  :name: Laindon
+  :latitude: 51.5678
+  :longitude: 0.4237
+LRG:
+  :name: Lairg
+  :latitude: 58.0015
+  :longitude: -4.4003
+LKE:
+  :name: Lake
+  :latitude: 50.6466
+  :longitude: -1.1668
+LAK:
+  :name: Lakenheath
+  :latitude: 52.4478
+  :longitude: 0.5339
+LAM:
+  :name: Lamphey
+  :latitude: 51.6675
+  :longitude: -4.8727
+LNK:
+  :name: Lanark
+  :latitude: 55.6734
+  :longitude: -3.7723
+LAN:
+  :name: Lancaster
+  :latitude: 54.0488
+  :longitude: -2.8081
+LAC:
+  :name: Lancing
+  :latitude: 50.8269
+  :longitude: -0.3234
+LAW:
+  :name: Landywood
+  :latitude: 52.6576
+  :longitude: -2.0204
+LGB:
+  :name: Langbank
+  :latitude: 55.9245
+  :longitude: -4.5859
+LHO:
+  :name: Langho
+  :latitude: 53.8046
+  :longitude: -2.4488
+LNY:
+  :name: Langley (Berks)
+  :latitude: 51.5078
+  :longitude: -0.5414
+LGG:
+  :name: Langley Green
+  :latitude: 52.4938
+  :longitude: -2.0051
+LGM:
+  :name: Langley Mill
+  :latitude: 53.0184
+  :longitude: -1.3311
+LGS:
+  :name: Langside
+  :latitude: 55.8208
+  :longitude: -4.2768
+LGW:
+  :name: Langwathby
+  :latitude: 54.6942
+  :longitude: -2.6647
+LAG:
+  :name: Langwith-Whaley Thorns
+  :latitude: 53.232
+  :longitude: -1.2135
+LAP:
+  :name: Lapford
+  :latitude: 50.8575
+  :longitude: -3.8108
+LPW:
+  :name: Lapworth
+  :latitude: 52.3432
+  :longitude: -1.7251
+LBT:
+  :name: Larbert
+  :latitude: 56.0224
+  :longitude: -3.8298
+LAR:
+  :name: Largs
+  :latitude: 55.793
+  :longitude: -4.8674
+LRH:
+  :name: Larkhall
+  :latitude: 55.7392
+  :longitude: -3.9757
+LAU:
+  :name: Laurencekirk
+  :latitude: 56.837
+  :longitude: -2.4652
+LWH:
+  :name: Lawrence Hill
+  :latitude: 51.4591
+  :longitude: -2.5639
+LAY:
+  :name: Layton (Lancs)
+  :latitude: 53.835
+  :longitude: -3.0306
+LZB:
+  :name: Lazonby & Kirkoswald
+  :latitude: 54.7512
+  :longitude: -2.7047
+LEB:
+  :name: Lea Bridge
+  :latitude: 51.5665
+  :longitude: -0.0364
+LEG:
+  :name: Lea Green
+  :latitude: 53.4272
+  :longitude: -2.7237
+LEH:
+  :name: Lea Hall
+  :latitude: 52.4801
+  :longitude: -1.7848
+LEA:
+  :name: Leagrave
+  :latitude: 51.9053
+  :longitude: -0.4587
+LHM:
+  :name: Lealholm
+  :latitude: 54.461
+  :longitude: -0.827
+LMS:
+  :name: Leamington Spa
+  :latitude: 52.2846
+  :longitude: -1.5356
+LSW:
+  :name: Leasowe
+  :latitude: 53.4082
+  :longitude: -3.0996
+LHD:
+  :name: Leatherhead
+  :latitude: 51.2991
+  :longitude: -0.3332
+LED:
+  :name: Ledbury
+  :latitude: 52.0451
+  :longitude: -2.4261
+LEE:
+  :name: Lee (London)
+  :latitude: 51.4497
+  :longitude: 0.0131
+LDS:
+  :name: Leeds
+  :latitude: 53.7947
+  :longitude: -1.5473
+LEI:
+  :name: Leicester
+  :latitude: 52.6312
+  :longitude: -1.1248
+LIH:
+  :name: Leigh (Kent)
+  :latitude: 51.1939
+  :longitude: 0.2103
+LES:
+  :name: Leigh-on-Sea
+  :latitude: 51.5413
+  :longitude: 0.6392
+LBZ:
+  :name: Leighton Buzzard
+  :latitude: 51.9165
+  :longitude: -0.6772
+LEL:
+  :name: Lelant
+  :latitude: 50.1837
+  :longitude: -5.4366
+LTS:
+  :name: Lelant Saltings
+  :latitude: 50.1782
+  :longitude: -5.4416
+LEN:
+  :name: Lenham
+  :latitude: 51.2343
+  :longitude: 0.7081
+LNZ:
+  :name: Lenzie
+  :latitude: 55.9214
+  :longitude: -4.1545
+LEO:
+  :name: Leominster
+  :latitude: 52.2256
+  :longitude: -2.7305
+LET:
+  :name: Letchworth Garden City
+  :latitude: 51.9799
+  :longitude: -0.2293
+LEU:
+  :name: Leuchars (for St. Andrews)
+  :latitude: 56.3758
+  :longitude: -2.8931
+LVM:
+  :name: Levenshulme
+  :latitude: 53.4445
+  :longitude: -2.193
+LWS:
+  :name: Lewes
+  :latitude: 50.8708
+  :longitude: 0.0132
+LEW:
+  :name: Lewisham
+  :latitude: 51.4658
+  :longitude: -0.0143
+LEY:
+  :name: Leyland
+  :latitude: 53.6989
+  :longitude: -2.6872
+LEM:
+  :name: Leyton Midland Road
+  :latitude: 51.5694
+  :longitude: -0.0071
+LER:
+  :name: Leytonstone High Road
+  :latitude: 51.5636
+  :longitude: 0.0085
+LIC:
+  :name: Lichfield City
+  :latitude: 52.6802
+  :longitude: -1.8256
+LTV:
+  :name: Lichfield Trent Valley
+  :latitude: 52.6866
+  :longitude: -1.8
+LID:
+  :name: Lidlington
+  :latitude: 52.0417
+  :longitude: -0.5587
+LHS:
+  :name: Limehouse
+  :latitude: 51.5126
+  :longitude: -0.0396
+LCN:
+  :name: Lincoln Central
+  :latitude: 53.2263
+  :longitude: -0.5395
+LFD:
+  :name: Lingfield
+  :latitude: 51.176
+  :longitude: -0.0072
+LGD:
+  :name: Lingwood
+  :latitude: 52.6223
+  :longitude: 1.4894
+LIN:
+  :name: Linlithgow
+  :latitude: 55.9763
+  :longitude: -3.5952
+LIP:
+  :name: Liphook
+  :latitude: 51.0714
+  :longitude: -0.8005
+LSK:
+  :name: Liskeard
+  :latitude: 50.4468
+  :longitude: -4.4694
+LIS:
+  :name: Liss
+  :latitude: 51.044
+  :longitude: -0.8933
+LVT:
+  :name: Lisvane & Thornhill
+  :latitude: 51.544
+  :longitude: -3.1858
+LTK:
+  :name: Little Kimble
+  :latitude: 51.7523
+  :longitude: -0.8086
+LTT:
+  :name: Little Sutton
+  :latitude: 53.2854
+  :longitude: -2.9436
+LTL:
+  :name: Littleborough
+  :latitude: 53.6428
+  :longitude: -2.0954
+LIT:
+  :name: Littlehampton
+  :latitude: 50.8101
+  :longitude: -0.5462
+LVN:
+  :name: Littlehaven
+  :latitude: 51.0799
+  :longitude: -0.3083
+LTP:
+  :name: Littleport
+  :latitude: 52.4623
+  :longitude: 0.3166
+LVC:
+  :name: Liverpool Central
+  :latitude: 53.4043
+  :longitude: -2.9796
+LVJ:
+  :name: Liverpool James Street
+  :latitude: 53.4042
+  :longitude: -2.9931
+LIV:
+  :name: Liverpool Lime Street
+  :latitude: 53.4073
+  :longitude: -2.9774
+LPY:
+  :name: Liverpool South Parkway
+  :latitude: 53.3583
+  :longitude: -2.8892
+LSN:
+  :name: Livingston North
+  :latitude: 55.9013
+  :longitude: -3.5439
+LVG:
+  :name: Livingston South
+  :latitude: 55.8718
+  :longitude: -3.5016
+LLA:
+  :name: Llanaber
+  :latitude: 52.7418
+  :longitude: -4.0765
+LBR:
+  :name: Llanbedr
+  :latitude: 52.8208
+  :longitude: -4.1095
+LLT:
+  :name: Llanbister Road
+  :latitude: 52.3362
+  :longitude: -3.2136
+LNB:
+  :name: Llanbradach
+  :latitude: 51.6042
+  :longitude: -3.2329
+LLN:
+  :name: Llandaf
+  :latitude: 51.5083
+  :longitude: -3.2289
+LDN:
+  :name: Llandanwg
+  :latitude: 52.8359
+  :longitude: -4.1238
+LLC:
+  :name: Llandecwyn
+  :latitude: 52.921
+  :longitude: -4.0568
+LLL:
+  :name: Llandeilo
+  :latitude: 51.8852
+  :longitude: -3.9872
+LLV:
+  :name: Llandovery
+  :latitude: 51.9955
+  :longitude: -3.8027
+LLO:
+  :name: Llandrindod
+  :latitude: 52.2432
+  :longitude: -3.3785
+LLD:
+  :name: Llandudno
+  :latitude: 53.3207
+  :longitude: -3.8274
+LLJ:
+  :name: Llandudno Junction
+  :latitude: 53.2842
+  :longitude: -3.8091
+LLI:
+  :name: Llandybie
+  :latitude: 51.8212
+  :longitude: -4.0039
+LLE:
+  :name: Llanelli
+  :latitude: 51.6739
+  :longitude: -4.1605
+LLF:
+  :name: Llanfairfechan
+  :latitude: 53.2574
+  :longitude: -3.9824
+LPG:
+  :name: Llanfairpwll
+  :latitude: 53.2212
+  :longitude: -4.2088
+LLG:
+  :name: Llangadog
+  :latitude: 51.9403
+  :longitude: -3.8933
+LLM:
+  :name: Llangammarch
+  :latitude: 52.1137
+  :longitude: -3.5557
+LLH:
+  :name: Llangennech
+  :latitude: 51.6916
+  :longitude: -4.0793
+LGO:
+  :name: Llangynllo
+  :latitude: 52.3499
+  :longitude: -3.1617
+LLR:
+  :name: Llanharan
+  :latitude: 51.5376
+  :longitude: -3.4412
+LTH:
+  :name: Llanhilleth
+  :latitude: 51.7002
+  :longitude: -3.1351
+LLS:
+  :name: Llanishen
+  :latitude: 51.533
+  :longitude: -3.1825
+LWR:
+  :name: Llanrwst
+  :latitude: 53.1388
+  :longitude: -3.7844
+LAS:
+  :name: Llansamlet
+  :latitude: 51.6617
+  :longitude: -3.8856
+LWM:
+  :name: Llantwit Major
+  :latitude: 51.4098
+  :longitude: -3.4815
+LNR:
+  :name: Llanwrda
+  :latitude: 51.9627
+  :longitude: -3.872
+LNW:
+  :name: Llanwrtyd
+  :latitude: 52.1046
+  :longitude: -3.6335
+LLW:
+  :name: Llwyngwril
+  :latitude: 52.6671
+  :longitude: -4.0873
+LLY:
+  :name: Llwynypia
+  :latitude: 51.6338
+  :longitude: -3.4534
+LHA:
+  :name: Loch Awe
+  :latitude: 56.4021
+  :longitude: -5.0425
+LHE:
+  :name: Loch Eil Outward Bound
+  :latitude: 56.8553
+  :longitude: -5.1925
+LCL:
+  :name: Lochailort
+  :latitude: 56.8813
+  :longitude: -5.6634
+LCS:
+  :name: Locheilside
+  :latitude: 56.8559
+  :longitude: -5.2895
+LCG:
+  :name: Lochgelly
+  :latitude: 56.1349
+  :longitude: -3.3125
+LCC:
+  :name: Lochluichart
+  :latitude: 57.6217
+  :longitude: -4.8096
+LHW:
+  :name: Lochwinnoch
+  :latitude: 55.787
+  :longitude: -4.616
+LOC:
+  :name: Lockerbie
+  :latitude: 55.1221
+  :longitude: -3.3539
+LCK:
+  :name: Lockwood
+  :latitude: 53.6349
+  :longitude: -1.801
+BFR:
+  :name: London Blackfriars
+  :latitude: 51.5114
+  :longitude: -0.1031
+LBG:
+  :name: London Bridge
+  :latitude: 51.5048
+  :longitude: -0.0859
+CST:
+  :name: London Cannon Street
+  :latitude: 51.511
+  :longitude: -0.0905
+CHX:
+  :name: London Charing Cross
+  :latitude: 51.508
+  :longitude: -0.1248
+EUS:
+  :name: London Euston
+  :latitude: 51.5286
+  :longitude: -0.1344
+FST:
+  :name: London Fenchurch Street
+  :latitude: 51.5117
+  :longitude: -0.0788
+LOF:
+  :name: London Fields
+  :latitude: 51.5403
+  :longitude: -0.0591
+KGX:
+  :name: London Kings Cross
+  :latitude: 51.5322
+  :longitude: -0.1236
+LST:
+  :name: London Liverpool Street
+  :latitude: 51.5184
+  :longitude: -0.0817
+MYB:
+  :name: London Marylebone
+  :latitude: 51.5231
+  :longitude: -0.163
+PAD:
+  :name: London Paddington
+  :latitude: 51.5166
+  :longitude: -0.177
+LRB:
+  :name: London Road (Brighton)
+  :latitude: 50.8367
+  :longitude: -0.1365
+LRD:
+  :name: London Road (Guildford)
+  :latitude: 51.2406
+  :longitude: -0.5651
+SPX:
+  :name: London St Pancras (Intl)
+STP:
+  :name: London St Pancras International
+VIC:
+  :name: London Victoria
+  :latitude: 51.4951
+  :longitude: -0.1442
+WAT:
+  :name: London Waterloo
+  :latitude: 51.5025
+  :longitude: -0.1133
+WAE:
+  :name: London Waterloo East
+  :latitude: 51.5041
+  :longitude: -0.11
+LBK:
+  :name: Long Buckby
+  :latitude: 52.2949
+  :longitude: -1.0869
+LGE:
+  :name: Long Eaton
+  :latitude: 52.8851
+  :longitude: -1.2867
+LPR:
+  :name: Long Preston
+  :latitude: 54.0169
+  :longitude: -2.2554
+LGK:
+  :name: Longbeck
+  :latitude: 54.5897
+  :longitude: -1.0312
+LOB:
+  :name: Longbridge
+  :latitude: 52.3966
+  :longitude: -1.9813
+LNG:
+  :name: Longcross
+  :latitude: 51.3853
+  :longitude: -0.5942
+LGF:
+  :name: Longfield
+  :latitude: 51.3964
+  :longitude: 0.3005
+LND:
+  :name: Longniddry
+  :latitude: 55.9763
+  :longitude: -2.8883
+LPT:
+  :name: Longport
+  :latitude: 53.042
+  :longitude: -2.2164
+LGN:
+  :name: Longton
+  :latitude: 52.9899
+  :longitude: -2.137
+LOO:
+  :name: Looe
+  :latitude: 50.3593
+  :longitude: -4.4566
+LOT:
+  :name: Lostock
+  :latitude: 53.5733
+  :longitude: -2.4936
+LTG:
+  :name: Lostock Gralam
+  :latitude: 53.2679
+  :longitude: -2.4643
+LOH:
+  :name: Lostock Hall
+  :latitude: 53.7244
+  :longitude: -2.6877
+LOS:
+  :name: Lostwithiel
+  :latitude: 50.407
+  :longitude: -4.6658
+LBO:
+  :name: Loughborough
+  :latitude: 52.7791
+  :longitude: -1.1967
+LGJ:
+  :name: Loughborough Junction
+  :latitude: 51.4663
+  :longitude: -0.1021
+LOW:
+  :name: Lowdham
+  :latitude: 53.0068
+  :longitude: -0.9981
+LSY:
+  :name: Lower Sydenham
+  :latitude: 51.4247
+  :longitude: -0.0334
+LWT:
+  :name: Lowestoft
+  :latitude: 52.4744
+  :longitude: 1.7496
+LUD:
+  :name: Ludlow
+  :latitude: 52.3713
+  :longitude: -2.7163
+LUT:
+  :name: Luton
+  :latitude: 51.8824
+  :longitude: -0.4141
+LTN:
+  :name: Luton Airport Parkway
+  :latitude: 51.8712
+  :longitude: -0.3938
+LUX:
+  :name: Luxulyan
+  :latitude: 50.3902
+  :longitude: -4.7477
+LYD:
+  :name: Lydney
+  :latitude: 51.7142
+  :longitude: -2.5308
+LYE:
+  :name: Lye (West Midlands)
+  :latitude: 52.4599
+  :longitude: -2.116
+LYP:
+  :name: Lymington Pier
+  :latitude: 50.7598
+  :longitude: -1.534
+LYT:
+  :name: Lymington Town
+  :latitude: 50.7608
+  :longitude: -1.5374
+LYC:
+  :name: Lympstone Commando
+  :latitude: 50.6625
+  :longitude: -3.4403
+LYM:
+  :name: Lympstone Village
+  :latitude: 50.6488
+  :longitude: -3.4316
+LTM:
+  :name: Lytham
+  :latitude: 53.7395
+  :longitude: -2.9655
+MAC:
+  :name: Macclesfield
+  :latitude: 53.2594
+  :longitude: -2.1221
+MCN:
+  :name: Machynlleth
+  :latitude: 52.5956
+  :longitude: -3.8535
+MST:
+  :name: Maesteg
+  :latitude: 51.6096
+  :longitude: -3.655
+MEW:
+  :name: Maesteg (Ewenny Road)
+  :latitude: 51.6053
+  :longitude: -3.649
+MAG:
+  :name: Maghull
+  :latitude: 53.5065
+  :longitude: -2.9312
+MDN:
+  :name: Maiden Newton
+  :latitude: 50.7801
+  :longitude: -2.5695
+MAI:
+  :name: Maidenhead
+  :latitude: 51.5187
+  :longitude: -0.7227
+MDB:
+  :name: Maidstone Barracks
+  :latitude: 51.277
+  :longitude: 0.5138
+MDE:
+  :name: Maidstone East
+  :latitude: 51.2777
+  :longitude: 0.5206
+MDW:
+  :name: Maidstone West
+  :latitude: 51.2707
+  :longitude: 0.5159
+MAL:
+  :name: Malden Manor
+  :latitude: 51.3847
+  :longitude: -0.2611
+MLG:
+  :name: Mallaig
+  :latitude: 57.0059
+  :longitude: -5.8295
+MLT:
+  :name: Malton
+  :latitude: 54.1321
+  :longitude: -0.7973
+MVL:
+  :name: Malvern Link
+  :latitude: 52.1257
+  :longitude: -2.3194
+MIA:
+  :name: Manchester Airport
+  :latitude: 53.3653
+  :longitude: -2.272
+MCO:
+  :name: Manchester Oxford Road
+  :latitude: 53.4739
+  :longitude: -2.2419
+MAN:
+  :name: Manchester Piccadilly
+  :latitude: 53.4774
+  :longitude: -2.2309
+MUF:
+  :name: Manchester United Football Ground
+  :latitude: 53.4624
+  :longitude: -2.2906
+MCV:
+  :name: Manchester Victoria
+  :latitude: 53.4876
+  :longitude: -2.2423
+MNE:
+  :name: Manea
+  :latitude: 52.4974
+  :longitude: 0.1776
+MNG:
+  :name: Manningtree
+  :latitude: 51.9492
+  :longitude: 1.046
+MNP:
+  :name: Manor Park
+  :latitude: 51.5524
+  :longitude: 0.0462
+MNR:
+  :name: Manor Road
+  :latitude: 53.396
+  :longitude: -3.1674
+MRB:
+  :name: Manorbier
+  :latitude: 51.6602
+  :longitude: -4.7927
+MAS:
+  :name: Manors
+  :latitude: 54.9727
+  :longitude: -1.6055
+MFT:
+  :name: Mansfield
+  :latitude: 53.1421
+  :longitude: -1.1987
+MSW:
+  :name: Mansfield Woodhouse
+  :latitude: 53.1619
+  :longitude: -1.2012
+MCH:
+  :name: March
+  :latitude: 52.5604
+  :longitude: 0.0912
+MRN:
+  :name: Marden (Kent)
+  :latitude: 51.1754
+  :longitude: 0.4931
+MAR:
+  :name: Margate
+  :latitude: 51.3854
+  :longitude: 1.3721
+MHR:
+  :name: Market Harborough
+  :latitude: 52.4796
+  :longitude: -0.9097
+MKR:
+  :name: Market Rasen
+  :latitude: 53.3844
+  :longitude: -0.3368
+MNC:
+  :name: Markinch
+  :latitude: 56.2008
+  :longitude: -3.1313
+MKT:
+  :name: Marks Tey
+  :latitude: 51.8809
+  :longitude: 0.7829
+MLW:
+  :name: Marlow
+  :latitude: 51.5712
+  :longitude: -0.7662
+MPL:
+  :name: Marple
+  :latitude: 53.401
+  :longitude: -2.0572
+MSN:
+  :name: Marsden (Yorks)
+  :latitude: 53.6033
+  :longitude: -1.9311
+MSK:
+  :name: Marske
+  :latitude: 54.5875
+  :longitude: -1.0196
+MGN:
+  :name: Marston Green
+  :latitude: 52.4668
+  :longitude: -1.7546
+MTM:
+  :name: Martin Mill
+  :latitude: 51.1706
+  :longitude: 1.349
+MAO:
+  :name: Martins Heron
+  :latitude: 51.4075
+  :longitude: -0.7247
+MTO:
+  :name: Marton
+  :latitude: 54.5444
+  :longitude: -1.1985
+MYH:
+  :name: Maryhill
+  :latitude: 55.8973
+  :longitude: -4.3012
+MYL:
+  :name: Maryland
+  :latitude: 51.546
+  :longitude: 0.0058
+MRY:
+  :name: Maryport
+  :latitude: 54.7115
+  :longitude: -3.4942
+MAT:
+  :name: Matlock
+  :latitude: 53.1382
+  :longitude: -1.5582
+MTB:
+  :name: Matlock Bath
+  :latitude: 53.1222
+  :longitude: -1.5568
+MAU:
+  :name: Mauldeth Road
+  :latitude: 53.4335
+  :longitude: -2.2094
+MAX:
+  :name: Maxwell Park
+  :latitude: 55.8376
+  :longitude: -4.2892
+MAY:
+  :name: Maybole
+  :latitude: 55.3548
+  :longitude: -4.6852
+MZH:
+  :name: Maze Hill
+  :latitude: 51.4818
+  :longitude: 0.0025
+MHS:
+  :name: Meadowhall
+  :latitude: 53.4169
+  :longitude: -1.4136
+MEL:
+  :name: Meldreth
+  :latitude: 52.0912
+  :longitude: 0.009
+MKM:
+  :name: Melksham
+  :latitude: 51.3798
+  :longitude: -2.1441
+MES:
+  :name: Melton (Suffolk)
+  :latitude: 52.1042
+  :longitude: 1.3371
+MMO:
+  :name: Melton Mowbray
+  :latitude: 52.761
+  :longitude: -0.885
+MEN:
+  :name: Menheniot
+  :latitude: 50.4274
+  :longitude: -4.4095
+MNN:
+  :name: Menston
+  :latitude: 53.8923
+  :longitude: -1.7356
+MEO:
+  :name: Meols
+  :latitude: 53.3992
+  :longitude: -3.1548
+MEC:
+  :name: Meols Cop
+  :latitude: 53.6459
+  :longitude: -2.9747
+MEP:
+  :name: Meopham
+  :latitude: 51.3864
+  :longitude: 0.3568
+MEY:
+  :name: Merryton
+  :latitude: 55.7487
+  :longitude: -3.9782
+MHM:
+  :name: Merstham
+  :latitude: 51.2641
+  :longitude: -0.1501
+MER:
+  :name: Merthyr Tydfil
+  :latitude: 51.7457
+  :longitude: -3.3771
+MEV:
+  :name: Merthyr Vale
+  :latitude: 51.6868
+  :longitude: -3.3369
+MGM:
+  :name: Metheringham
+  :latitude: 53.1392
+  :longitude: -0.3917
+MCE:
+  :name: MetroCentre
+  :latitude: 54.959
+  :longitude: -1.6654
+MEX:
+  :name: Mexborough
+  :latitude: 53.491
+  :longitude: -1.2888
+MIC:
+  :name: Micheldever
+  :latitude: 51.1824
+  :longitude: -1.2606
+MIK:
+  :name: Micklefield
+  :latitude: 53.7887
+  :longitude: -1.3253
+MBR:
+  :name: Middlesbrough
+  :latitude: 54.5792
+  :longitude: -1.2333
+MDL:
+  :name: Middlewood
+  :latitude: 53.3607
+  :longitude: -2.0844
+MDG:
+  :name: Midgham
+  :latitude: 51.3961
+  :longitude: -1.1785
+MLF:
+  :name: Milford (Surrey)
+  :latitude: 51.1645
+  :longitude: -0.6365
+MFH:
+  :name: Milford Haven
+  :latitude: 51.7151
+  :longitude: -5.0413
+MLH:
+  :name: Mill Hill (Lancs)
+  :latitude: 53.7359
+  :longitude: -2.5006
+MIL:
+  :name: Mill Hill Broadway
+  :latitude: 51.6128
+  :longitude: -0.2492
+MLB:
+  :name: Millbrook (Beds)
+  :latitude: 52.0541
+  :longitude: -0.5322
+MBK:
+  :name: Millbrook (Hants)
+  :latitude: 50.9115
+  :longitude: -1.4335
+MIN:
+  :name: Milliken Park
+  :latitude: 55.825
+  :longitude: -4.5343
+MLM:
+  :name: Millom
+  :latitude: 54.2109
+  :longitude: -3.2702
+MIH:
+  :name: Mills Hill (Manchester)
+  :latitude: 53.5511
+  :longitude: -2.1717
+MLN:
+  :name: Milngavie
+  :latitude: 55.9411
+  :longitude: -4.3144
+MKC:
+  :name: Milton Keynes Central
+  :latitude: 52.0343
+  :longitude: -0.7747
+MFF:
+  :name: Minffordd
+  :latitude: 52.9262
+  :longitude: -4.0854
+MSR:
+  :name: Minster
+  :latitude: 51.3294
+  :longitude: 1.3165
+MIR:
+  :name: Mirfield
+  :latitude: 53.6717
+  :longitude: -1.6931
+MIS:
+  :name: Mistley
+  :latitude: 51.9439
+  :longitude: 1.081
+MTC:
+  :name: Mitcham Eastfields
+  :latitude: 51.4075
+  :longitude: -0.1547
+MIJ:
+  :name: Mitcham Junction
+  :latitude: 51.3934
+  :longitude: -0.1564
+MOB:
+  :name: Mobberley
+  :latitude: 53.3301
+  :longitude: -2.3336
+MON:
+  :name: Monifieth
+  :latitude: 56.4797
+  :longitude: -2.8183
+MRS:
+  :name: Monks Risborough
+  :latitude: 51.736
+  :longitude: -0.8295
+MTP:
+  :name: Montpelier
+  :latitude: 51.4684
+  :longitude: -2.5887
+MTS:
+  :name: Montrose
+  :latitude: 56.7128
+  :longitude: -2.4719
+MRF:
+  :name: Moorfields
+  :latitude: 53.4088
+  :longitude: -2.9898
+MOG:
+  :name: Moorgate
+  :latitude: 51.5185
+  :longitude: -0.0894
+MSD:
+  :name: Moorside
+  :latitude: 53.5164
+  :longitude: -2.3531
+MRP:
+  :name: Moorthorpe
+  :latitude: 53.5947
+  :longitude: -1.3051
+MRR:
+  :name: Morar
+  :latitude: 56.9693
+  :longitude: -5.8225
+MRD:
+  :name: Morchard Road
+  :latitude: 50.8314
+  :longitude: -3.7765
+MDS:
+  :name: Morden South
+  :latitude: 51.3961
+  :longitude: -0.1994
+MCM:
+  :name: Morecambe
+  :latitude: 54.0704
+  :longitude: -2.8694
+MTN:
+  :name: Moreton (Dorset)
+  :latitude: 50.7014
+  :longitude: -2.3135
+MRT:
+  :name: Moreton (Merseyside)
+  :latitude: 53.4074
+  :longitude: -3.1144
+MIM:
+  :name: Moreton-in-Marsh
+  :latitude: 51.9921
+  :longitude: -1.7001
+MFA:
+  :name: Morfa Mawddach
+  :latitude: 52.7077
+  :longitude: -4.0316
+MLY:
+  :name: Morley
+  :latitude: 53.7498
+  :longitude: -1.5916
+MPT:
+  :name: Morpeth
+  :latitude: 55.1623
+  :longitude: -1.6829
+MOR:
+  :name: Mortimer
+  :latitude: 51.3716
+  :longitude: -1.0375
+MTL:
+  :name: Mortlake
+  :latitude: 51.4682
+  :longitude: -0.2672
+MSS:
+  :name: Moses Gate
+  :latitude: 53.5564
+  :longitude: -2.4017
+MOS:
+  :name: Moss Side
+  :latitude: 53.7645
+  :longitude: -2.9426
+MSL:
+  :name: Mossley (Manchester)
+  :latitude: 53.5148
+  :longitude: -2.0413
+MSH:
+  :name: Mossley Hill
+  :latitude: 53.3792
+  :longitude: -2.915
+MPK:
+  :name: Mosspark
+  :latitude: 55.8405
+  :longitude: -4.3462
+MSO:
+  :name: Moston
+  :latitude: 53.5232
+  :longitude: -2.1705
+MTH:
+  :name: Motherwell
+  :latitude: 55.7916
+  :longitude: -3.9945
+MOT:
+  :name: Motspur Park
+  :latitude: 51.3956
+  :longitude: -0.2395
+MTG:
+  :name: Mottingham
+  :latitude: 51.4403
+  :longitude: 0.0499
+DBG:
+  :name: Mottisfont & Dunbridge
+  :latitude: 51.0339
+  :longitude: -1.5468
+MLD:
+  :name: Mouldsworth
+  :latitude: 53.2319
+  :longitude: -2.7322
+MCB:
+  :name: Moulsecoomb
+  :latitude: 50.8465
+  :longitude: -0.119
+MFL:
+  :name: Mount Florida
+  :latitude: 55.8246
+  :longitude: -4.2617
+MTV:
+  :name: Mount Vernon
+  :latitude: 55.8403
+  :longitude: -4.1339
+MTA:
+  :name: Mountain Ash
+MOO:
+  :name: Muir of Ord
+  :latitude: 57.5178
+  :longitude: -4.4607
+MUI:
+  :name: Muirend
+  :latitude: 55.8099
+  :longitude: -4.2736
+MUB:
+  :name: Musselburgh
+  :latitude: 55.9336
+  :longitude: -3.0728
+MYT:
+  :name: Mytholmroyd
+  :latitude: 53.7293
+  :longitude: -1.9824
+NFN:
+  :name: Nafferton
+  :latitude: 54.0115
+  :longitude: -0.3861
+NLS:
+  :name: Nailsea & Backwell
+  :latitude: 51.4195
+  :longitude: -2.7502
+NRN:
+  :name: Nairn
+  :latitude: 57.5802
+  :longitude: -3.8726
+NAN:
+  :name: Nantwich
+  :latitude: 53.0634
+  :longitude: -2.5188
+NAR:
+  :name: Narberth
+  :latitude: 51.7998
+  :longitude: -4.7268
+NBR:
+  :name: Narborough
+  :latitude: 52.5713
+  :longitude: -1.203
+NVR:
+  :name: Navigation Road
+  :latitude: 53.3957
+  :longitude: -2.3436
+NTH:
+  :name: Neath
+  :latitude: 51.6622
+  :longitude: -3.8071
+NMT:
+  :name: Needham Market
+  :latitude: 52.1529
+  :longitude: 1.0547
+NEI:
+  :name: Neilston
+  :latitude: 55.7825
+  :longitude: -4.428
+NEL:
+  :name: Nelson
+  :latitude: 53.8346
+  :longitude: -2.2141
+NES:
+  :name: Neston
+  :latitude: 53.2917
+  :longitude: -3.0628
+NET:
+  :name: Netherfield
+  :latitude: 52.9615
+  :longitude: -1.0796
+NRT:
+  :name: Nethertown
+  :latitude: 54.4564
+  :longitude: -3.5654
+NTL:
+  :name: Netley
+  :latitude: 50.8744
+  :longitude: -1.3408
+NBA:
+  :name: New Barnet
+  :latitude: 51.6485
+  :longitude: -0.1728
+NBC:
+  :name: New Beckenham
+  :latitude: 51.4162
+  :longitude: -0.0354
+NBN:
+  :name: New Brighton
+  :latitude: 53.4375
+  :longitude: -3.0482
+NCE:
+  :name: New Clee
+  :latitude: 53.5757
+  :longitude: -0.0647
+NWX:
+  :name: New Cross
+  :latitude: 51.4763
+  :longitude: -0.0326
+NXG:
+  :name: New Cross Gate
+  :latitude: 51.4752
+  :longitude: -0.0404
+NCK:
+  :name: New Cumnock
+  :latitude: 55.4021
+  :longitude: -4.1824
+NEH:
+  :name: New Eltham
+  :latitude: 51.4381
+  :longitude: 0.0705
+NHL:
+  :name: New Holland
+  :latitude: 53.7019
+  :longitude: -0.3602
+NHE:
+  :name: New Hythe
+  :latitude: 51.3132
+  :longitude: 0.4548
+NLN:
+  :name: New Lane
+  :latitude: 53.6116
+  :longitude: -2.868
+NEM:
+  :name: New Malden
+  :latitude: 51.4039
+  :longitude: -0.256
+NMC:
+  :name: New Mills Central
+  :latitude: 53.3651
+  :longitude: -2.0057
+NMN:
+  :name: New Mills Newtown
+  :latitude: 53.3593
+  :longitude: -2.008
+NWM:
+  :name: New Milton
+  :latitude: 50.7559
+  :longitude: -1.6585
+NPD:
+  :name: New Pudsey
+  :latitude: 53.8047
+  :longitude: -1.681
+NSG:
+  :name: New Southgate
+  :latitude: 51.6144
+  :longitude: -0.1445
+NCT:
+  :name: Newark Castle
+  :latitude: 53.0801
+  :longitude: -0.8133
+NNG:
+  :name: Newark North Gate
+  :latitude: 53.082
+  :longitude: -0.8
+NBE:
+  :name: Newbridge
+  :latitude: 51.6659
+  :longitude: -3.1425
+NBY:
+  :name: Newbury
+  :latitude: 51.398
+  :longitude: -1.3211
+NRC:
+  :name: Newbury Racecourse
+  :latitude: 51.3989
+  :longitude: -1.3079
+NCL:
+  :name: Newcastle
+  :latitude: 54.9682
+  :longitude: -1.6173
+NCO:
+  :name: Newcourt
+  :latitude: 50.6965
+  :longitude: -3.4701
+NEW:
+  :name: Newcraighall
+  :latitude: 55.9328
+  :longitude: -3.0905
+NVH:
+  :name: Newhaven Harbour
+  :latitude: 50.7906
+  :longitude: 0.0547
+NVN:
+  :name: Newhaven Town
+  :latitude: 50.7947
+  :longitude: 0.0551
+NGT:
+  :name: Newington
+  :latitude: 51.3533
+  :longitude: 0.6687
+NMK:
+  :name: Newmarket
+  :latitude: 52.2385
+  :longitude: 0.4071
+NWE:
+  :name: Newport (Essex)
+  :latitude: 51.98
+  :longitude: 0.2152
+NWP:
+  :name: Newport (South Wales)
+  :latitude: 51.5896
+  :longitude: -2.999
+NQY:
+  :name: Newquay
+  :latitude: 50.4145
+  :longitude: -5.0748
+NSD:
+  :name: Newstead
+  :latitude: 53.0699
+  :longitude: -1.2216
+NTN:
+  :name: Newton (Lanark)
+  :latitude: 55.8188
+  :longitude: -4.1331
+NTA:
+  :name: Newton Abbot
+  :latitude: 50.5301
+  :longitude: -3.5995
+NAY:
+  :name: Newton Aycliffe
+  :latitude: 54.6137
+  :longitude: -1.5896
+NWN:
+  :name: Newton for Hyde
+  :latitude: 53.4565
+  :longitude: -2.0667
+NTC:
+  :name: Newton St Cyres
+  :latitude: 50.779
+  :longitude: -3.5877
+NEG:
+  :name: Newtongrange
+  :latitude: 55.8647
+  :longitude: -3.069
+NLW:
+  :name: Newton-le-Willows
+  :latitude: 53.4533
+  :longitude: -2.6131
+NWR:
+  :name: Newtonmore
+  :latitude: 57.0592
+  :longitude: -4.1189
+NOA:
+  :name: Newton-on-Ayr
+  :latitude: 55.4738
+  :longitude: -4.6258
+NWT:
+  :name: Newtown (Powys)
+  :latitude: 52.5121
+  :longitude: -3.3111
+NNP:
+  :name: Ninian Park
+  :latitude: 51.4768
+  :longitude: -3.2013
+NIT:
+  :name: Nitshill
+  :latitude: 55.8118
+  :longitude: -4.3593
+NBT:
+  :name: Norbiton
+  :latitude: 51.4123
+  :longitude: -0.284
+NRB:
+  :name: Norbury
+  :latitude: 51.4112
+  :longitude: -0.1229
+NSB:
+  :name: Normans Bay
+  :latitude: 50.8263
+  :longitude: 0.3891
+NOR:
+  :name: Normanton
+  :latitude: 53.7012
+  :longitude: -1.423
+NBW:
+  :name: North Berwick
+  :latitude: 56.0569
+  :longitude: -2.7304
+NCM:
+  :name: North Camp
+  :latitude: 51.2758
+  :longitude: -0.7312
+NDL:
+  :name: North Dulwich
+  :latitude: 51.4542
+  :longitude: -0.0882
+NFA:
+  :name: North Fambridge
+  :latitude: 51.6486
+  :longitude: 0.6817
+NLR:
+  :name: North Llanrwst
+  :latitude: 53.1447
+  :longitude: -3.8021
+NQU:
+  :name: North Queensferry
+  :latitude: 56.0132
+  :longitude: -3.3952
+NRD:
+  :name: North Road (Darlington)
+  :latitude: 54.5358
+  :longitude: -1.5544
+NSH:
+  :name: North Sheen
+  :latitude: 51.4656
+  :longitude: -0.2867
+NWA:
+  :name: North Walsham
+  :latitude: 52.8171
+  :longitude: 1.3845
+NWB:
+  :name: North Wembley
+  :latitude: 51.5624
+  :longitude: -0.304
+NTR:
+  :name: Northallerton
+  :latitude: 54.3334
+  :longitude: -1.4416
+NMP:
+  :name: Northampton
+  :latitude: 52.2378
+  :longitude: -0.9071
+NFD:
+  :name: Northfield
+  :latitude: 52.4082
+  :longitude: -1.9657
+NFL:
+  :name: Northfleet
+  :latitude: 51.446
+  :longitude: 0.324
+NLT:
+  :name: Northolt Park
+  :latitude: 51.5574
+  :longitude: -0.3598
+NUM:
+  :name: Northumberland Park
+  :latitude: 51.602
+  :longitude: -0.0541
+NWI:
+  :name: Northwich
+  :latitude: 53.2617
+  :longitude: -2.4967
+NTB:
+  :name: Norton Bridge
+  :latitude: 52.8661
+  :longitude: -2.1906
+NRW:
+  :name: Norwich
+  :latitude: 52.6268
+  :longitude: 1.3067
+NWD:
+  :name: Norwood Junction
+  :latitude: 51.3974
+  :longitude: -0.0753
+NOT:
+  :name: Nottingham
+  :latitude: 52.9472
+  :longitude: -1.1465
+NUN:
+  :name: Nuneaton
+  :latitude: 52.5265
+  :longitude: -1.4641
+NHD:
+  :name: Nunhead
+  :latitude: 51.467
+  :longitude: -0.0527
+NNT:
+  :name: Nunthorpe
+  :latitude: 54.528
+  :longitude: -1.1695
+NUT:
+  :name: Nutbourne
+  :latitude: 50.8467
+  :longitude: -0.8837
+NUF:
+  :name: Nutfield
+  :latitude: 51.2267
+  :longitude: -0.1327
+OKN:
+  :name: Oakengates
+  :latitude: 52.6936
+  :longitude: -2.4505
+OKM:
+  :name: Oakham
+  :latitude: 52.6721
+  :longitude: -0.7343
+OKL:
+  :name: Oakleigh Park
+  :latitude: 51.6381
+  :longitude: -0.1667
+OBN:
+  :name: Oban
+  :latitude: 56.4123
+  :longitude: -5.4739
+OCK:
+  :name: Ockendon
+  :latitude: 51.522
+  :longitude: 0.2903
+OLY:
+  :name: Ockley
+  :latitude: 51.1517
+  :longitude: -0.3354
+OKE:
+  :name: Okehampton
+  :latitude: 50.7325
+  :longitude: -3.9963
+OHL:
+  :name: Old Hill
+  :latitude: 52.4712
+  :longitude: -2.0574
+ORN:
+  :name: Old Roan
+  :latitude: 53.4868
+  :longitude: -2.9507
+OLD:
+  :name: Old Street
+  :latitude: 51.5261
+  :longitude: -0.087
+OLF:
+  :name: Oldfield Park
+  :latitude: 51.3795
+  :longitude: -2.3801
+OLT:
+  :name: Olton
+  :latitude: 52.439
+  :longitude: -1.805
+ORE:
+  :name: Ore
+  :latitude: 50.8662
+  :longitude: 0.5895
+OMS:
+  :name: Ormskirk
+  :latitude: 53.5694
+  :longitude: -2.881
+ORP:
+  :name: Orpington
+  :latitude: 51.3731
+  :longitude: 0.0894
+ORR:
+  :name: Orrell
+  :latitude: 53.5303
+  :longitude: -2.709
+OPK:
+  :name: Orrell Park
+  :latitude: 53.4621
+  :longitude: -2.9627
+OTF:
+  :name: Otford
+  :latitude: 51.313
+  :longitude: 0.1969
+OUN:
+  :name: Oulton Broad North
+  :latitude: 52.4778
+  :longitude: 1.7164
+OUS:
+  :name: Oulton Broad South
+  :latitude: 52.4695
+  :longitude: 1.707
+OUT:
+  :name: Outwood
+  :latitude: 53.7158
+  :longitude: -1.5103
+OVE:
+  :name: Overpool
+  :latitude: 53.2842
+  :longitude: -2.9239
+OVR:
+  :name: Overton
+  :latitude: 51.254
+  :longitude: -1.2604
+OXN:
+  :name: Oxenholme Lake District
+  :latitude: 54.305
+  :longitude: -2.7216
+OXF:
+  :name: Oxford
+  :latitude: 51.7538
+  :longitude: -1.2702
+OXP:
+  :name: Oxford Parkway
+  :latitude: 51.8042
+  :longitude: -1.2748
+OXS:
+  :name: Oxshott
+  :latitude: 51.3361
+  :longitude: -0.3626
+OXT:
+  :name: Oxted
+  :latitude: 51.2581
+  :longitude: -0.0049
+PDW:
+  :name: Paddock Wood
+  :latitude: 51.1827
+  :longitude: 0.3889
+PDG:
+  :name: Padgate
+  :latitude: 53.406
+  :longitude: -2.5575
+PGN:
+  :name: Paignton
+  :latitude: 50.4338
+  :longitude: -3.5657
+PCN:
+  :name: Paisley Canal
+  :latitude: 55.8402
+  :longitude: -4.4236
+PYG:
+  :name: Paisley Gilmour Street
+  :latitude: 55.8474
+  :longitude: -4.425
+PYJ:
+  :name: Paisley St James
+  :latitude: 55.8522
+  :longitude: -4.4428
+PAL:
+  :name: Palmers Green
+  :latitude: 51.6185
+  :longitude: -0.1104
+PAN:
+  :name: Pangbourne
+  :latitude: 51.4854
+  :longitude: -1.0899
+PNL:
+  :name: Pannal
+  :latitude: 53.9583
+  :longitude: -1.5333
+PTF:
+  :name: Pantyffynnon
+  :latitude: 51.7787
+  :longitude: -3.9974
+PAR:
+  :name: Par
+  :latitude: 50.3561
+  :longitude: -4.7045
+PBL:
+  :name: Parbold
+  :latitude: 53.5908
+  :longitude: -2.7712
+PKT:
+  :name: Park Street
+  :latitude: 51.7255
+  :longitude: -0.34
+PKS:
+  :name: Parkstone (Dorset)
+  :latitude: 50.7231
+  :longitude: -1.9492
+PSN:
+  :name: Parson Street
+  :latitude: 51.4333
+  :longitude: -2.6086
+PTK:
+  :name: Partick
+  :latitude: 55.8698
+  :longitude: -4.3093
+PRN:
+  :name: Parton
+  :latitude: 54.5707
+  :longitude: -3.5808
+PWY:
+  :name: Patchway
+  :latitude: 51.5259
+  :longitude: -2.5624
+PAT:
+  :name: Patricroft
+  :latitude: 53.4849
+  :longitude: -2.3579
+PTT:
+  :name: Patterton
+  :latitude: 55.7907
+  :longitude: -4.3357
+PEA:
+  :name: Peartree
+  :latitude: 52.8962
+  :longitude: -1.474
+PMR:
+  :name: Peckham Rye
+  :latitude: 51.4701
+  :longitude: -0.0692
+PEG:
+  :name: Pegswood
+  :latitude: 55.1782
+  :longitude: -1.6442
+PEM:
+  :name: Pemberton
+  :latitude: 53.5303
+  :longitude: -2.6707
+PBY:
+  :name: Pembrey & Burry Port
+  :latitude: 51.6841
+  :longitude: -4.2493
+PMB:
+  :name: Pembroke
+  :latitude: 51.6737
+  :longitude: -4.9069
+PMD:
+  :name: Pembroke Dock
+  :latitude: 51.6941
+  :longitude: -4.9381
+PNA:
+  :name: Penally
+  :latitude: 51.659
+  :longitude: -4.7217
+PEN:
+  :name: Penarth
+  :latitude: 51.4356
+  :longitude: -3.1746
+PCD:
+  :name: Pencoed
+  :latitude: 51.5237
+  :longitude: -3.5016
+PGM:
+  :name: Pengam
+  :latitude: 51.6704
+  :longitude: -3.2299
+PNE:
+  :name: Penge East
+  :latitude: 51.4194
+  :longitude: -0.0544
+PNW:
+  :name: Penge West
+  :latitude: 51.4181
+  :longitude: -0.0607
+PHG:
+  :name: Penhelig
+  :latitude: 52.5454
+  :longitude: -4.0353
+PNS:
+  :name: Penistone
+  :latitude: 53.5253
+  :longitude: -1.6222
+PKG:
+  :name: Penkridge
+  :latitude: 52.7236
+  :longitude: -2.1199
+PMW:
+  :name: Penmaenmawr
+  :latitude: 53.2704
+  :longitude: -3.9236
+PNM:
+  :name: Penmere
+  :latitude: 50.1503
+  :longitude: -5.0833
+PER:
+  :name: Penrhiwceiber
+  :latitude: 51.6701
+  :longitude: -3.3599
+PRH:
+  :name: Penrhyndeudraeth
+  :latitude: 52.9288
+  :longitude: -4.0647
+PNR:
+  :name: Penrith (North Lakes)
+  :latitude: 54.6618
+  :longitude: -2.7586
+PYN:
+  :name: Penryn (Cornwall)
+  :latitude: 50.1708
+  :longitude: -5.1118
+PES:
+  :name: Pensarn (Gwynedd)
+  :latitude: 52.8303
+  :longitude: -4.1114
+PHR:
+  :name: Penshurst
+  :latitude: 51.1971
+  :longitude: 0.1734
+PTB:
+  :name: Pentre-Bach
+  :latitude: 51.7252
+  :longitude: -3.3627
+PNY:
+  :name: Pen-y-Bont
+  :latitude: 52.2743
+  :longitude: -3.3215
+PNC:
+  :name: Penychain
+  :latitude: 52.903
+  :longitude: -4.3386
+PNF:
+  :name: Penyffordd
+  :latitude: 53.1424
+  :longitude: -3.0549
+PNZ:
+  :name: Penzance
+  :latitude: 50.1218
+  :longitude: -5.5325
+PRW:
+  :name: Perranwell
+  :latitude: 50.2165
+  :longitude: -5.1121
+PRY:
+  :name: Perry Barr
+  :latitude: 52.5166
+  :longitude: -1.9019
+PSH:
+  :name: Pershore
+  :latitude: 52.1308
+  :longitude: -2.0727
+PTH:
+  :name: Perth
+  :latitude: 56.3915
+  :longitude: -3.4389
+PBO:
+  :name: Peterborough
+  :latitude: 52.5745
+  :longitude: -0.2499
+PTR:
+  :name: Petersfield
+  :latitude: 51.007
+  :longitude: -0.9415
+PET:
+  :name: Petts Wood
+  :latitude: 51.3896
+  :longitude: 0.0757
+PEV:
+  :name: Pevensey & Westham
+  :latitude: 50.8158
+  :longitude: 0.3249
+PEB:
+  :name: Pevensey Bay
+  :latitude: 50.8175
+  :longitude: 0.3439
+PEW:
+  :name: Pewsey
+  :latitude: 51.3423
+  :longitude: -1.7715
+PIL:
+  :name: Pilning
+  :latitude: 51.5568
+  :longitude: -2.6276
+PIN:
+  :name: Pinhoe
+  :latitude: 50.7375
+  :longitude: -3.4696
+PIT:
+  :name: Pitlochry
+  :latitude: 56.7027
+  :longitude: -3.7368
+PSE:
+  :name: Pitsea
+  :latitude: 51.5605
+  :longitude: 0.5064
+PLS:
+  :name: Pleasington
+  :latitude: 53.7309
+  :longitude: -2.5458
+PLK:
+  :name: Plockton
+  :latitude: 57.3337
+  :longitude: -5.6655
+PLC:
+  :name: Pluckley
+  :latitude: 51.1566
+  :longitude: 0.747
+PLM:
+  :name: Plumley
+  :latitude: 53.2752
+  :longitude: -2.419
+PMP:
+  :name: Plumpton
+  :latitude: 50.9285
+  :longitude: -0.0596
+PLU:
+  :name: Plumstead
+  :latitude: 51.4898
+  :longitude: 0.0841
+PLY:
+  :name: Plymouth
+  :latitude: 50.3783
+  :longitude: -4.1433
+POK:
+  :name: Pokesdown
+  :latitude: 50.7312
+  :longitude: -1.8251
+PLG:
+  :name: Polegate
+  :latitude: 50.8214
+  :longitude: 0.246
+PSW:
+  :name: Polesworth
+  :latitude: 52.6253
+  :longitude: -1.6101
+PWE:
+  :name: Pollokshaws East
+  :latitude: 55.8249
+  :longitude: -4.2877
+PWW:
+  :name: Pollokshaws West
+  :latitude: 55.8239
+  :longitude: -4.3013
+PLE:
+  :name: Pollokshields East
+  :latitude: 55.8409
+  :longitude: -4.2693
+PLW:
+  :name: Pollokshields West
+  :latitude: 55.8376
+  :longitude: -4.2765
+PMT:
+  :name: Polmont
+  :latitude: 55.9846
+  :longitude: -3.7154
+POL:
+  :name: Polsloe Bridge
+  :latitude: 50.7307
+  :longitude: -3.5012
+PON:
+  :name: Ponders End
+  :latitude: 51.6422
+  :longitude: -0.0353
+PTD:
+  :name: Pontarddulais
+  :latitude: 51.7168
+  :longitude: -4.0456
+PFR:
+  :name: Pontefract Baghill
+  :latitude: 53.6918
+  :longitude: -1.3037
+PFM:
+  :name: Pontefract Monkhill
+  :latitude: 53.6984
+  :longitude: -1.3058
+POT:
+  :name: Pontefract Tanshelf
+  :latitude: 53.6942
+  :longitude: -1.319
+PLT:
+  :name: Pontlottyn
+  :latitude: 51.7467
+  :longitude: -3.2795
+PYC:
+  :name: Pontyclun
+  :latitude: 51.5235
+  :longitude: -3.391
+PYP:
+  :name: Pont-y-Pant
+  :latitude: 53.0651
+  :longitude: -3.8628
+PPL:
+  :name: Pontypool & New Inn
+  :latitude: 51.6975
+  :longitude: -3.013
+PPD:
+  :name: Pontypridd
+  :latitude: 51.5998
+  :longitude: -3.3424
+POO:
+  :name: Poole
+  :latitude: 50.7194
+  :longitude: -1.9837
+POP:
+  :name: Poppleton
+  :latitude: 53.9759
+  :longitude: -1.1484
+PTG:
+  :name: Port Glasgow
+  :latitude: 55.9332
+  :longitude: -4.6891
+PSL:
+  :name: Port Sunlight
+  :latitude: 53.3492
+  :longitude: -2.9986
+PTA:
+  :name: Port Talbot Parkway
+  :latitude: 51.5919
+  :longitude: -3.7809
+PTC:
+  :name: Portchester
+  :latitude: 50.849
+  :longitude: -1.1247
+POR:
+  :name: Porth
+  :latitude: 51.6123
+  :longitude: -3.4074
+PTM:
+  :name: Porthmadog
+  :latitude: 52.931
+  :longitude: -4.135
+PLN:
+  :name: Portlethen
+  :latitude: 57.0606
+  :longitude: -2.1286
+PLD:
+  :name: Portslade
+  :latitude: 50.8359
+  :longitude: -0.2054
+PMS:
+  :name: Portsmouth & Southsea
+  :latitude: 50.7983
+  :longitude: -1.0918
+PMA:
+  :name: Portsmouth Arms
+  :latitude: 50.957
+  :longitude: -3.9511
+PMH:
+  :name: Portsmouth Harbour
+  :latitude: 50.7972
+  :longitude: -1.1074
+PPK:
+  :name: Possilpark & Parkhouse
+  :latitude: 55.8908
+  :longitude: -4.2599
+PBR:
+  :name: Potters Bar
+  :latitude: 51.6975
+  :longitude: -0.1931
+PFY:
+  :name: Poulton-le-Fylde
+  :latitude: 53.8483
+  :longitude: -2.9907
+PYT:
+  :name: Poynton
+  :latitude: 53.3504
+  :longitude: -2.1343
+PRS:
+  :name: Prees
+  :latitude: 52.9
+  :longitude: -2.6892
+PSC:
+  :name: Prescot
+  :latitude: 53.4239
+  :longitude: -2.7984
+PRT:
+  :name: Prestatyn
+  :latitude: 53.3365
+  :longitude: -3.4064
+PRB:
+  :name: Prestbury
+  :latitude: 53.2929
+  :longitude: -2.1456
+PRE:
+  :name: Preston (Lancs)
+  :latitude: 53.7555
+  :longitude: -2.7068
+PRP:
+  :name: Preston Park
+  :latitude: 50.846
+  :longitude: -0.1551
+PST:
+  :name: Prestonpans
+  :latitude: 55.9529
+  :longitude: -2.9737
+PRA:
+  :name: Prestwick International Airport
+  :latitude: 55.5093
+  :longitude: -4.614
+PTW:
+  :name: Prestwick Town
+  :latitude: 55.5025
+  :longitude: -4.6136
+PTL:
+  :name: Priesthill & Darnley
+  :latitude: 55.812
+  :longitude: -4.3429
+PRR:
+  :name: Princes Risborough
+  :latitude: 51.7167
+  :longitude: -0.844
+PRL:
+  :name: Prittlewell
+  :latitude: 51.551
+  :longitude: 0.7103
+PRU:
+  :name: Prudhoe
+  :latitude: 54.9656
+  :longitude: -1.8645
+PUL:
+  :name: Pulborough
+  :latitude: 50.9573
+  :longitude: -0.5168
+PFL:
+  :name: Purfleet
+  :latitude: 51.4812
+  :longitude: 0.237
+PUR:
+  :name: Purley
+  :latitude: 51.3378
+  :longitude: -0.1137
+PUO:
+  :name: Purley Oaks
+  :latitude: 51.3465
+  :longitude: -0.0977
+PUT:
+  :name: Putney
+  :latitude: 51.4611
+  :longitude: -0.2162
+PWL:
+  :name: Pwllheli
+  :latitude: 52.888
+  :longitude: -4.417
+PYE:
+  :name: Pye Corner
+  :latitude: 51.8514
+  :longitude: -3.0145
+PYL:
+  :name: Pyle
+  :latitude: 51.5254
+  :longitude: -3.6971
+QYD:
+  :name: Quakers Yard
+  :latitude: 51.6605
+  :longitude: -3.3227
+QBR:
+  :name: Queenborough
+  :latitude: 51.4158
+  :longitude: 0.7496
+QPK:
+  :name: Queens Park (Glasgow)
+  :latitude: 55.8357
+  :longitude: -4.2682
+QPW:
+  :name: Queens Park (London)
+  :latitude: 51.5341
+  :longitude: -0.2052
+QRP:
+  :name: Queens Road (Peckham)
+  :latitude: 51.4738
+  :longitude: -0.0573
+QRB:
+  :name: Queenstown Road (Battersea)
+  :latitude: 51.4749
+  :longitude: -0.147
+QUI:
+  :name: Quintrell Downs
+  :latitude: 50.4036
+  :longitude: -5.0297
+RDF:
+  :name: Radcliffe-on-Trent
+  :latitude: 52.949
+  :longitude: -1.037
+RDT:
+  :name: Radlett
+  :latitude: 51.6854
+  :longitude: -0.3172
+RAD:
+  :name: Radley
+  :latitude: 51.6862
+  :longitude: -1.2403
+RDR:
+  :name: Radyr
+  :latitude: 51.5164
+  :longitude: -3.2485
+RNF:
+  :name: Rainford
+  :latitude: 53.517
+  :longitude: -2.7888
+RNM:
+  :name: Rainham (Essex)
+  :latitude: 51.5168
+  :longitude: 0.1905
+RAI:
+  :name: Rainham (Kent)
+  :latitude: 51.3674
+  :longitude: 0.6121
+RNH:
+  :name: Rainhill
+  :latitude: 53.4174
+  :longitude: -2.7657
+RAM:
+  :name: Ramsgate
+  :latitude: 51.3409
+  :longitude: 1.4056
+RGW:
+  :name: Ramsgreave & Wilpshire
+  :latitude: 53.7797
+  :longitude: -2.4787
+RAN:
+  :name: Rannoch
+  :latitude: 56.6858
+  :longitude: -4.5764
+RAU:
+  :name: Rauceby
+  :latitude: 52.9853
+  :longitude: -0.456
+RAV:
+  :name: Ravenglass for Eskdale
+  :latitude: 54.3551
+  :longitude: -3.4084
+RVB:
+  :name: Ravensbourne
+  :latitude: 51.4153
+  :longitude: -0.0081
+RVN:
+  :name: Ravensthorpe
+  :latitude: 53.6755
+  :longitude: -1.6556
+RWC:
+  :name: Rawcliffe
+  :latitude: 53.689
+  :longitude: -0.9609
+RLG:
+  :name: Rayleigh
+  :latitude: 51.5894
+  :longitude: 0.6003
+RAY:
+  :name: Raynes Park
+  :latitude: 51.4091
+  :longitude: -0.2303
+RDG:
+  :name: Reading
+  :latitude: 51.4594
+  :longitude: -0.973
+RDW:
+  :name: Reading West
+  :latitude: 51.4554
+  :longitude: -0.9904
+REC:
+  :name: Rectory Road
+  :latitude: 51.5589
+  :longitude: -0.0687
+RDB:
+  :name: Redbridge
+  :latitude: 50.9199
+  :longitude: -1.4701
+RBS:
+  :name: Redcar British Steel
+  :latitude: 54.6099
+  :longitude: -1.1119
+RCC:
+  :name: Redcar Central
+  :latitude: 54.6161
+  :longitude: -1.0699
+RCE:
+  :name: Redcar East
+  :latitude: 54.6095
+  :longitude: -1.0523
+RDN:
+  :name: Reddish North
+  :latitude: 53.4499
+  :longitude: -2.1568
+RDS:
+  :name: Reddish South
+  :latitude: 53.4362
+  :longitude: -2.1585
+RDC:
+  :name: Redditch
+  :latitude: 52.3063
+  :longitude: -1.9454
+RDH:
+  :name: Redhill
+  :latitude: 51.2404
+  :longitude: -0.1655
+RDA:
+  :name: Redland
+  :latitude: 51.4683
+  :longitude: -2.5996
+RED:
+  :name: Redruth
+  :latitude: 50.2331
+  :longitude: -5.2261
+REE:
+  :name: Reedham (Norfolk)
+  :latitude: 52.5643
+  :longitude: 1.5601
+RHM:
+  :name: Reedham (Surrey)
+  :latitude: 51.3306
+  :longitude: -0.1232
+REI:
+  :name: Reigate
+  :latitude: 51.2419
+  :longitude: -0.2045
+RTN:
+  :name: Renton
+  :latitude: 55.9701
+  :longitude: -4.5857
+RET:
+  :name: Retford
+  :latitude: 53.3151
+  :longitude: -0.9482
+RHI:
+  :name: Rhiwbina
+  :latitude: 51.5213
+  :longitude: -3.2132
+RIA:
+  :name: Rhoose Cardiff International Airport
+  :latitude: 51.38707
+  :longitude: -3.3494
+RHO:
+  :name: Rhosneigr
+  :latitude: 53.2348
+  :longitude: -4.5058
+RHL:
+  :name: Rhyl
+  :latitude: 53.3186
+  :longitude: -3.4883
+RHY:
+  :name: Rhymney
+  :latitude: 51.7589
+  :longitude: -3.2896
+RHD:
+  :name: Ribblehead
+  :latitude: 54.2057
+  :longitude: -2.3608
+RIL:
+  :name: Rice Lane
+  :latitude: 53.4575
+  :longitude: -2.963
+RMD:
+  :name: Richmond (London)
+  :latitude: 51.4629
+  :longitude: -0.3016
+RIC:
+  :name: Rickmansworth
+  :latitude: 51.6402
+  :longitude: -0.474
+RDD:
+  :name: Riddlesdown
+  :latitude: 51.3325
+  :longitude: -0.0995
+RID:
+  :name: Ridgmont
+  :latitude: 52.0263
+  :longitude: -0.5954
+RDM:
+  :name: Riding Mill
+  :latitude: 54.9488
+  :longitude: -1.972
+RCA:
+  :name: Risca & Pontymister
+  :latitude: 51.6059
+  :longitude: -3.0919
+RIS:
+  :name: Rishton
+  :latitude: 53.764
+  :longitude: -2.4203
+RBR:
+  :name: Robertsbridge
+  :latitude: 50.9852
+  :longitude: 0.4688
+ROB:
+  :name: Roby
+  :latitude: 53.41
+  :longitude: -2.8559
+RCD:
+  :name: Rochdale
+  :latitude: 53.6104
+  :longitude: -2.1541
+ROC:
+  :name: Roche
+  :latitude: 50.4187
+  :longitude: -4.8307
+RTR:
+  :name: Rochester
+RFD:
+  :name: Rochford
+  :latitude: 51.5816
+  :longitude: 0.7021
+RFY:
+  :name: Rock Ferry
+  :latitude: 53.3726
+  :longitude: -3.0107
+ROG:
+  :name: Rogart
+  :latitude: 57.9885
+  :longitude: -4.158
+ROR:
+  :name: Rogerstone
+  :latitude: 51.5952
+  :longitude: -3.0658
+ROL:
+  :name: Rolleston
+  :latitude: 53.0652
+  :longitude: -0.8996
+RMB:
+  :name: Roman Bridge
+  :latitude: 53.0449
+  :longitude: -3.9223
+RMF:
+  :name: Romford
+  :latitude: 51.5749
+  :longitude: 0.1826
+RML:
+  :name: Romiley
+  :latitude: 53.4142
+  :longitude: -2.09
+ROM:
+  :name: Romsey
+  :latitude: 50.9924
+  :longitude: -1.4928
+ROO:
+  :name: Roose
+  :latitude: 54.1147
+  :longitude: -3.1946
+RSG:
+  :name: Rose Grove
+  :latitude: 53.7861
+  :longitude: -2.2825
+RSH:
+  :name: Rose Hill Marple
+  :latitude: 53.3965
+  :longitude: -2.0764
+ROS:
+  :name: Rosyth
+  :latitude: 56.0454
+  :longitude: -3.4264
+RMC:
+  :name: Rotherham Central
+  :latitude: 53.4322
+  :longitude: -1.3606
+ROE:
+  :name: Rotherhithe
+  :latitude: 51.5008
+  :longitude: -0.052
+RNR:
+  :name: Roughton Road
+  :latitude: 52.9181
+  :longitude: 1.2997
+RLN:
+  :name: Rowlands Castle
+  :latitude: 50.8926
+  :longitude: -0.9578
+ROW:
+  :name: Rowley Regis
+  :latitude: 52.4775
+  :longitude: -2.0306
+RYB:
+  :name: Roy Bridge
+  :latitude: 56.8881
+  :longitude: -4.8372
+RYN:
+  :name: Roydon
+  :latitude: 51.7756
+  :longitude: 0.0359
+RYS:
+  :name: Royston
+  :latitude: 52.0531
+  :longitude: -0.0271
+RUA:
+  :name: Ruabon
+  :latitude: 52.9875
+  :longitude: -3.0432
+RUF:
+  :name: Rufford
+  :latitude: 53.6346
+  :longitude: -2.8085
+RUG:
+  :name: Rugby
+  :latitude: 52.3793
+  :longitude: -1.251
+RGT:
+  :name: Rugeley Town
+  :latitude: 52.755
+  :longitude: -1.9364
+RGL:
+  :name: Rugeley Trent Valley
+  :latitude: 52.7695
+  :longitude: -1.9292
+RUN:
+  :name: Runcorn
+  :latitude: 53.3386
+  :longitude: -2.7396
+RUE:
+  :name: Runcorn East
+  :latitude: 53.3286
+  :longitude: -2.6647
+RKT:
+  :name: Ruskington
+  :latitude: 53.0416
+  :longitude: -0.3804
+RUS:
+  :name: Ruswarp
+  :latitude: 54.4699
+  :longitude: -0.628
+RUT:
+  :name: Rutherglen
+  :latitude: 55.8301
+  :longitude: -4.2128
+RYD:
+  :name: Ryde Esplanade
+  :latitude: 50.7329
+  :longitude: -1.1599
+RYP:
+  :name: Ryde Pier Head
+  :latitude: 50.738
+  :longitude: -1.161
+RYR:
+  :name: Ryde St Johns Road
+  :latitude: 50.7247
+  :longitude: -1.1568
+RRB:
+  :name: Ryder Brow
+  :latitude: 53.4566
+  :longitude: -2.1734
+RYE:
+  :name: Rye (Sussex)
+  :latitude: 50.9523
+  :longitude: 0.7307
+RYH:
+  :name: Rye House
+  :latitude: 51.7692
+  :longitude: 0.0056
+SFD:
+  :name: Salford Central
+  :latitude: 53.4829
+  :longitude: -2.2548
+SLD:
+  :name: Salford Crescent
+  :latitude: 53.4863
+  :longitude: -2.2758
+SAF:
+  :name: Salfords (Surrey)
+  :latitude: 51.2018
+  :longitude: -0.162
+SAH:
+  :name: Salhouse
+  :latitude: 52.6753
+  :longitude: 1.3911
+SAL:
+  :name: Salisbury
+  :latitude: 51.0703
+  :longitude: -1.8063
+SAE:
+  :name: Saltaire
+  :latitude: 53.8386
+  :longitude: -1.7904
+STS:
+  :name: Saltash
+  :latitude: 50.4075
+  :longitude: -4.2091
+SLB:
+  :name: Saltburn
+  :latitude: 54.5835
+  :longitude: -0.974
+SLT:
+  :name: Saltcoats
+  :latitude: 55.6337
+  :longitude: -4.7842
+SAM:
+  :name: Saltmarshe
+  :latitude: 53.7222
+  :longitude: -0.8097
+SLW:
+  :name: Salwick
+  :latitude: 53.7819
+  :longitude: -2.8175
+SMC:
+  :name: Sampford Courtenay
+  :latitude: 50.7826
+  :longitude: -3.932
+SNA:
+  :name: Sandal & Agbrigg
+  :latitude: 53.6633
+  :longitude: -1.4819
+SDB:
+  :name: Sandbach
+  :latitude: 53.1504
+  :longitude: -2.3934
+SNR:
+  :name: Sanderstead
+  :latitude: 51.3483
+  :longitude: -0.0935
+SDL:
+  :name: Sandhills
+  :latitude: 53.4299
+  :longitude: -2.9916
+SND:
+  :name: Sandhurst (Berks)
+  :latitude: 51.3468
+  :longitude: -0.8047
+SDG:
+  :name: Sandling
+  :latitude: 51.0903
+  :longitude: 1.0657
+SAN:
+  :name: Sandown
+  :latitude: 50.6567
+  :longitude: -1.1624
+SDP:
+  :name: Sandplace
+  :latitude: 50.3873
+  :longitude: -4.4649
+SAD:
+  :name: Sandwell & Dudley
+  :latitude: 52.5088
+  :longitude: -2.0117
+SDW:
+  :name: Sandwich
+  :latitude: 51.2694
+  :longitude: 1.3447
+SDY:
+  :name: Sandy
+  :latitude: 52.1245
+  :longitude: -0.2806
+SNK:
+  :name: Sankey for Penketh
+  :latitude: 53.3925
+  :longitude: -2.6501
+SQH:
+  :name: Sanquhar
+  :latitude: 55.3706
+  :longitude: -3.9241
+SRR:
+  :name: Sarn
+  :latitude: 51.5398
+  :longitude: -3.5904
+SDF:
+  :name: Saundersfoot
+  :latitude: 51.7213
+  :longitude: -4.7181
+SDR:
+  :name: Saunderton
+  :latitude: 51.6763
+  :longitude: -0.8255
+SAW:
+  :name: Sawbridgeworth
+  :latitude: 51.8145
+  :longitude: 0.1601
+SXY:
+  :name: Saxilby
+  :latitude: 53.2672
+  :longitude: -0.6641
+SAX:
+  :name: Saxmundham
+  :latitude: 52.2151
+  :longitude: 1.4902
+SCA:
+  :name: Scarborough
+  :latitude: 54.2796
+  :longitude: -0.4053
+SCT:
+  :name: Scotscalder
+  :latitude: 58.4822
+  :longitude: -3.5538
+SCH:
+  :name: Scotstounhill
+  :latitude: 55.8849
+  :longitude: -4.3509
+SCU:
+  :name: Scunthorpe
+  :latitude: 53.5859
+  :longitude: -0.6516
+SML:
+  :name: Sea Mills
+  :latitude: 51.48
+  :longitude: -2.6499
+SEF:
+  :name: Seaford (Sussex)
+  :latitude: 50.7729
+  :longitude: 0.1
+SFL:
+  :name: Seaforth & Litherland
+  :latitude: 53.4663
+  :longitude: -3.0056
+SEA:
+  :name: Seaham
+  :latitude: 54.8395
+  :longitude: -1.3474
+SEM:
+  :name: Seamer
+  :latitude: 54.2412
+  :longitude: -0.4166
+SSC:
+  :name: Seascale
+  :latitude: 54.3958
+  :longitude: -3.4846
+SEC:
+  :name: Seaton Carew
+  :latitude: 54.6584
+  :longitude: -1.2003
+SRG:
+  :name: Seer Green & Jordans
+  :latitude: 51.6099
+  :longitude: -0.6078
+SBY:
+  :name: Selby
+  :latitude: 53.7829
+  :longitude: -1.0636
+SRS:
+  :name: Selhurst
+  :latitude: 51.3921
+  :longitude: -0.0885
+SEL:
+  :name: Sellafield
+  :latitude: 54.4167
+  :longitude: -3.5105
+SEG:
+  :name: Selling
+  :latitude: 51.2788
+  :longitude: 0.9403
+SLY:
+  :name: Selly Oak
+  :latitude: 52.442
+  :longitude: -1.9359
+SET:
+  :name: Settle
+  :latitude: 54.0667
+  :longitude: -2.2808
+SVK:
+  :name: Seven Kings
+  :latitude: 51.564
+  :longitude: 0.097
+SVS:
+  :name: Seven Sisters
+  :latitude: 51.5834
+  :longitude: -0.075
+SEV:
+  :name: Sevenoaks
+  :latitude: 51.277
+  :longitude: 0.1818
+SVB:
+  :name: Severn Beach
+  :latitude: 51.5599
+  :longitude: -2.6643
+STJ:
+  :name: Severn Tunnel Junction
+  :latitude: 51.5842
+  :longitude: -2.7754
+SDE:
+  :name: Shadwell
+  :latitude: 51.5112
+  :longitude: -0.054
+SFR:
+  :name: Shalford (Surrey)
+  :latitude: 51.2146
+  :longitude: -0.5668
+SHN:
+  :name: Shanklin
+  :latitude: 50.6338
+  :longitude: -1.1799
+SFI:
+  :name: Shawfair
+  :latitude: 55.9172
+  :longitude: -3.0903
+SHW:
+  :name: Shawford
+  :latitude: 51.0222
+  :longitude: -1.328
+SHL:
+  :name: Shawlands
+  :latitude: 55.8292
+  :longitude: -4.2925
+SSS:
+  :name: Sheerness-on-Sea
+  :latitude: 51.441
+  :longitude: 0.7582
+SHF:
+  :name: Sheffield
+  :latitude: 53.3783
+  :longitude: -1.4618
+SED:
+  :name: Shelford (Cambs)
+  :latitude: 52.1493
+  :longitude: 0.1396
+SNF:
+  :name: Shenfield
+  :latitude: 51.6302
+  :longitude: 0.3295
+SEN:
+  :name: Shenstone
+  :latitude: 52.6393
+  :longitude: -1.8444
+SPB:
+  :name: Shepherd's Bush
+  :latitude: 51.506
+  :longitude: -0.218
+SPH:
+  :name: Shepherds Well
+  :latitude: 51.189
+  :longitude: 1.228
+SPY:
+  :name: Shepley
+  :latitude: 53.5888
+  :longitude: -1.7043
+SHP:
+  :name: Shepperton
+  :latitude: 51.3971
+  :longitude: -0.4467
+STH:
+  :name: Shepreth
+  :latitude: 52.1145
+  :longitude: 0.0311
+SHE:
+  :name: Sherborne
+  :latitude: 50.9441
+  :longitude: -2.513
+SIE:
+  :name: Sherburn-in-Elmet
+  :latitude: 53.7974
+  :longitude: -1.233
+SHM:
+  :name: Sheringham
+  :latitude: 52.9415
+  :longitude: 1.2101
+SLS:
+  :name: Shettleston
+  :latitude: 55.8535
+  :longitude: -4.1599
+SDM:
+  :name: Shieldmuir
+  :latitude: 55.777
+  :longitude: -3.957
+SFN:
+  :name: Shifnal
+  :latitude: 52.6662
+  :longitude: -2.3726
+SHD:
+  :name: Shildon
+  :latitude: 54.626
+  :longitude: -1.6366
+SHI:
+  :name: Shiplake
+  :latitude: 51.5108
+  :longitude: -0.8823
+SHY:
+  :name: Shipley (Yorks)
+  :latitude: 53.8341
+  :longitude: -1.7733
+SPP:
+  :name: Shippea Hill
+  :latitude: 52.4293
+  :longitude: 0.4132
+SIP:
+  :name: Shipton
+  :latitude: 51.8656
+  :longitude: -1.5919
+SHB:
+  :name: Shirebrook
+  :latitude: 53.204
+  :longitude: -1.2027
+SHH:
+  :name: Shirehampton
+  :latitude: 51.4844
+  :longitude: -2.6793
+SRO:
+  :name: Shireoaks
+  :latitude: 53.325
+  :longitude: -1.1683
+SRL:
+  :name: Shirley
+  :latitude: 52.4037
+  :longitude: -1.8451
+SRY:
+  :name: Shoeburyness
+  :latitude: 51.531
+  :longitude: 0.7952
+SHO:
+  :name: Sholing
+  :latitude: 50.8967
+  :longitude: -1.364
+SDC:
+  :name: Shoreditch High Street
+  :latitude: 51.5234
+  :longitude: -0.0768
+SEH:
+  :name: Shoreham (Kent)
+  :latitude: 51.3322
+  :longitude: 0.1886
+SSE:
+  :name: Shoreham-by-Sea
+  :latitude: 50.8343
+  :longitude: -0.2711
+SRT:
+  :name: Shortlands
+  :latitude: 51.4057
+  :longitude: 0.0021
+SHT:
+  :name: Shotton
+  :latitude: 53.2128
+  :longitude: -3.0381
+SHS:
+  :name: Shotts
+  :latitude: 55.8183
+  :longitude: -3.7992
+SHR:
+  :name: Shrewsbury
+  :latitude: 52.7117
+  :longitude: -2.75
+SID:
+  :name: Sidcup
+  :latitude: 51.434
+  :longitude: 0.1037
+SIL:
+  :name: Sileby
+  :latitude: 52.7308
+  :longitude: -1.1092
+SIC:
+  :name: Silecroft
+  :latitude: 54.2262
+  :longitude: -3.3347
+SLK:
+  :name: Silkstone Common
+  :latitude: 53.5349
+  :longitude: -1.5638
+SLV:
+  :name: Silver Street
+  :latitude: 51.615
+  :longitude: -0.0671
+SVR:
+  :name: Silverdale
+  :latitude: 54.1694
+  :longitude: -2.8036
+SIN:
+  :name: Singer
+  :latitude: 55.9073
+  :longitude: -4.4051
+SIT:
+  :name: Sittingbourne
+  :latitude: 51.342
+  :longitude: 0.735
+SKG:
+  :name: Skegness
+  :latitude: 53.1435
+  :longitude: 0.3344
+SKE:
+  :name: Skewen
+  :latitude: 51.6616
+  :longitude: -3.8466
+SKI:
+  :name: Skipton
+  :latitude: 53.9587
+  :longitude: -2.0256
+SGR:
+  :name: Slade Green
+  :latitude: 51.4679
+  :longitude: 0.1902
+SWT:
+  :name: Slaithwaite
+  :latitude: 53.6238
+  :longitude: -1.8817
+SLA:
+  :name: Slateford
+  :latitude: 55.927
+  :longitude: -3.243
+SLR:
+  :name: Sleaford
+  :latitude: 52.9956
+  :longitude: -0.4104
+SLH:
+  :name: Sleights
+  :latitude: 54.4611
+  :longitude: -0.6636
+SLO:
+  :name: Slough
+  :latitude: 51.5121
+  :longitude: -0.5913
+SMA:
+  :name: Small Heath
+  :latitude: 52.4638
+  :longitude: -1.8593
+SAB:
+  :name: Smallbrook Junction
+  :latitude: 50.7132
+  :longitude: -1.1588
+SGB:
+  :name: Smethwick Galton Bridge
+  :latitude: 52.5018
+  :longitude: -1.9803
+SMR:
+  :name: Smethwick Rolfe Street
+  :latitude: 52.4965
+  :longitude: -1.9705
+SMB:
+  :name: Smithy Bridge
+  :latitude: 53.6334
+  :longitude: -2.1139
+SNI:
+  :name: Snaith
+  :latitude: 53.6932
+  :longitude: -1.0285
+SDA:
+  :name: Snodland
+  :latitude: 51.33
+  :longitude: 0.4481
+SWO:
+  :name: Snowdown
+  :latitude: 51.215
+  :longitude: 1.2135
+SOR:
+  :name: Sole Street
+  :latitude: 51.3833
+  :longitude: 0.378
+SOL:
+  :name: Solihull
+  :latitude: 52.4146
+  :longitude: -1.7885
+SYT:
+  :name: Somerleyton
+  :latitude: 52.5102
+  :longitude: 1.6524
+SAT:
+  :name: South Acton
+  :latitude: 51.4994
+  :longitude: -0.2704
+SBK:
+  :name: South Bank
+  :latitude: 54.5837
+  :longitude: -1.1771
+SBM:
+  :name: South Bermondsey
+  :latitude: 51.4886
+  :longitude: -0.055
+SCY:
+  :name: South Croydon
+  :latitude: 51.3631
+  :longitude: -0.0918
+SES:
+  :name: South Elmsall
+  :latitude: 53.5949
+  :longitude: -1.2854
+SGN:
+  :name: South Greenford
+  :latitude: 51.5341
+  :longitude: -0.3369
+SGL:
+  :name: South Gyle
+  :latitude: 55.9366
+  :longitude: -3.2999
+SOH:
+  :name: South Hampstead
+  :latitude: 51.5413
+  :longitude: -0.1786
+SOK:
+  :name: South Kenton
+  :latitude: 51.5704
+  :longitude: -0.3085
+SMO:
+  :name: South Merton
+  :latitude: 51.403
+  :longitude: -0.2062
+SOM:
+  :name: South Milford
+  :latitude: 53.7823
+  :longitude: -1.2513
+SRU:
+  :name: South Ruislip
+  :latitude: 51.5572
+  :longitude: -0.3995
+STO:
+  :name: South Tottenham
+  :latitude: 51.5804
+  :longitude: -0.0719
+SWS:
+  :name: South Wigston
+  :latitude: 52.5824
+  :longitude: -1.1348
+SOF:
+  :name: South Woodham Ferrers
+  :latitude: 51.6498
+  :longitude: 0.6068
+STL:
+  :name: Southall
+  :latitude: 51.5062
+  :longitude: -0.378
+SOA:
+  :name: Southampton Airport Parkway
+  :latitude: 50.9513
+  :longitude: -1.3628
+SOU:
+  :name: Southampton Central
+  :latitude: 50.9076
+  :longitude: -1.4137
+SOB:
+  :name: Southbourne
+  :latitude: 50.8488
+  :longitude: -0.9073
+SBU:
+  :name: Southbury
+  :latitude: 51.6485
+  :longitude: -0.0525
+SEE:
+  :name: Southease
+  :latitude: 50.8307
+  :longitude: 0.0306
+SIA:
+  :name: Southend Airport
+  :latitude: 51.5687
+  :longitude: 0.7052
+SOC:
+  :name: Southend Central
+  :latitude: 51.5375
+  :longitude: 0.7116
+SOE:
+  :name: Southend East
+  :latitude: 51.5389
+  :longitude: 0.732
+SOV:
+  :name: Southend Victoria
+  :latitude: 51.5421
+  :longitude: 0.7112
+SMN:
+  :name: Southminster
+  :latitude: 51.6606
+  :longitude: 0.8353
+SOP:
+  :name: Southport
+  :latitude: 53.6467
+  :longitude: -3.0025
+SWK:
+  :name: Southwick
+  :latitude: 50.8329
+  :longitude: -0.2366
+SOW:
+  :name: Sowerby Bridge
+  :latitude: 53.7079
+  :longitude: -1.9081
+SPA:
+  :name: Spalding
+  :latitude: 52.7891
+  :longitude: -0.157
+SBR:
+  :name: Spean Bridge
+  :latitude: 56.8897
+  :longitude: -4.9214
+SPI:
+  :name: Spital
+  :latitude: 53.3406
+  :longitude: -2.9943
+SPO:
+  :name: Spondon
+  :latitude: 52.9123
+  :longitude: -1.4109
+SPN:
+  :name: Spooner Row
+  :latitude: 52.5355
+  :longitude: 1.0867
+SRI:
+  :name: Spring Road
+  :latitude: 52.4447
+  :longitude: -1.8364
+SPR:
+  :name: Springburn
+  :latitude: 55.8819
+  :longitude: -4.2311
+SPF:
+  :name: Springfield
+  :latitude: 56.2951
+  :longitude: -3.0525
+SQU:
+  :name: Squires Gate
+  :latitude: 53.7773
+  :longitude: -3.0501
+SAA:
+  :name: St Albans Abbey
+  :latitude: 51.7445
+  :longitude: -0.342
+SAC:
+  :name: St Albans City
+  :latitude: 51.7507
+  :longitude: -0.3278
+SAR:
+  :name: St Andrews Road
+  :latitude: 51.5132
+  :longitude: -2.6961
+SAS:
+  :name: St Annes-on-Sea
+  :latitude: 53.7534
+  :longitude: -3.029
+SAU:
+  :name: St Austell
+  :latitude: 50.3399
+  :longitude: -4.7904
+SBS:
+  :name: St Bees
+  :latitude: 54.4929
+  :longitude: -3.5911
+SBF:
+  :name: St Budeaux Ferry Road
+  :latitude: 50.4018
+  :longitude: -4.1872
+SBV:
+  :name: St Budeaux Victoria Road
+  :latitude: 50.4024
+  :longitude: -4.1882
+SCR:
+  :name: St Columb Road
+  :latitude: 50.3983
+  :longitude: -4.9408
+SDN:
+  :name: St Denys
+  :latitude: 50.9219
+  :longitude: -1.3875
+SER:
+  :name: St Erth
+  :latitude: 50.1707
+  :longitude: -5.444
+SGM:
+  :name: St Germans
+  :latitude: 50.3944
+  :longitude: -4.3086
+SNH:
+  :name: St Helens Central
+  :latitude: 53.4529
+  :longitude: -2.73
+SHJ:
+  :name: St Helens Junction
+  :latitude: 53.4339
+  :longitude: -2.7
+SIH:
+  :name: St Helier (Surrey)
+  :latitude: 51.39
+  :longitude: -0.1985
+SIV:
+  :name: St Ives (Cornwall)
+  :latitude: 50.2102
+  :longitude: -5.4774
+SJP:
+  :name: St James Park (Exeter)
+  :latitude: 50.7307
+  :longitude: -3.5224
+SJS:
+  :name: St James Street (Walthamstow)
+  :latitude: 51.5812
+  :longitude: -0.0324
+SAJ:
+  :name: St Johns (London)
+  :latitude: 51.4691
+  :longitude: -0.0225
+SKN:
+  :name: St Keyne Wishing Well Halt
+  :latitude: 50.4223
+  :longitude: -4.4638
+SLQ:
+  :name: St Leonards Warrior Square
+  :latitude: 50.8559
+  :longitude: 0.5608
+SMT:
+  :name: St Margarets (Herts)
+  :latitude: 51.788
+  :longitude: 0.0009
+SMG:
+  :name: St Margarets (London)
+  :latitude: 51.455
+  :longitude: -0.3205
+SMY:
+  :name: St Mary Cray
+  :latitude: 51.3947
+  :longitude: 0.1061
+STM:
+  :name: St Michaels
+  :latitude: 53.376
+  :longitude: -2.9536
+SNO:
+  :name: St Neots
+  :latitude: 52.2317
+  :longitude: -0.2474
+STA:
+  :name: Stafford
+  :latitude: 52.8037
+  :longitude: -2.1219
+SNS:
+  :name: Staines
+  :latitude: 51.4325
+  :longitude: -0.5031
+SLL:
+  :name: Stallingborough
+  :latitude: 53.5871
+  :longitude: -0.1837
+SYB:
+  :name: Stalybridge
+  :latitude: 53.4844
+  :longitude: -2.0632
+SMD:
+  :name: Stamford (Lincs)
+  :latitude: 52.6479
+  :longitude: -0.4803
+SMH:
+  :name: Stamford Hill
+  :latitude: 51.5746
+  :longitude: -0.0764
+SFO:
+  :name: Stanford-le-Hope
+  :latitude: 51.5143
+  :longitude: 0.4231
+SNT:
+  :name: Stanlow & Thornton
+  :latitude: 53.2789
+  :longitude: -2.8428
+SSD:
+  :name: Stansted Airport
+  :latitude: 51.8892
+  :longitude: 0.2611
+SST:
+  :name: Stansted Mountfitchet
+  :latitude: 51.9013
+  :longitude: 0.1994
+SPU:
+  :name: Staplehurst
+  :latitude: 51.1717
+  :longitude: 0.5513
+SRD:
+  :name: Stapleton Road
+  :latitude: 51.4675
+  :longitude: -2.5661
+SBE:
+  :name: Starbeck
+  :latitude: 53.9987
+  :longitude: -1.5007
+SCS:
+  :name: Starcross
+  :latitude: 50.6272
+  :longitude: -3.4474
+SVL:
+  :name: Staveley (Cumbria)
+  :latitude: 54.3758
+  :longitude: -2.8194
+SCF:
+  :name: Stechford
+  :latitude: 52.4852
+  :longitude: -1.811
+SON:
+  :name: Steeton & Silsden
+  :latitude: 53.9001
+  :longitude: -1.9446
+SPS:
+  :name: Stepps
+  :latitude: 55.8901
+  :longitude: -4.1406
+SVG:
+  :name: Stevenage
+  :latitude: 51.9025
+  :longitude: -0.2077
+STV:
+  :name: Stevenston
+  :latitude: 55.6342
+  :longitude: -4.7503
+SWR:
+  :name: Stewartby
+  :latitude: 52.069
+  :longitude: -0.5211
+STT:
+  :name: Stewarton
+  :latitude: 55.6816
+  :longitude: -4.5181
+STG:
+  :name: Stirling
+  :latitude: 56.1199
+  :longitude: -3.9348
+SPT:
+  :name: Stockport
+  :latitude: 53.4058
+  :longitude: -2.163
+SKS:
+  :name: Stocksfield
+  :latitude: 54.9467
+  :longitude: -1.9167
+SSM:
+  :name: Stocksmoor
+  :latitude: 53.5943
+  :longitude: -1.7236
+STK:
+  :name: Stockton
+  :latitude: 54.5695
+  :longitude: -1.3183
+SKM:
+  :name: Stoke Mandeville
+  :latitude: 51.7881
+  :longitude: -0.7848
+SKW:
+  :name: Stoke Newington
+  :latitude: 51.5651
+  :longitude: -0.0728
+SOT:
+  :name: Stoke-on-Trent
+  :latitude: 53.008
+  :longitude: -2.181
+SNE:
+  :name: Stone (Staffs)
+  :latitude: 52.9093
+  :longitude: -2.155
+SCG:
+  :name: Stone Crossing
+  :latitude: 51.4523
+  :longitude: 0.2642
+SBP:
+  :name: Stonebridge Park
+  :latitude: 51.5438
+  :longitude: -0.2755
+SOG:
+  :name: Stonegate
+  :latitude: 51.0202
+  :longitude: 0.3617
+STN:
+  :name: Stonehaven
+  :latitude: 56.9666
+  :longitude: -2.2255
+SHU:
+  :name: Stonehouse
+  :latitude: 51.746
+  :longitude: -2.2797
+SNL:
+  :name: Stoneleigh
+  :latitude: 51.364
+  :longitude: -0.2481
+SBJ:
+  :name: Stourbridge Junction
+  :latitude: 52.448
+  :longitude: -2.1339
+SBT:
+  :name: Stourbridge Town
+  :latitude: 52.456
+  :longitude: -2.1425
+SOI:
+  :name: Stow
+  :latitude: 55.6922
+  :longitude: -2.867
+SMK:
+  :name: Stowmarket
+  :latitude: 52.1898
+  :longitude: 1.0
+STR:
+  :name: Stranraer
+  :latitude: 54.909
+  :longitude: -5.0246
+SRA:
+  :name: Stratford (London)
+  :latitude: 51.5425
+  :longitude: -0.0029
+SFA:
+  :name: Stratford International
+  :latitude: 51.5443
+  :longitude: -0.0073
+SAV:
+  :name: Stratford-upon-Avon
+  :latitude: 52.1943
+  :longitude: -1.7161
+STY:
+  :name: Stratford-upon-Avon Parkway
+  :latitude: 52.2067
+  :longitude: -1.7308
+STC:
+  :name: Strathcarron
+  :latitude: 57.4226
+  :longitude: -5.429
+STW:
+  :name: Strawberry Hill
+  :latitude: 51.4382
+  :longitude: -0.3382
+STE:
+  :name: Streatham (Greater London)
+  :latitude: 51.4259
+  :longitude: -0.1323
+SRC:
+  :name: Streatham Common
+  :latitude: 51.4183
+  :longitude: -0.1365
+SRH:
+  :name: Streatham Hill
+  :latitude: 51.4382
+  :longitude: -0.1274
+SHC:
+  :name: Streethouse
+  :latitude: 53.6762
+  :longitude: -1.3988
+SRN:
+  :name: Strines
+  :latitude: 53.3748
+  :longitude: -2.0337
+STF:
+  :name: Stromeferry
+  :latitude: 57.3523
+  :longitude: -5.552
+SOO:
+  :name: Strood (Kent)
+  :latitude: 51.3969
+  :longitude: 0.5
+STD:
+  :name: Stroud (Gloucs)
+  :latitude: 51.7445
+  :longitude: -2.2191
+STU:
+  :name: Sturry
+  :latitude: 51.3011
+  :longitude: 1.1223
+SYA:
+  :name: Styal
+  :latitude: 53.3489
+  :longitude: -2.2407
+SUD:
+  :name: Sudbury & Harrow Road
+  :latitude: 51.5543
+  :longitude: -0.3156
+SUY:
+  :name: Sudbury (Suffolk)
+  :latitude: 52.0362
+  :longitude: 0.7352
+SDH:
+  :name: Sudbury Hill Harrow
+  :latitude: 51.5585
+  :longitude: -0.336
+SUG:
+  :name: Sugar Loaf
+  :latitude: 52.082
+  :longitude: -3.6858
+SUM:
+  :name: Summerston
+  :latitude: 55.8987
+  :longitude: -4.2926
+SUU:
+  :name: Sunbury
+  :latitude: 51.418
+  :longitude: -0.4185
+SUN:
+  :name: Sunderland
+  :latitude: 54.9054
+  :longitude: -1.3825
+SUP:
+  :name: Sundridge Park
+  :latitude: 51.4144
+  :longitude: 0.021
+SNG:
+  :name: Sunningdale
+  :latitude: 51.3923
+  :longitude: -0.634
+SNY:
+  :name: Sunnymeads
+  :latitude: 51.4704
+  :longitude: -0.5593
+SUR:
+  :name: Surbiton
+  :latitude: 51.3924
+  :longitude: -0.3043
+SQE:
+  :name: Surrey Quays
+  :latitude: 51.4932
+  :longitude: -0.0475
+SUO:
+  :name: Sutton (Surrey)
+  :latitude: 51.3599
+  :longitude: -0.1908
+SUT:
+  :name: Sutton Coldfield
+  :latitude: 52.5652
+  :longitude: -1.8247
+SUC:
+  :name: Sutton Common
+  :latitude: 51.3754
+  :longitude: -0.1965
+SPK:
+  :name: Sutton Parkway
+  :latitude: 53.1149
+  :longitude: -1.2463
+SWL:
+  :name: Swale
+  :latitude: 51.3897
+  :longitude: 0.748
+SAY:
+  :name: Swanley
+  :latitude: 51.3933
+  :longitude: 0.1691
+SWM:
+  :name: Swanscombe
+  :latitude: 51.4492
+  :longitude: 0.3099
+SWA:
+  :name: Swansea
+  :latitude: 51.6254
+  :longitude: -3.9408
+SNW:
+  :name: Swanwick
+  :latitude: 50.8765
+  :longitude: -1.2677
+SWY:
+  :name: Sway
+  :latitude: 50.7847
+  :longitude: -1.6106
+SWG:
+  :name: Swaythling
+  :latitude: 50.9416
+  :longitude: -1.3759
+SWD:
+  :name: Swinderby
+  :latitude: 53.1692
+  :longitude: -0.7034
+SWI:
+  :name: Swindon (Wilts)
+  :latitude: 51.5659
+  :longitude: -1.7848
+SWE:
+  :name: Swineshead
+  :latitude: 52.9697
+  :longitude: -0.1877
+SNN:
+  :name: Swinton (Manchester)
+  :latitude: 53.5148
+  :longitude: -2.3371
+SWN:
+  :name: Swinton (South Yorks)
+  :latitude: 53.4862
+  :longitude: -1.3058
+SYD:
+  :name: Sydenham (London)
+  :latitude: 51.4269
+  :longitude: -0.0547
+SYH:
+  :name: Sydenham Hill
+  :latitude: 51.4327
+  :longitude: -0.0806
+SYL:
+  :name: Syon Lane
+  :latitude: 51.4816
+  :longitude: -0.3257
+SYS:
+  :name: Syston
+  :latitude: 52.6944
+  :longitude: -1.0829
+TAC:
+  :name: Tackley
+  :latitude: 51.8815
+  :longitude: -1.2981
+TAD:
+  :name: Tadworth
+  :latitude: 51.2914
+  :longitude: -0.2359
+TAF:
+  :name: Taffs Well
+  :latitude: 51.5407
+  :longitude: -3.2633
+TAI:
+  :name: Tain
+  :latitude: 57.8144
+  :longitude: -4.0527
+TAL:
+  :name: Talsarnau
+  :latitude: 52.9048
+  :longitude: -4.0683
+TLB:
+  :name: Talybont
+  :latitude: 52.7726
+  :longitude: -4.0966
+TLC:
+  :name: Tal-y-Cafn
+  :latitude: 53.2285
+  :longitude: -3.8183
+TAB:
+  :name: Tame Bridge Parkway
+  :latitude: 52.5528
+  :longitude: -1.9765
+TAM:
+  :name: Tamworth
+  :latitude: 52.6376
+  :longitude: -1.6864
+TAP:
+  :name: Taplow
+  :latitude: 51.5233
+  :longitude: -0.6816
+TAT:
+  :name: Tattenham Corner
+  :latitude: 51.3092
+  :longitude: -0.2423
+TAU:
+  :name: Taunton
+  :latitude: 51.0233
+  :longitude: -3.1024
+TAY:
+  :name: Taynuilt
+  :latitude: 56.4308
+  :longitude: -5.2396
+TED:
+  :name: Teddington
+  :latitude: 51.4245
+  :longitude: -0.3326
+TEA:
+  :name: Tees-side Airport
+  :latitude: 54.5185
+  :longitude: -1.4251
+TGM:
+  :name: Teignmouth
+  :latitude: 50.5483
+  :longitude: -3.4947
+TFC:
+  :name: Telford Central
+  :latitude: 52.6817
+  :longitude: -2.4418
+TMC:
+  :name: Templecombe
+  :latitude: 51.0017
+  :longitude: -2.4167
+TEN:
+  :name: Tenby
+  :latitude: 51.6726
+  :longitude: -4.7066
+TEY:
+  :name: Teynham
+  :latitude: 51.3343
+  :longitude: 0.8045
+THD:
+  :name: Thames Ditton
+  :latitude: 51.3889
+  :longitude: -0.3391
+THA:
+  :name: Thatcham
+  :latitude: 51.394
+  :longitude: -1.2424
+THH:
+  :name: Thatto Heath
+  :latitude: 53.4369
+  :longitude: -2.7595
+THW:
+  :name: The Hawthorns
+  :latitude: 52.5058
+  :longitude: -1.9652
+TLK:
+  :name: The Lakes (Warks)
+  :latitude: 52.3595
+  :longitude: -1.8445
+THE:
+  :name: Theale
+  :latitude: 51.4331
+  :longitude: -1.0741
+TEO:
+  :name: Theobalds Grove
+  :latitude: 51.692
+  :longitude: -0.0354
+TTF:
+  :name: Thetford
+  :latitude: 52.4193
+  :longitude: 0.7449
+THI:
+  :name: Thirsk
+  :latitude: 54.2281
+  :longitude: -1.3728
+TBY:
+  :name: Thornaby
+  :latitude: 54.5595
+  :longitude: -1.3015
+TNN:
+  :name: Thorne North
+  :latitude: 53.6161
+  :longitude: -0.9723
+TNS:
+  :name: Thorne South
+  :latitude: 53.6033
+  :longitude: -0.9564
+THO:
+  :name: Thornford
+  :latitude: 50.911
+  :longitude: -2.5797
+THB:
+  :name: Thornliebank
+  :latitude: 55.8113
+  :longitude: -4.3121
+TNA:
+  :name: Thornton Abbey
+  :latitude: 53.6545
+  :longitude: -0.3231
+TTH:
+  :name: Thornton Heath
+  :latitude: 51.3987
+  :longitude: -0.1003
+THT:
+  :name: Thorntonhall
+  :latitude: 55.7685
+  :longitude: -4.2511
+TPB:
+  :name: Thorpe Bay
+  :latitude: 51.5378
+  :longitude: 0.7614
+TPC:
+  :name: Thorpe Culvert
+  :latitude: 53.123
+  :longitude: 0.1993
+TLS:
+  :name: Thorpe-le-Soken
+  :latitude: 51.8478
+  :longitude: 1.1615
+TBD:
+  :name: Three Bridges
+  :latitude: 51.118
+  :longitude: -0.1606
+TOK:
+  :name: Three Oaks
+  :latitude: 50.9012
+  :longitude: 0.6133
+THU:
+  :name: Thurgarton
+  :latitude: 53.0294
+  :longitude: -0.9618
+THC:
+  :name: Thurnscoe
+  :latitude: 53.5453
+  :longitude: -1.3085
+THS:
+  :name: Thurso
+  :latitude: 58.5901
+  :longitude: -3.5278
+TRS:
+  :name: Thurston
+  :latitude: 52.25
+  :longitude: 0.8087
+TIL:
+  :name: Tilbury Town
+  :latitude: 51.4625
+  :longitude: 0.3539
+THL:
+  :name: Tile Hill
+  :latitude: 52.3953
+  :longitude: -1.5965
+TLH:
+  :name: Tilehurst
+  :latitude: 51.4714
+  :longitude: -1.0289
+TIP:
+  :name: Tipton
+  :latitude: 52.5306
+  :longitude: -2.066
+TIR:
+  :name: Tir-Phil
+  :latitude: 51.7211
+  :longitude: -3.2465
+TIS:
+  :name: Tisbury
+  :latitude: 51.0609
+  :longitude: -2.0791
+TVP:
+  :name: Tiverton Parkway
+  :latitude: 50.9169
+  :longitude: -3.3601
+TOD:
+  :name: Todmorden
+  :latitude: 53.714
+  :longitude: -2.0995
+TOL:
+  :name: Tolworth
+  :latitude: 51.3769
+  :longitude: -0.2794
+TPN:
+  :name: Ton Pentre
+  :latitude: 51.6478
+  :longitude: -3.4862
+TON:
+  :name: Tonbridge
+  :latitude: 51.1915
+  :longitude: 0.2707
+TDU:
+  :name: Tondu
+  :latitude: 51.5479
+  :longitude: -3.5952
+TNF:
+  :name: Tonfanau
+  :latitude: 52.6138
+  :longitude: -4.1237
+TNP:
+  :name: Tonypandy
+  :latitude: 51.6204
+  :longitude: -3.4496
+TOO:
+  :name: Tooting
+  :latitude: 51.4198
+  :longitude: -0.1612
+TOP:
+  :name: Topsham
+  :latitude: 50.6857
+  :longitude: -3.464
+TQY:
+  :name: Torquay
+  :latitude: 50.4618
+  :longitude: -3.5436
+TRR:
+  :name: Torre
+  :latitude: 50.4732
+  :longitude: -3.5465
+TOT:
+  :name: Totnes
+  :latitude: 50.4349
+  :longitude: -3.6891
+TOM:
+  :name: Tottenham Hale
+  :latitude: 51.5884
+  :longitude: -0.0597
+TTN:
+  :name: Totton
+  :latitude: 50.9179
+  :longitude: -1.4834
+TWN:
+  :name: Town Green
+  :latitude: 53.5428
+  :longitude: -2.9048
+TRA:
+  :name: Trafford Park
+  :latitude: 53.4551
+  :longitude: -2.3108
+TRF:
+  :name: Trefforest
+  :latitude: 51.5924
+  :longitude: -3.3252
+TRE:
+  :name: Trefforest Estate
+  :latitude: 51.5678
+  :longitude: -3.2898
+TRH:
+  :name: Trehafod
+  :latitude: 51.6101
+  :longitude: -3.3804
+TRB:
+  :name: Treherbert
+  :latitude: 51.672
+  :longitude: -3.5361
+TRY:
+  :name: Treorchy
+  :latitude: 51.6575
+  :longitude: -3.5062
+TRM:
+  :name: Trimley
+  :latitude: 51.9769
+  :longitude: 1.3192
+TRI:
+  :name: Tring
+  :latitude: 51.8006
+  :longitude: -0.6224
+TRD:
+  :name: Troed-y-rhiw
+  :latitude: 51.7124
+  :longitude: -3.3468
+TRN:
+  :name: Troon
+  :latitude: 55.5428
+  :longitude: -4.6553
+TRO:
+  :name: Trowbridge
+  :latitude: 51.3198
+  :longitude: -2.2143
+TRU:
+  :name: Truro
+  :latitude: 50.2643
+  :longitude: -5.0643
+TUL:
+  :name: Tulloch
+  :latitude: 56.884
+  :longitude: -4.701
+TUH:
+  :name: Tulse Hill
+  :latitude: 51.44
+  :longitude: -0.105
+TBW:
+  :name: Tunbridge Wells
+  :latitude: 51.1306
+  :longitude: 0.263
+TUR:
+  :name: Turkey Street
+  :latitude: 51.6725
+  :longitude: -0.0473
+TUT:
+  :name: Tutbury & Hatton
+  :latitude: 52.8642
+  :longitude: -1.683
+TWB:
+  :name: Tweedbank
+  :latitude: 55.6056
+  :longitude: -2.7584
+TWI:
+  :name: Twickenham
+  :latitude: 51.4504
+  :longitude: -0.3297
+TWY:
+  :name: Twyford
+  :latitude: 51.4755
+  :longitude: -0.8637
+TYC:
+  :name: Ty Croes
+  :latitude: 53.2234
+  :longitude: -4.4737
+TGS:
+  :name: Ty Glas
+  :latitude: 51.5216
+  :longitude: -3.198
+TYG:
+  :name: Tygwyn
+  :latitude: 52.8937
+  :longitude: -4.0788
+TYL:
+  :name: Tyndrum Lower
+  :latitude: 56.4337
+  :longitude: -4.7137
+TYS:
+  :name: Tyseley
+  :latitude: 52.4546
+  :longitude: -1.8377
+TYW:
+  :name: Tywyn
+  :latitude: 52.5856
+  :longitude: -4.0935
+UCK:
+  :name: Uckfield
+  :latitude: 50.9689
+  :longitude: 0.0962
+UDD:
+  :name: Uddingston
+  :latitude: 55.8234
+  :longitude: -4.0866
+ULC:
+  :name: Ulceby
+  :latitude: 53.6193
+  :longitude: -0.3012
+ULL:
+  :name: Ulleskelf
+  :latitude: 53.854
+  :longitude: -1.2139
+ULV:
+  :name: Ulverston
+  :latitude: 54.1917
+  :longitude: -3.0981
+UMB:
+  :name: Umberleigh
+  :latitude: 50.9964
+  :longitude: -3.9831
+UNI:
+  :name: University (Birmingham)
+  :latitude: 52.4512
+  :longitude: -1.9369
+UHA:
+  :name: Uphall
+  :latitude: 55.9191
+  :longitude: -3.5023
+UPL:
+  :name: Upholland
+  :latitude: 53.5286
+  :longitude: -2.7414
+UPM:
+  :name: Upminster
+  :latitude: 51.5584
+  :longitude: 0.2526
+UPH:
+  :name: Upper Halliford
+  :latitude: 51.4132
+  :longitude: -0.431
+UHL:
+  :name: Upper Holloway
+  :latitude: 51.5634
+  :longitude: -0.1284
+UTY:
+  :name: Upper Tyndrum
+  :latitude: 56.4354
+  :longitude: -4.7029
+UWL:
+  :name: Upper Warlingham
+  :latitude: 51.3074
+  :longitude: -0.0769
+UPT:
+  :name: Upton (Merseyside)
+  :latitude: 53.3865
+  :longitude: -3.0842
+UPW:
+  :name: Upwey
+  :latitude: 50.6481
+  :longitude: -2.4656
+URM:
+  :name: Urmston
+  :latitude: 53.4483
+  :longitude: -2.3537
+UTT:
+  :name: Uttoxeter
+  :latitude: 52.8968
+  :longitude: -1.8581
+VAL:
+  :name: Valley
+  :latitude: 53.2817
+  :longitude: -4.5635
+VXH:
+  :name: Vauxhall
+  :latitude: 51.4859
+  :longitude: -0.1229
+VIR:
+  :name: Virginia Water
+  :latitude: 51.402
+  :longitude: -0.5621
+WDO:
+  :name: Waddon
+  :latitude: 51.3675
+  :longitude: -0.1177
+WAD:
+  :name: Wadhurst
+  :latitude: 51.0734
+  :longitude: 0.313
+WFL:
+  :name: Wainfleet
+  :latitude: 53.1052
+  :longitude: 0.2345
+WKK:
+  :name: Wakefield Kirkgate
+  :latitude: 53.6786
+  :longitude: -1.4898
+WKF:
+  :name: Wakefield Westgate
+  :latitude: 53.6816
+  :longitude: -1.5051
+WKD:
+  :name: Walkden
+  :latitude: 53.5196
+  :longitude: -2.3966
+WLG:
+  :name: Wallasey Grove Road
+  :latitude: 53.4282
+  :longitude: -3.0697
+WLV:
+  :name: Wallasey Village
+  :latitude: 53.4231
+  :longitude: -3.0692
+WLT:
+  :name: Wallington
+  :latitude: 51.3602
+  :longitude: -0.1507
+WAF:
+  :name: Wallyford
+  :latitude: 55.9414
+  :longitude: -3.0141
+WAM:
+  :name: Walmer
+  :latitude: 51.2035
+  :longitude: 1.383
+WSL:
+  :name: Walsall
+  :latitude: 52.5845
+  :longitude: -1.9851
+WDN:
+  :name: Walsden
+  :latitude: 53.6963
+  :longitude: -2.1044
+WLC:
+  :name: Waltham Cross
+  :latitude: 51.6851
+  :longitude: -0.0266
+WHC:
+  :name: Walthamstow Central
+  :latitude: 51.583
+  :longitude: -0.0202
+WMW:
+  :name: Walthamstow Queen's Road
+  :latitude: 51.5817
+  :longitude: -0.0238
+WAO:
+  :name: Walton (Merseyside)
+  :latitude: 53.4564
+  :longitude: -2.966
+WAL:
+  :name: Walton-on-Thames
+  :latitude: 51.3728
+  :longitude: -0.4145
+WON:
+  :name: Walton-on-the-Naze
+  :latitude: 51.8463
+  :longitude: 1.2679
+WAN:
+  :name: Wanborough
+  :latitude: 51.2445
+  :longitude: -0.6682
+WSW:
+  :name: Wandsworth Common
+  :latitude: 51.4461
+  :longitude: -0.1636
+WWR:
+  :name: Wandsworth Road
+  :latitude: 51.4701
+  :longitude: -0.1386
+WNT:
+  :name: Wandsworth Town
+  :latitude: 51.461
+  :longitude: -0.1883
+WNP:
+  :name: Wanstead Park
+  :latitude: 51.5518
+  :longitude: 0.0264
+WPE:
+  :name: Wapping
+  :latitude: 51.5044
+  :longitude: -0.0558
+WBL:
+  :name: Warblington
+  :latitude: 50.8536
+  :longitude: -0.9675
+WAR:
+  :name: Ware (Herts)
+  :latitude: 51.808
+  :longitude: -0.0285
+WRM:
+  :name: Wareham (Dorset)
+  :latitude: 50.693
+  :longitude: -2.1151
+WGV:
+  :name: Wargrave
+  :latitude: 51.499
+  :longitude: -0.877
+WMN:
+  :name: Warminster
+  :latitude: 51.2068
+  :longitude: -2.1767
+WNH:
+  :name: Warnham
+  :latitude: 51.093
+  :longitude: -0.33
+WBQ:
+  :name: Warrington Bank Quay
+  :latitude: 53.3862
+  :longitude: -2.6029
+WAC:
+  :name: Warrington Central
+  :latitude: 53.392
+  :longitude: -2.5926
+WRW:
+  :name: Warwick
+  :latitude: 52.2866
+  :longitude: -1.5812
+WRP:
+  :name: Warwick Parkway
+  :latitude: 52.2859
+  :longitude: -1.6124
+WTO:
+  :name: Water Orton
+  :latitude: 52.5187
+  :longitude: -1.7433
+WBC:
+  :name: Waterbeach
+  :latitude: 52.2632
+  :longitude: 0.1973
+WTR:
+  :name: Wateringbury
+  :latitude: 51.2495
+  :longitude: 0.4214
+WLO:
+  :name: Waterloo (Merseyside)
+  :latitude: 53.4749
+  :longitude: -3.025
+WFH:
+  :name: Watford High Street
+  :latitude: 51.6524
+  :longitude: -0.3921
+WFJ:
+  :name: Watford Junction
+  :latitude: 51.664
+  :longitude: -0.3963
+WFN:
+  :name: Watford North
+  :latitude: 51.6754
+  :longitude: -0.39
+WTG:
+  :name: Watlington
+  :latitude: 52.673
+  :longitude: 0.3831
+WAS:
+  :name: Watton-at-Stone
+  :latitude: 51.8567
+  :longitude: -0.1193
+WNG:
+  :name: Waun-Gron Park
+  :latitude: 51.4882
+  :longitude: -3.2292
+WAV:
+  :name: Wavertree Technology Park
+  :latitude: 53.4051
+  :longitude: -2.9229
+WED:
+  :name: Wedgwood
+  :latitude: 52.9521
+  :longitude: -2.1712
+WEE:
+  :name: Weeley
+  :latitude: 51.8531
+  :longitude: 1.1151
+WET:
+  :name: Weeton
+  :latitude: 53.9228
+  :longitude: -1.5812
+WMG:
+  :name: Welham Green
+  :latitude: 51.7368
+  :longitude: -0.2112
+WLI:
+  :name: Welling
+  :latitude: 51.4648
+  :longitude: 0.1018
+WEL:
+  :name: Wellingborough
+  :latitude: 52.3035
+  :longitude: -0.6762
+WLN:
+  :name: Wellington (Shropshire)
+  :latitude: 52.7013
+  :longitude: -2.5169
+WLP:
+  :name: Welshpool
+  :latitude: 52.6569
+  :longitude: -3.1405
+WGC:
+  :name: Welwyn Garden City
+  :latitude: 51.8008
+  :longitude: -0.2038
+WLW:
+  :name: Welwyn North
+  :latitude: 51.8237
+  :longitude: -0.1922
+WEM:
+  :name: Wem
+  :latitude: 52.8557
+  :longitude: -2.7193
+WMB:
+  :name: Wembley Central
+  :latitude: 51.5519
+  :longitude: -0.2959
+WCX:
+  :name: Wembley Stadium
+  :latitude: 51.5544
+  :longitude: -0.2862
+WMS:
+  :name: Wemyss Bay
+  :latitude: 55.8767
+  :longitude: -4.8892
+WND:
+  :name: Wendover
+  :latitude: 51.7619
+  :longitude: -0.7477
+WNN:
+  :name: Wennington
+  :latitude: 54.1237
+  :longitude: -2.5877
+WSA:
+  :name: West Allerton
+  :latitude: 53.3693
+  :longitude: -2.907
+WBP:
+  :name: West Brompton
+  :latitude: 51.4868
+  :longitude: -0.1952
+WBY:
+  :name: West Byfleet
+  :latitude: 51.3394
+  :longitude: -0.5057
+WCL:
+  :name: West Calder
+  :latitude: 55.854
+  :longitude: -3.567
+WCY:
+  :name: West Croydon
+  :latitude: 51.3786
+  :longitude: -0.1025
+WDT:
+  :name: West Drayton
+  :latitude: 51.5099
+  :longitude: -0.4723
+WDU:
+  :name: West Dulwich
+  :latitude: 51.4408
+  :longitude: -0.0915
+WEA:
+  :name: West Ealing
+  :latitude: 51.5136
+  :longitude: -0.3203
+WEH:
+  :name: West Ham
+  :latitude: 51.5279
+  :longitude: 0.0053
+WHD:
+  :name: West Hampstead
+  :latitude: 51.5474
+  :longitude: -0.192
+WHP:
+  :name: West Hampstead Thameslink
+  :latitude: 51.5484
+  :longitude: -0.1918
+WHR:
+  :name: West Horndon
+  :latitude: 51.5678
+  :longitude: 0.3402
+WKB:
+  :name: West Kilbride
+  :latitude: 55.6963
+  :longitude: -4.8515
+WKI:
+  :name: West Kirby
+  :latitude: 53.373
+  :longitude: -3.1836
+WMA:
+  :name: West Malling
+  :latitude: 51.2921
+  :longitude: 0.4186
+WNW:
+  :name: West Norwood
+  :latitude: 51.4316
+  :longitude: -0.1037
+WRU:
+  :name: West Ruislip
+  :latitude: 51.5695
+  :longitude: -0.4365
+WRN:
+  :name: West Runton
+  :latitude: 52.9357
+  :longitude: 1.2454
+WLD:
+  :name: West St Leonards
+  :latitude: 50.8533
+  :longitude: 0.5398
+WSU:
+  :name: West Sutton
+  :latitude: 51.3662
+  :longitude: -0.2048
+WWI:
+  :name: West Wickham
+  :latitude: 51.3813
+  :longitude: -0.0143
+WWO:
+  :name: West Worthing
+  :latitude: 50.8184
+  :longitude: -0.3922
+WSB:
+  :name: Westbury (Wilts)
+  :latitude: 51.2662
+  :longitude: -2.1989
+WCF:
+  :name: Westcliff
+  :latitude: 51.5378
+  :longitude: 0.6899
+WCB:
+  :name: Westcombe Park
+  :latitude: 51.4843
+  :longitude: 0.0186
+WHA:
+  :name: Westenhanger
+  :latitude: 51.0949
+  :longitude: 1.0382
+WTA:
+  :name: Wester Hailes
+  :latitude: 55.9141
+  :longitude: -3.285
+WFI:
+  :name: Westerfield
+  :latitude: 52.0813
+  :longitude: 1.1665
+WES:
+  :name: Westerton
+  :latitude: 55.9048
+  :longitude: -4.3355
+WGA:
+  :name: Westgate-on-Sea
+  :latitude: 51.3815
+  :longitude: 1.3385
+WHG:
+  :name: Westhoughton
+  :latitude: 53.5556
+  :longitude: -2.5235
+WNM:
+  :name: Weston Milton
+  :latitude: 51.3486
+  :longitude: -2.942
+WSM:
+  :name: Weston-super-Mare
+  :latitude: 51.3446
+  :longitude: -2.9713
+WRL:
+  :name: Wetheral
+  :latitude: 54.8838
+  :longitude: -2.8325
+WYB:
+  :name: Weybridge
+  :latitude: 51.3616
+  :longitude: -0.4577
+WEY:
+  :name: Weymouth
+  :latitude: 50.6154
+  :longitude: -2.4543
+WBR:
+  :name: Whaley Bridge
+  :latitude: 53.3301
+  :longitude: -1.9848
+WHE:
+  :name: Whalley (Lancs)
+  :latitude: 53.8245
+  :longitude: -2.4119
+WTS:
+  :name: Whatstandwell
+  :latitude: 53.0832
+  :longitude: -1.504
+WFF:
+  :name: Whifflet
+  :latitude: 55.8539
+  :longitude: -4.0188
+WHM:
+  :name: Whimple
+  :latitude: 50.768
+  :longitude: -3.3542
+WNL:
+  :name: Whinhill
+  :latitude: 55.938
+  :longitude: -4.7439
+WHN:
+  :name: Whiston
+  :latitude: 53.4141
+  :longitude: -2.7961
+WTB:
+  :name: Whitby
+  :latitude: 54.4848
+  :longitude: -0.6147
+WHT:
+  :name: Whitchurch (Cardiff)
+  :latitude: 51.5209
+  :longitude: -3.2236
+WCH:
+  :name: Whitchurch (Hants)
+  :latitude: 51.2377
+  :longitude: -1.3381
+WTC:
+  :name: Whitchurch (Shropshire)
+  :latitude: 52.9676
+  :longitude: -2.672
+WHL:
+  :name: White Hart Lane
+  :latitude: 51.605
+  :longitude: -0.071
+WNY:
+  :name: White Notley
+  :latitude: 51.8395
+  :longitude: 0.5951
+ZLW:
+  :name: Whitechapel
+  :latitude: 51.519
+  :longitude: -0.0602
+WCR:
+  :name: Whitecraigs
+  :latitude: 55.7903
+  :longitude: -4.3103
+WTH:
+  :name: Whitehaven
+  :latitude: 54.5536
+  :longitude: -3.5869
+WTL:
+  :name: Whitland
+  :latitude: 51.8181
+  :longitude: -4.6144
+WBD:
+  :name: Whitley Bridge
+  :latitude: 53.6993
+  :longitude: -1.1589
+WTE:
+  :name: Whitlocks End
+  :latitude: 52.3921
+  :longitude: -1.8514
+WHI:
+  :name: Whitstable
+  :latitude: 51.3576
+  :longitude: 1.0329
+WLE:
+  :name: Whittlesea
+  :latitude: 52.55
+  :longitude: -0.1194
+WLF:
+  :name: Whittlesford Parkway
+  :latitude: 52.1042
+  :longitude: 0.1656
+WTN:
+  :name: Whitton (London)
+  :latitude: 51.4495
+  :longitude: -0.3578
+WWL:
+  :name: Whitwell (Derbyshire)
+  :latitude: 53.2793
+  :longitude: -1.2016
+WHY:
+  :name: Whyteleafe
+  :latitude: 51.3102
+  :longitude: -0.0809
+WHS:
+  :name: Whyteleafe South
+  :latitude: 51.3035
+  :longitude: -0.0771
+WCK:
+  :name: Wick
+  :latitude: 58.4415
+  :longitude: -3.0973
+WIC:
+  :name: Wickford
+  :latitude: 51.615
+  :longitude: 0.5193
+WCM:
+  :name: Wickham Market
+  :latitude: 52.1509
+  :longitude: 1.3982
+WDD:
+  :name: Widdrington
+  :latitude: 55.2412
+  :longitude: -1.6165
+WID:
+  :name: Widnes
+  :latitude: 53.3788
+  :longitude: -2.7334
+WMR:
+  :name: Widney Manor
+  :latitude: 52.3968
+  :longitude: -1.7746
+WGN:
+  :name: Wigan North Western
+  :latitude: 53.5439
+  :longitude: -2.6334
+WGW:
+  :name: Wigan Wallgate
+  :latitude: 53.5448
+  :longitude: -2.6331
+WGT:
+  :name: Wigton
+  :latitude: 54.8291
+  :longitude: -3.164
+WMI:
+  :name: Wildmill
+  :latitude: 51.5203
+  :longitude: -3.5806
+WIJ:
+  :name: Willesden Junction
+  :latitude: 51.532
+  :longitude: -0.2435
+WLM:
+  :name: Williamwood
+  :latitude: 55.7944
+  :longitude: -4.2893
+WIL:
+  :name: Willington
+  :latitude: 52.8533
+  :longitude: -1.5641
+WMC:
+  :name: Wilmcote
+  :latitude: 52.2228
+  :longitude: -1.7556
+WML:
+  :name: Wilmslow
+  :latitude: 53.3264
+  :longitude: -2.2259
+WNE:
+  :name: Wilnecote (Staffs)
+  :latitude: 52.611
+  :longitude: -1.6798
+WIM:
+  :name: Wimbledon
+  :latitude: 51.4216
+  :longitude: -0.2065
+WBO:
+  :name: Wimbledon Chase
+  :latitude: 51.4097
+  :longitude: -0.2144
+WSE:
+  :name: Winchelsea
+  :latitude: 50.9333
+  :longitude: 0.7017
+WIN:
+  :name: Winchester
+  :latitude: 51.0672
+  :longitude: -1.3197
+WNF:
+  :name: Winchfield
+  :latitude: 51.2854
+  :longitude: -0.9072
+WIH:
+  :name: Winchmore Hill
+  :latitude: 51.634
+  :longitude: -0.101
+WDM:
+  :name: Windermere
+  :latitude: 54.3798
+  :longitude: -2.9039
+WNC:
+  :name: Windsor & Eton Central
+  :latitude: 51.4829
+  :longitude: -0.609
+WNR:
+  :name: Windsor & Eton Riverside
+  :latitude: 51.4859
+  :longitude: -0.6063
+WNS:
+  :name: Winnersh
+  :latitude: 51.4307
+  :longitude: -0.877
+WTI:
+  :name: Winnersh Triangle
+  :latitude: 51.4367
+  :longitude: -0.8914
+WSF:
+  :name: Winsford
+  :latitude: 53.1905
+  :longitude: -2.4943
+WSH:
+  :name: Wishaw
+  :latitude: 55.772
+  :longitude: -3.926
+WTM:
+  :name: Witham
+  :latitude: 51.8059
+  :longitude: 0.6392
+WTY:
+  :name: Witley
+  :latitude: 51.1327
+  :longitude: -0.6456
+WTT:
+  :name: Witton (West Midlands)
+  :latitude: 52.5124
+  :longitude: -1.8844
+WVF:
+  :name: Wivelsfield
+  :latitude: 50.9638
+  :longitude: -0.1208
+WIV:
+  :name: Wivenhoe
+  :latitude: 51.8562
+  :longitude: 0.9582
+WOB:
+  :name: Woburn Sands
+  :latitude: 52.0182
+  :longitude: -0.6546
+WOK:
+  :name: Woking
+  :latitude: 51.3186
+  :longitude: -0.5571
+WKM:
+  :name: Wokingham
+  :latitude: 51.4113
+  :longitude: -0.8425
+WOH:
+  :name: Woldingham
+  :latitude: 51.2901
+  :longitude: -0.0519
+WVH:
+  :name: Wolverhampton
+  :latitude: 52.5877
+  :longitude: -2.1201
+WOL:
+  :name: Wolverton
+  :latitude: 52.0657
+  :longitude: -0.8043
+WOM:
+  :name: Wombwell
+  :latitude: 53.5172
+  :longitude: -1.4159
+WDE:
+  :name: Wood End
+  :latitude: 52.3436
+  :longitude: -1.8439
+WST:
+  :name: Wood Street
+  :latitude: 51.5867
+  :longitude: -0.0025
+WDB:
+  :name: Woodbridge
+  :latitude: 52.0904
+  :longitude: 1.3177
+WGR:
+  :name: Woodgrange Park
+  :latitude: 51.5492
+  :longitude: 0.0444
+WDL:
+  :name: Woodhall
+  :latitude: 55.9312
+  :longitude: -4.6558
+WDH:
+  :name: Woodhouse
+  :latitude: 53.3642
+  :longitude: -1.358
+WDS:
+  :name: Woodlesford
+  :latitude: 53.7567
+  :longitude: -1.4432
+WLY:
+  :name: Woodley
+  :latitude: 53.4293
+  :longitude: -2.093
+WME:
+  :name: Woodmansterne
+  :latitude: 51.3191
+  :longitude: -0.1539
+WSR:
+  :name: Woodsmoor
+  :latitude: 53.3862
+  :longitude: -2.1412
+WOO:
+  :name: Wool
+  :latitude: 50.6817
+  :longitude: -2.222
+WLS:
+  :name: Woolston
+  :latitude: 50.8989
+  :longitude: -1.3756
+WWA:
+  :name: Woolwich Arsenal
+  :latitude: 51.4899
+  :longitude: 0.0694
+WWD:
+  :name: Woolwich Dockyard
+  :latitude: 51.4914
+  :longitude: 0.0538
+WWW:
+  :name: Wootton Wawen
+  :latitude: 52.2671
+  :longitude: -1.7847
+WOF:
+  :name: Worcester Foregate Street
+  :latitude: 52.195
+  :longitude: -2.2212
+WCP:
+  :name: Worcester Park
+  :latitude: 51.3812
+  :longitude: -0.2451
+WOS:
+  :name: Worcester Shrub Hill
+  :latitude: 52.1948
+  :longitude: -2.2094
+WKG:
+  :name: Workington
+  :latitude: 54.6449
+  :longitude: -3.5589
+WRK:
+  :name: Worksop
+  :latitude: 53.3114
+  :longitude: -1.1225
+WOR:
+  :name: Worle
+  :latitude: 51.3584
+  :longitude: -2.9092
+WPL:
+  :name: Worplesdon
+  :latitude: 51.2882
+  :longitude: -0.5822
+WRT:
+  :name: Worstead
+  :latitude: 52.7774
+  :longitude: 1.4039
+WRH:
+  :name: Worthing
+  :latitude: 50.8185
+  :longitude: -0.3732
+WRB:
+  :name: Wrabness
+  :latitude: 51.9397
+  :longitude: 1.1713
+WRY:
+  :name: Wraysbury
+  :latitude: 51.4579
+  :longitude: -0.5419
+WRE:
+  :name: Wrenbury
+  :latitude: 53.0196
+  :longitude: -2.5958
+WRS:
+  :name: Wressle
+  :latitude: 53.773
+  :longitude: -0.924
+WXC:
+  :name: Wrexham Central
+  :latitude: 53.0455
+  :longitude: -2.9971
+WRX:
+  :name: Wrexham General
+  :latitude: 53.0506
+  :longitude: -3.0016
+WYE:
+  :name: Wye
+  :latitude: 51.1856
+  :longitude: 0.9292
+WYM:
+  :name: Wylam
+  :latitude: 54.9749
+  :longitude: -1.8141
+WYL:
+  :name: Wylde Green
+  :latitude: 52.5459
+  :longitude: -1.8315
+WMD:
+  :name: Wymondham
+  :latitude: 52.5655
+  :longitude: 1.1179
+WYT:
+  :name: Wythall
+  :latitude: 52.38
+  :longitude: -1.866
+YAL:
+  :name: Yalding
+  :latitude: 51.2266
+  :longitude: 0.4116
+YRD:
+  :name: Yardley Wood
+  :latitude: 52.4217
+  :longitude: -1.855
+YRM:
+  :name: Yarm
+  :latitude: 54.4932
+  :longitude: -1.3512
+YAE:
+  :name: Yate
+  :latitude: 51.5412
+  :longitude: -2.4319
+YAT:
+  :name: Yatton
+  :latitude: 51.3909
+  :longitude: -2.8278
+YEO:
+  :name: Yeoford
+  :latitude: 50.7756
+  :longitude: -3.7264
+YVJ:
+  :name: Yeovil Junction
+  :latitude: 50.9247
+  :longitude: -2.6133
+YVP:
+  :name: Yeovil Pen Mill
+  :latitude: 50.9447
+  :longitude: -2.6133
+YET:
+  :name: Yetminster
+  :latitude: 50.8958
+  :longitude: -2.5745
+YNW:
+  :name: Ynyswen
+  :latitude: 51.665
+  :longitude: -3.5212
+YOK:
+  :name: Yoker
+  :latitude: 55.8929
+  :longitude: -4.3875
+YRK:
+  :name: York
+  :latitude: 53.9584
+  :longitude: -1.092
+YRT:
+  :name: Yorton
+  :latitude: 52.8083
+  :longitude: -2.736
+YSM:
+  :name: Ystrad Mynach
+  :latitude: 51.6414
+  :longitude: -3.2414
+YSR:
+  :name: Ystrad Rhondda
+  :latitude: 51.6436
+  :longitude: -3.4666

@@ -1,0 +1,13 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="http://thalesgroup.com/RTTI/2013-11-28/Token/types" xmlns:ldb="http://thalesgroup.com/RTTI/2017-10-01/ldb/">
+   <soapenv:Header>
+      <typ:AccessToken>
+         <typ:TokenValue>nnnn-nnnn-nnnn</typ:TokenValue>
+      </typ:AccessToken>
+   </soapenv:Header>
+   <soapenv:Body>
+      <ldb:GetArrivalBoardRequest>
+         <ldb:numRows>5</ldb:numRows>
+         <ldb:crs>FNN</ldb:crs>
+      </ldb:GetArrivalBoardRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

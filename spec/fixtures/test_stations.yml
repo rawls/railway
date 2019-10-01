@@ -1,0 +1,25 @@
+---
+FNB:
+  :name: Farnborough (Main)
+  :longitude: -0.7554
+  :latitude: 51.2966
+FNN:
+  :name: Farnborough North
+  :longitude: -0.7428
+  :latitude: 51.3023
+LDS:
+  :name: Leeds
+  :longitude: -1.5473
+  :latitude: 53.7947
+PNR:
+  :name: Penrith (North Lakes)
+  :longitude: -2.7586
+  :latitude: 54.6618
+WAT:
+  :name: London Waterloo
+  :longitude: -0.1133
+  :latitude: 51.5025
+WSM:
+  :name: Weston-super-Mare
+  :longitude: -2.9713
+  :latitude: 51.3446

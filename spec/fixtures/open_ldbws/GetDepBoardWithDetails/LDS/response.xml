@@ -1,0 +1,409 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <GetDepBoardWithDetailsResponse xmlns="http://thalesgroup.com/RTTI/2017-10-01/ldb/">
+         <GetStationBoardResult xmlns:lt="http://thalesgroup.com/RTTI/2012-01-13/ldb/types" xmlns:lt6="http://thalesgroup.com/RTTI/2017-02-02/ldb/types" xmlns:lt7="http://thalesgroup.com/RTTI/2017-10-01/ldb/types" xmlns:lt4="http://thalesgroup.com/RTTI/2015-11-27/ldb/types" xmlns:lt5="http://thalesgroup.com/RTTI/2016-02-16/ldb/types" xmlns:lt2="http://thalesgroup.com/RTTI/2014-02-20/ldb/types" xmlns:lt3="http://thalesgroup.com/RTTI/2015-05-14/ldb/types">
+            <lt4:generatedAt>2019-07-24T10:05:07.3272435+01:00</lt4:generatedAt>
+            <lt4:locationName>Leeds</lt4:locationName>
+            <lt4:crs>LDS</lt4:crs>
+            <lt4:nrccMessages>
+               <lt:message>Hot weather and high track temperatures may affect your journey this week. Speed restrictions may be in place. More details can be found in &lt;A href="http://nationalrail.co.uk/service_disruptions/226832.aspx">Latest Travel News&lt;/A></lt:message>
+               <lt:message>Trains running between Daisy Hill and Atherton may be delayed by up to 30 minutes, cancelled or diverted via Westhoughton due to a broken down train. More information can be found in &lt;A href="http://nationalrail.co.uk/service_disruptions/227016.aspx">Latest Travel News&lt;/A>.</lt:message>
+            </lt4:nrccMessages>
+            <lt4:platformAvailable>true</lt4:platformAvailable>
+            <lt7:trainServices>
+               <lt7:service>
+                  <lt4:std>09:48</lt4:std>
+                  <lt4:etd>10:09</lt4:etd>
+                  <lt4:platform>11C</lt4:platform>
+                  <lt4:operator>Northern</lt4:operator>
+                  <lt4:operatorCode>NT</lt4:operatorCode>
+                  <lt4:serviceType>train</lt4:serviceType>
+                  <lt4:length>2</lt4:length>
+                  <lt4:cancelReason>This train has been cancelled because of lightning damaging the signalling system</lt4:cancelReason>
+                  <lt4:delayReason>This train has been delayed by lightning damaging the signalling system</lt4:delayReason>
+                  <lt4:serviceID>5UGYBNrr2u2xxJvW2dRnYA==</lt4:serviceID>
+                  <lt5:rsid>NT386000</lt5:rsid>
+                  <lt5:origin>
+                     <lt4:location>
+                        <lt4:locationName>Leeds</lt4:locationName>
+                        <lt4:crs>LDS</lt4:crs>
+                     </lt4:location>
+                  </lt5:origin>
+                  <lt5:destination>
+                     <lt4:location>
+                        <lt4:locationName>Sheffield</lt4:locationName>
+                        <lt4:crs>SHF</lt4:crs>
+                     </lt4:location>
+                  </lt5:destination>
+                  <lt7:subsequentCallingPoints>
+                     <lt7:callingPointList>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Outwood</lt7:locationName>
+                           <lt7:crs>OUT</lt7:crs>
+                           <lt7:st>09:59</lt7:st>
+                           <lt7:et>Cancelled</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Wakefield Westgate</lt7:locationName>
+                           <lt7:crs>WKF</lt7:crs>
+                           <lt7:st>10:03</lt7:st>
+                           <lt7:et>Cancelled</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Sandal &amp; Agbrigg</lt7:locationName>
+                           <lt7:crs>SNA</lt7:crs>
+                           <lt7:st>10:07</lt7:st>
+                           <lt7:et>Cancelled</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Fitzwilliam</lt7:locationName>
+                           <lt7:crs>FZW</lt7:crs>
+                           <lt7:st>10:14</lt7:st>
+                           <lt7:et>10:35</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Moorthorpe</lt7:locationName>
+                           <lt7:crs>MRP</lt7:crs>
+                           <lt7:st>10:20</lt7:st>
+                           <lt7:et>10:41</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Thurnscoe</lt7:locationName>
+                           <lt7:crs>THC</lt7:crs>
+                           <lt7:st>10:26</lt7:st>
+                           <lt7:et>10:46</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Goldthorpe</lt7:locationName>
+                           <lt7:crs>GOE</lt7:crs>
+                           <lt7:st>10:29</lt7:st>
+                           <lt7:et>10:49</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Bolton-on-Dearne</lt7:locationName>
+                           <lt7:crs>BTD</lt7:crs>
+                           <lt7:st>10:31</lt7:st>
+                           <lt7:et>10:51</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Swinton (South Yorkshire)</lt7:locationName>
+                           <lt7:crs>SWN</lt7:crs>
+                           <lt7:st>10:36</lt7:st>
+                           <lt7:et>10:56</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Rotherham Central</lt7:locationName>
+                           <lt7:crs>RMC</lt7:crs>
+                           <lt7:st>10:45</lt7:st>
+                           <lt7:et>11:04</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Meadowhall</lt7:locationName>
+                           <lt7:crs>MHS</lt7:crs>
+                           <lt7:st>10:51</lt7:st>
+                           <lt7:et>11:09</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Sheffield</lt7:locationName>
+                           <lt7:crs>SHF</lt7:crs>
+                           <lt7:st>11:01</lt7:st>
+                           <lt7:et>11:17</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                     </lt7:callingPointList>
+                  </lt7:subsequentCallingPoints>
+               </lt7:service>
+               <lt7:service>
+                  <lt4:std>10:03</lt4:std>
+                  <lt4:etd>On time</lt4:etd>
+                  <lt4:platform>5B</lt4:platform>
+                  <lt4:operator>Northern</lt4:operator>
+                  <lt4:operatorCode>NT</lt4:operatorCode>
+                  <lt4:serviceType>train</lt4:serviceType>
+                  <lt4:length>4</lt4:length>
+                  <lt4:serviceID>EWojcDU31PeAqcd9uIQYbQ==</lt4:serviceID>
+                  <lt5:rsid>NT490800</lt5:rsid>
+                  <lt5:origin>
+                     <lt4:location>
+                        <lt4:locationName>Leeds</lt4:locationName>
+                        <lt4:crs>LDS</lt4:crs>
+                     </lt4:location>
+                  </lt5:origin>
+                  <lt5:destination>
+                     <lt4:location>
+                        <lt4:locationName>Ilkley</lt4:locationName>
+                        <lt4:crs>ILK</lt4:crs>
+                     </lt4:location>
+                  </lt5:destination>
+                  <lt7:subsequentCallingPoints>
+                     <lt7:callingPointList>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Guiseley</lt7:locationName>
+                           <lt7:crs>GSY</lt7:crs>
+                           <lt7:st>10:14</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>4</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Menston</lt7:locationName>
+                           <lt7:crs>MNN</lt7:crs>
+                           <lt7:st>10:18</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>4</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Burley-in-Wharfedale</lt7:locationName>
+                           <lt7:crs>BUW</lt7:crs>
+                           <lt7:st>10:20</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>4</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Ben Rhydding</lt7:locationName>
+                           <lt7:crs>BEY</lt7:crs>
+                           <lt7:st>10:24</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>4</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Ilkley</lt7:locationName>
+                           <lt7:crs>ILK</lt7:crs>
+                           <lt7:st>10:31</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>4</lt7:length>
+                        </lt7:callingPoint>
+                     </lt7:callingPointList>
+                  </lt7:subsequentCallingPoints>
+               </lt7:service>
+               <lt7:service>
+                  <lt4:std>10:06</lt4:std>
+                  <lt4:etd>On time</lt4:etd>
+                  <lt4:platform>8B</lt4:platform>
+                  <lt4:operator>Northern</lt4:operator>
+                  <lt4:operatorCode>NT</lt4:operatorCode>
+                  <lt4:serviceType>train</lt4:serviceType>
+                  <lt4:length>2</lt4:length>
+                  <lt4:serviceID>/egWjXfqLTdEqgkA6+jwPA==</lt4:serviceID>
+                  <lt5:rsid>NT202200</lt5:rsid>
+                  <lt5:origin>
+                     <lt4:location>
+                        <lt4:locationName>Leeds</lt4:locationName>
+                        <lt4:crs>LDS</lt4:crs>
+                     </lt4:location>
+                  </lt5:origin>
+                  <lt5:destination>
+                     <lt4:location>
+                        <lt4:locationName>Brighouse</lt4:locationName>
+                        <lt4:crs>BGH</lt4:crs>
+                     </lt4:location>
+                  </lt5:destination>
+                  <lt7:subsequentCallingPoints>
+                     <lt7:callingPointList>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Bramley (West Yorkshire)</lt7:locationName>
+                           <lt7:crs>BLE</lt7:crs>
+                           <lt7:st>10:14</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>New Pudsey</lt7:locationName>
+                           <lt7:crs>NPD</lt7:crs>
+                           <lt7:st>10:18</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Bradford Interchange</lt7:locationName>
+                           <lt7:crs>BDI</lt7:crs>
+                           <lt7:st>10:28</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Low Moor</lt7:locationName>
+                           <lt7:crs>LMR</lt7:crs>
+                           <lt7:st>10:37</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Halifax</lt7:locationName>
+                           <lt7:crs>HFX</lt7:crs>
+                           <lt7:st>10:44</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Brighouse</lt7:locationName>
+                           <lt7:crs>BGH</lt7:crs>
+                           <lt7:st>10:55</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                     </lt7:callingPointList>
+                  </lt7:subsequentCallingPoints>
+               </lt7:service>
+               <lt7:service>
+                  <lt4:std>10:06</lt4:std>
+                  <lt4:etd>On time</lt4:etd>
+                  <lt4:platform>16A</lt4:platform>
+                  <lt4:operator>TransPennine Express</lt4:operator>
+                  <lt4:operatorCode>TP</lt4:operatorCode>
+                  <lt4:serviceType>train</lt4:serviceType>
+                  <lt4:serviceID>ocGOmusHPkZxZBpVGZq0DA==</lt4:serviceID>
+                  <lt5:rsid>TP521300</lt5:rsid>
+                  <lt5:origin>
+                     <lt4:location>
+                        <lt4:locationName>Scarborough</lt4:locationName>
+                        <lt4:crs>SCA</lt4:crs>
+                     </lt4:location>
+                  </lt5:origin>
+                  <lt5:destination>
+                     <lt4:location>
+                        <lt4:locationName>Liverpool Lime Street</lt4:locationName>
+                        <lt4:crs>LIV</lt4:crs>
+                     </lt4:location>
+                  </lt5:destination>
+                  <lt7:subsequentCallingPoints>
+                     <lt7:callingPointList>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Huddersfield</lt7:locationName>
+                           <lt7:crs>HUD</lt7:crs>
+                           <lt7:st>10:23</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Manchester Victoria</lt7:locationName>
+                           <lt7:crs>MCV</lt7:crs>
+                           <lt7:st>10:54</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Lea Green</lt7:locationName>
+                           <lt7:crs>LEG</lt7:crs>
+                           <lt7:st>11:16</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Liverpool Lime Street</lt7:locationName>
+                           <lt7:crs>LIV</lt7:crs>
+                           <lt7:st>11:31</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                        </lt7:callingPoint>
+                     </lt7:callingPointList>
+                  </lt7:subsequentCallingPoints>
+               </lt7:service>
+               <lt7:service>
+                  <lt4:std>10:08</lt4:std>
+                  <lt4:etd>On time</lt4:etd>
+                  <lt4:platform>17B</lt4:platform>
+                  <lt4:operator>Northern</lt4:operator>
+                  <lt4:operatorCode>NT</lt4:operatorCode>
+                  <lt4:serviceType>train</lt4:serviceType>
+                  <lt4:length>2</lt4:length>
+                  <lt4:serviceID>4UlQnFLKw69LEX3oRpSR/Q==</lt4:serviceID>
+                  <lt5:rsid>NT112500</lt5:rsid>
+                  <lt5:origin>
+                     <lt4:location>
+                        <lt4:locationName>Leeds</lt4:locationName>
+                        <lt4:crs>LDS</lt4:crs>
+                     </lt4:location>
+                  </lt5:origin>
+                  <lt5:destination>
+                     <lt4:location>
+                        <lt4:locationName>Nottingham</lt4:locationName>
+                        <lt4:crs>NOT</lt4:crs>
+                     </lt4:location>
+                  </lt5:destination>
+                  <lt7:subsequentCallingPoints>
+                     <lt7:callingPointList>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Wakefield Kirkgate</lt7:locationName>
+                           <lt7:crs>WKK</lt7:crs>
+                           <lt7:st>10:24</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Barnsley</lt7:locationName>
+                           <lt7:crs>BNY</lt7:crs>
+                           <lt7:st>10:40</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Meadowhall</lt7:locationName>
+                           <lt7:crs>MHS</lt7:crs>
+                           <lt7:st>10:55</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Sheffield</lt7:locationName>
+                           <lt7:crs>SHF</lt7:crs>
+                           <lt7:st>11:04</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Dronfield</lt7:locationName>
+                           <lt7:crs>DRO</lt7:crs>
+                           <lt7:st>11:15</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Chesterfield</lt7:locationName>
+                           <lt7:crs>CHD</lt7:crs>
+                           <lt7:st>11:21</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Alfreton</lt7:locationName>
+                           <lt7:crs>ALF</lt7:crs>
+                           <lt7:st>11:32</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Langley Mill</lt7:locationName>
+                           <lt7:crs>LGM</lt7:crs>
+                           <lt7:st>11:39</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Ilkeston</lt7:locationName>
+                           <lt7:crs>ILN</lt7:crs>
+                           <lt7:st>11:44</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                        <lt7:callingPoint>
+                           <lt7:locationName>Nottingham</lt7:locationName>
+                           <lt7:crs>NOT</lt7:crs>
+                           <lt7:st>11:58</lt7:st>
+                           <lt7:et>On time</lt7:et>
+                           <lt7:length>2</lt7:length>
+                        </lt7:callingPoint>
+                     </lt7:callingPointList>
+                  </lt7:subsequentCallingPoints>
+               </lt7:service>
+            </lt7:trainServices>
+         </GetStationBoardResult>
+      </GetDepBoardWithDetailsResponse>
+   </soap:Body>
+</soap:Envelope>

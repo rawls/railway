@@ -1,0 +1,74 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <GetNextDeparturesWithDetailsResponse xmlns="http://thalesgroup.com/RTTI/2017-10-01/ldb/">
+         <DeparturesBoard xmlns:lt="http://thalesgroup.com/RTTI/2012-01-13/ldb/types" xmlns:lt6="http://thalesgroup.com/RTTI/2017-02-02/ldb/types" xmlns:lt7="http://thalesgroup.com/RTTI/2017-10-01/ldb/types" xmlns:lt4="http://thalesgroup.com/RTTI/2015-11-27/ldb/types" xmlns:lt5="http://thalesgroup.com/RTTI/2016-02-16/ldb/types" xmlns:lt2="http://thalesgroup.com/RTTI/2014-02-20/ldb/types" xmlns:lt3="http://thalesgroup.com/RTTI/2015-05-14/ldb/types">
+            <lt4:generatedAt>2019-08-07T10:21:12.9596084+01:00</lt4:generatedAt>
+            <lt4:locationName>Farnborough North</lt4:locationName>
+            <lt4:crs>FNN</lt4:crs>
+            <lt4:platformAvailable>true</lt4:platformAvailable>
+            <lt7:departures>
+               <lt7:destination crs="RDG">
+                  <lt7:service>
+                     <lt4:sta>10:32</lt4:sta>
+                     <lt4:eta>10:38</lt4:eta>
+                     <lt4:std>10:32</lt4:std>
+                     <lt4:etd>10:39</lt4:etd>
+                     <lt4:platform>2</lt4:platform>
+                     <lt4:operator>Great Western Railway</lt4:operator>
+                     <lt4:operatorCode>GW</lt4:operatorCode>
+                     <lt4:serviceType>train</lt4:serviceType>
+                     <lt4:serviceID>lPccCu5bNMZDUL5W9lyklg==</lt4:serviceID>
+                     <lt5:rsid>GW521500</lt5:rsid>
+                     <lt5:origin>
+                        <lt4:location>
+                           <lt4:locationName>Redhill</lt4:locationName>
+                           <lt4:crs>RDH</lt4:crs>
+                        </lt4:location>
+                     </lt5:origin>
+                     <lt5:destination>
+                        <lt4:location>
+                           <lt4:locationName>Reading</lt4:locationName>
+                           <lt4:crs>RDG</lt4:crs>
+                        </lt4:location>
+                     </lt5:destination>
+                     <lt7:subsequentCallingPoints>
+                        <lt7:callingPointList>
+                           <lt7:callingPoint>
+                              <lt7:locationName>Blackwater</lt7:locationName>
+                              <lt7:crs>BAW</lt7:crs>
+                              <lt7:st>10:36</lt7:st>
+                              <lt7:et>10:42</lt7:et>
+                           </lt7:callingPoint>
+                           <lt7:callingPoint>
+                              <lt7:locationName>Sandhurst</lt7:locationName>
+                              <lt7:crs>SND</lt7:crs>
+                              <lt7:st>10:40</lt7:st>
+                              <lt7:et>10:46</lt7:et>
+                           </lt7:callingPoint>
+                           <lt7:callingPoint>
+                              <lt7:locationName>Crowthorne</lt7:locationName>
+                              <lt7:crs>CRN</lt7:crs>
+                              <lt7:st>10:44</lt7:st>
+                              <lt7:et>10:49</lt7:et>
+                           </lt7:callingPoint>
+                           <lt7:callingPoint>
+                              <lt7:locationName>Wokingham</lt7:locationName>
+                              <lt7:crs>WKM</lt7:crs>
+                              <lt7:st>10:49</lt7:st>
+                              <lt7:et>10:54</lt7:et>
+                           </lt7:callingPoint>
+                           <lt7:callingPoint>
+                              <lt7:locationName>Reading</lt7:locationName>
+                              <lt7:crs>RDG</lt7:crs>
+                              <lt7:st>10:58</lt7:st>
+                              <lt7:et>11:03</lt7:et>
+                           </lt7:callingPoint>
+                        </lt7:callingPointList>
+                     </lt7:subsequentCallingPoints>
+                  </lt7:service>
+               </lt7:destination>
+            </lt7:departures>
+         </DeparturesBoard>
+      </GetNextDeparturesWithDetailsResponse>
+   </soap:Body>
+</soap:Envelope>
