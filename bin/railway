@@ -6,19 +6,4 @@ require_relative '../lib/railway'
 token = ENV['LDBWS_TOKEN']
 abort 'Please set your $LDBWS_TOKEN environment variable' unless token
 
-begin
-  railway = Railway.new(ldbws: { token: token })
-  case ARGV[0].downcase
-  when 'departures', 'dprt'
-    Railway::CLI::Departures.print(railway, ARGV[1].upcase)
-  when 'arrivals', 'arvl'
-    Railway::CLI::Arrivals.print(railway, ARGV[1].upcase)
-  else
-    puts "Unrecognised command: #{ARGV[0]}"
-  end
-rescue Railway::LDBWSError => e
-  puts e.backtrace.first
-  puts e.message
-  puts e.request
-  puts e.response
-end
+Railway::CLI::Controller.handle(token, ARGV)

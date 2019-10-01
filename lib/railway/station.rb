@@ -26,6 +26,8 @@ class Railway
     # Returns the station name for the provided CRS code
     def name(crs)
       @stations[crs][:name]
+    rescue StandardError
+      nil
     end
 
     # Returns all stations

@@ -2,10 +2,8 @@
 
 class Railway
   class RailwayError < StandardError; end
-  class LDBWSError < RailwayError; end
-
-  # Stores request and response in the case of a SOAP fault
-  class SoapFault < LDBWSError
+  # Stores request and response if relevant
+  class LDBWSError < RailwayError
     attr_reader :request, :response
 
     def initialize(message, request = nil, response = nil)
@@ -14,4 +12,6 @@ class Railway
       super(message)
     end
   end
+
+  class SoapFault < LDBWSError; end
 end
