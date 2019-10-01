@@ -21,7 +21,7 @@ SimpleCov.start do
 end
 
 # Test helpers
-require_relative 'support/open_ldbws_dummy'
+require_relative 'support/ldbws_dummy'
 require_relative 'support/helpers'
 
 # The code
@@ -34,7 +34,7 @@ WebMock.disable_net_connect!(allow_localhost: true)
 RSpec.configure do |config|
   config.before do
     # Send cricinfo requests to my dummy CricInfo
-    stub_request(:any, /nationalrail.co.uk/).to_rack(OpenLdbwsDummy)
+    stub_request(:any, /nationalrail.co.uk/).to_rack(LDBWSDummy)
   end
 
   config.expect_with :rspec do |expectations|

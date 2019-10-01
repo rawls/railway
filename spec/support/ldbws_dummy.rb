@@ -3,8 +3,8 @@
 require 'sinatra/base'
 require 'nokogiri'
 
-class OpenLdbwsDummy < Sinatra::Base
-  FIXTURE_FOLDER = File.dirname(__FILE__) + '/../fixtures/open_ldbws/'
+class LDBWSDummy < Sinatra::Base
+  FIXTURE_FOLDER = File.dirname(__FILE__) + '/../fixtures/ldbws/'
 
   post '/OpenLDBWS/ldb11.asmx' do
     content_type(:xml)
@@ -15,7 +15,7 @@ class OpenLdbwsDummy < Sinatra::Base
     crs = xml.xpath('//crs').first.text
     File.open(FIXTURE_FOLDER + "/#{action}/#{crs}/response.xml", 'rb').read
   rescue StandardError => e
-    STDOUT.puts "OpenLdbws Dummy Error: #{e.class} - #{e.message} (#{e.backtrace.first})"
+    STDOUT.puts "LDBWS Dummy Error: #{e.class} - #{e.message} (#{e.backtrace.first})"
     status 404
     'Test not found'
   end
