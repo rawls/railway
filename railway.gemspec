@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email       = 'mail@willbrown.name'
   spec.homepage    = 'https://www.github.com/rawls/railway'
   spec.license     = 'MIT'
-  spec.files       = Dir['{bin,lib}/**/*', 'LICENSE', 'README.md']
+  spec.files       = Dir['{bin,lib,config}/**/*', 'LICENSE', 'README.md']
   spec.test_files  = Dir['spec/**/*']
   spec.executables << 'railway'
   spec.add_runtime_dependency     'nokogiri',      '~> 1.10'
