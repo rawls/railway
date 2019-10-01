@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require_relative 'railway/version'
 require_relative 'railway/errors'
 require_relative 'railway/station'
 require_relative 'railway/ldbws'

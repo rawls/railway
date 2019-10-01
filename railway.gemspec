@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
+require_relative 'lib/railway'
+
 Gem::Specification.new do |spec|
   spec.name        = 'railway'
-  spec.version     = '0.0.1'
+  spec.version     = Railway::VERSION
   spec.date        = '2019-10-01'
   spec.summary     = 'British Train Information'
   spec.description = 'British Train Information'
