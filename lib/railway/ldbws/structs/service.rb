@@ -21,7 +21,7 @@ class Railway
               operator: service.xpath('./operatorCode').text,
               service_type: service.xpath('serviceType').text,
               platform: service.xpath('./platform').text,
-              calling_points: CallingPoint.from_xml(service.xpath('.//callingPointList')))
+              calling_points: CallingPoint.parse_xml(service.xpath('.//callingPointList')))
         end
 
         def initialize(opts = {})
@@ -35,7 +35,32 @@ class Railway
           @operator_name    = opts[:operator_name]
           @service_type     = opts[:service_type]
           @platform         = opts[:platform]
-          @calling_points   = opts[:calling_points]
+          @calling_points   = opts[:calling_points].map { |cp| CallingPoint.new(cp) }
+        end
+
+        def to_h
+          {
+            origin_name: @origin_name,
+            origin: @origin,
+            destination_name: @destination_name,
+            destination: @destination,
+            st: @st,
+            et: @et,
+            operator: @operator,
+            operator_name: @operator_name,
+            service_type: @service_type,
+            platform: @platform,
+            calling_points: @calling_points.map(&:to_h)
+          }
+        end
+
+        def ==(other)
+          other.class == self.class && other.to_h == to_h
+        end
+        alias eql? ==
+
+        def hash
+          to_h.hash
         end
       end
     end
