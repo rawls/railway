@@ -80,7 +80,7 @@ describe Railway::CLI::Controller do
       let(:args) { ['foobar'] }
 
       it 'aborts' do
-        expect { result }.to raise_error(SystemExit)
+        expect { expect { result }.to raise_error(SystemExit) }.to output("Unrecognised command: foobar\n").to_stderr
       end
     end
   end
