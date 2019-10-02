@@ -26,7 +26,7 @@ class Railway
 
       def initialize(opts = {})
         @log      = opts[:logging] == true ? Logger.new(STDOUT) : Logger.new(nil)
-        @token    = opts[:token] || raise(OpenLdbwsError, 'Please specify an access :token')
+        @token    = opts[:token] || raise(LDBWSError, 'Please specify an access :token')
         @endpoint = URI.parse(opts[:endpoint] || DEFAULT_ENDPOINT)
         @timeout  = opts[:timeout] || DEFAULT_TIMEOUT
       end
