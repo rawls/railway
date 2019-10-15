@@ -67,6 +67,17 @@ class Railway
         departures
       end
 
+      def service_details(service_id)
+        name   = 'GetServiceDetails'
+        action = ACTIONS[name]
+        body   = soap_envelope(@token) do |xml|
+          xml['ldb'].send("#{name}Request") { xml['ldb'].serviceID(service_id) }
+        end
+        response    = send_request(action, body)
+        #service_xml = response.xpath("/Envelope/Body/#{name}Response/GetServiceDetailsResult")
+        #service     = Structs::Service.from_xml(service_xml) # TODO: FIXME
+      end
+
       private
 
       # Many of the API requests follow a similar structure. You send the same set of params and receive a station board

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+  <Body>
+    <GetServiceDetailsResponse>
+      <GetServiceDetailsResult>
+        <generatedAt>2019-10-10T16:45:15.0160852+01:00</generatedAt>
+        <serviceType>train</serviceType>
+        <locationName>Farnborough (Main)</locationName>
+        <crs>FNB</crs>
+        <operator>South Western Railway</operator>
+        <operatorCode>SW</operatorCode>
+        <delayReason>This train has been delayed by a broken down train earlier today</delayReason>
+        <platform>1</platform>
+        <sta>16:45</sta>
+        <eta>16:50</eta>
+        <std>16:46</std>
+        <etd>16:51</etd>
+        <previousCallingPoints>
+          <callingPointList>
+            <callingPoint>
+              <locationName>Basingstoke</locationName>
+              <crs>BSK</crs>
+              <st>16:24</st>
+              <at>No report</at>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Hook</locationName>
+              <crs>HOK</crs>
+              <st>16:31</st>
+              <at>16:37</at>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Winchfield</locationName>
+              <crs>WNF</crs>
+              <st>16:35</st>
+              <at>16:40</at>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Fleet</locationName>
+              <crs>FLE</crs>
+              <st>16:40</st>
+              <et>16:45</et>
+            </callingPoint>
+          </callingPointList>
+        </previousCallingPoints>
+        <subsequentCallingPoints>
+          <callingPointList>
+            <callingPoint>
+              <locationName>Brookwood</locationName>
+              <crs>BKO</crs>
+              <st>16:53</st>
+              <et>16:57</et>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Woking</locationName>
+              <crs>WOK</crs>
+              <st>16:58</st>
+              <et>17:02</et>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Weybridge</locationName>
+              <crs>WYB</crs>
+              <st>17:05</st>
+              <et>17:09</et>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Walton-on-Thames</locationName>
+              <crs>WAL</crs>
+              <st>17:09</st>
+              <et>17:13</et>
+            </callingPoint>
+            <callingPoint>
+              <locationName>Surbiton</locationName>
+              <crs>SUR</crs>
+              <st>17:16</st>
+              <et>17:19</et>
+            </callingPoint>
+            <callingPoint>
+              <locationName>London Waterloo</locationName>
+              <crs>WAT</crs>
+              <st>17:36</st>
+              <et>On time</et>
+            </callingPoint>
+          </callingPointList>
+        </subsequentCallingPoints>
+      </GetServiceDetailsResult>
+    </GetServiceDetailsResponse>
+  </Body>
+</Envelope>
