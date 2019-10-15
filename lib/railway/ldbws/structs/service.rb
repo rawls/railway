@@ -6,7 +6,7 @@ class Railway
       # Represents a railway service (departure or arrival)
       class Service
         attr_reader :origin, :origin_name, :destination, :destination_name, :st, :et, :operator, :operator_name
-        attr_reader :service_type, :platform, :calling_points
+        attr_reader :service_type, :platform, :calling_points, :service_id
 
         # TODO: Parse times into Datetime objects (many ETDs are Strings like 'On time' or 'Cancelled')
 
@@ -21,6 +21,7 @@ class Railway
               operator: service.xpath('./operatorCode').text,
               service_type: service.xpath('serviceType').text,
               platform: service.xpath('./platform').text,
+              service_id: service.xpath('./serviceID').text,
               calling_points: CallingPoint.parse_xml(service.xpath('.//callingPointList')))
         end
 
@@ -35,6 +36,7 @@ class Railway
           @operator_name    = opts[:operator_name]
           @service_type     = opts[:service_type]
           @platform         = opts[:platform]
+          @service_id       = opts[:service_id]
           @calling_points   = opts[:calling_points].map { |cp| CallingPoint.new(cp) }
         end
 
@@ -50,6 +52,7 @@ class Railway
             operator_name: @operator_name,
             service_type: @service_type,
             platform: @platform,
+            service_id: @service_id,
             calling_points: @calling_points.map(&:to_h)
           }
         end

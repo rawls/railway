@@ -14,6 +14,7 @@ describe Railway::LDBWS::Structs::Service do
       operator_name: 'Northern',
       service_type: 'train',
       platform: '5B',
+      service_id: 'ABC-123',
       calling_points: [
         { station: 'GSY', station_name: 'Guiseley', st: '10:14', et: 'On time', length: 4 },
         { station: 'MNN', station_name: 'Menston', st: '10:18', et: 'On time', length: 4 },
